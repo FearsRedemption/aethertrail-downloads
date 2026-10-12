@@ -1,8 +1,8 @@
 # Aethertrail test downloads
 
-[Download v0.6.0 — item artwork and visual refresh](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.6.0-preview)
+[Download v0.6.1 — item artwork and visual refresh](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.6.1-preview)
 
-Download **Aethertrail-Windows-x64-v0.6.0-preview.zip**, extract the whole ZIP and run **Aethertrail.exe**. Windows 10/11 x64; no Python or IDE needed. Anyone can download without source-repository access. This is an unsigned testing preview.
+Download **Aethertrail-Windows-x64-v0.6.1-preview.zip**, extract the whole ZIP and run **Aethertrail.exe**. Windows 10/11 x64; no Python or IDE needed. Anyone can download without source-repository access. This is an unsigned testing preview.
 
 Aethertrail includes an interactive navigation map, native recipe/crafting-item catalogs, material planning, checklists, personal countdowns, a saved server schedule library, display scaling and preview update checks. The refreshed interface includes original navigation glyphs and exact catalog-linked images for all 454 crafting item IDs, with artwork attribution and source/hash records.
 
