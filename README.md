@@ -1,8 +1,8 @@
 # Aethertrail test downloads
 
-[Download v0.7.4 — automatic updates and workspace polish](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.7.4-preview)
+[Download v0.7.5 — navigation and character progress preview](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.7.5-preview)
 
-Download **Aethertrail-Windows-x64-v0.7.4-preview.zip**, extract the whole ZIP and run **Aethertrail.exe**. Windows 10/11 x64; no Python or IDE needed. Anyone can download without source access. Unsigned testing preview.
+Download **Aethertrail-Windows-x64-v0.7.5-preview.zip**, extract the whole ZIP and run **Aethertrail.exe**. Windows 10/11 x64; no Python or IDE needed. Anyone can download without source access. Unsigned testing preview.
 
 Updates can now download, verify and install the newest preview in the same folder, then relaunch. Your settings and plans are preserved and a rollback backup is retained. Builds through v0.7.1 need one manual installation to gain automatic updating.
 
@@ -12,4 +12,4 @@ Navigation uses the full-width hosted map with its own menus. The redesigned sla
 
 [Tester guide](TESTER_GUIDE.md) · [All releases](https://github.com/FearsRedemption/aethertrail-downloads/releases) · [Report a problem](https://github.com/FearsRedemption/aethertrail-downloads/issues)
 
-Live player arrows, live inventory and invite-room sharing remain unfinished. Source stays private. GitHub's Source code archive contains this downloads repository's documents, not the application. Exact game item images include attribution and source/hash records.
+Experimental live dot tracking, full-map Kibelisk progress sync and character profiles are included. Initial calibrated local game-map references are required for tracking and are not bundled. Tracking coverage and icon detection still need further gameplay verification. Visible Kibelisk completed/incomplete rows can sync existing progress; off-screen points are unchanged. Live player arrows, live inventory and invite-room sharing remain unfinished. Source stays private. GitHub's Source code archive contains this downloads repository's documents, not the application. Exact game item images include attribution and source/hash records.

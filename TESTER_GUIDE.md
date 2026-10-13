@@ -2,7 +2,7 @@
 
 Download: https://github.com/FearsRedemption/aethertrail-downloads/releases
 
-Choose **Aethertrail-Windows-x64-v0.7.4-preview.zip** under Assets, not GitHub's Source code archive. Extract the complete ZIP into a folder and run **Aethertrail.exe**. Keep `_internal`, `licenses` and the included scripts beside it. Windows 10/11 x64; no Python, PyCharm or Rider needed. This preview is unsigned. The app opens maximized; use Maximize / restore, F11 / Escape and the saved UI scale control to adjust the display. Internet is needed for the hosted map; OCR models are bundled and run locally.
+Choose **Aethertrail-Windows-x64-v0.7.5-preview.zip** under Assets, not GitHub's Source code archive. Extract the complete ZIP into a folder and run **Aethertrail.exe**. Keep `_internal`, `licenses` and the included scripts beside it. Windows 10/11 x64; no Python, PyCharm or Rider needed. This preview is unsigned. The app opens maximized; use Maximize / restore, F11 / Escape and the saved UI scale control to adjust the display. Internet is needed for the hosted map; OCR models are bundled and run locally.
 
 The map site's first-run faction prompt lets you choose your side or “Not sure yet? Just show me the map”. Test zoom/pan, Maps menu, search and layers. Under Location label setup, choose the game monitor and drag around only the text above the minimap. Preview, save and Start area capture. Dawn Legion Base selects Verteron. Other map names or configured aliases can select dungeon/region routes after repeated confident readings. Unknown labels keep the current map. Stop area capture pauses capture. No automatic start on launch. Use the hosted Maps menu to browse. Browsing away pauses Follow detected area while capture stays active; check Follow detected area to return to your detected area. Reload and Open in browser are under Map tools.
 
@@ -41,6 +41,8 @@ Open an issue at https://github.com/FearsRedemption/aethertrail-downloads/issues
 
 ## Verify the download
 
-Download SHA256SUMS.txt from the same release. Run `Get-FileHash .\Aethertrail-Windows-x64-v0.7.4-preview.zip -Algorithm SHA256` and compare with the matching line. A checksum detects corruption; it is not a code signature.
+Download SHA256SUMS.txt from the same release. Run `Get-FileHash .\Aethertrail-Windows-x64-v0.7.5-preview.zip -Algorithm SHA256` and compare with the matching line. A checksum detects corruption; it is not a code signature.
 
 The app is unofficial and is not endorsed by NCSOFT or Aion2Maps.com. Exact catalog-linked game item icons are bundled for offline use, with NC Corporation attribution and per-image source/hash records. No website source is bundled. Aethertrail captures configured screen pixels, with no memory reads, injection or gameplay input automation. Source remains private; this public repository hosts test binaries, documentation and issue reports. Third-party notices and library replacement/source information are included under licenses.
+
+Character progress: use Navigation's Character selector and add a separate profile before switching characters. Open the game's Kibelisk list to sync visible completed/incomplete rows. Only visible readable evidence changes progress; scroll the list yourself to expose more points. Initial calibrated local terrain references and private visual templates are required for experimental tracking/icon sync and are not shipped with this download. Relative terrain tracking expires after 20 seconds without a map match. See release notes for verified behavior and remaining gameplay checks.
