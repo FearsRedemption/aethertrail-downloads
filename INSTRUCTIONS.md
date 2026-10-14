@@ -32,7 +32,7 @@ The toolbar holds your character progress profile, **Start location reading**, *
 
 Use **Map tools → Reload map** for a failed load, or **Open in browser** to view the site externally. Other Map tools expose character progress, character creation, tracking help, location-label configuration and experimental tracking. They do not require a second map-selector sidebar.
 
-Select the correct character profile before reviewing or marking progress. Use **Map tools → Add character** to create a separate profile. Cached map/progress data is separated by character. A detected game character is linked only after you choose or confirm the corresponding profile.
+Select the correct character profile before reviewing or marking progress. Use **Map tools → Add character** to create a separate profile. Cached map/progress data is separated by character. A detected game character automatically gets a separate linked profile, which is selected on Navigation. Existing manual profiles are preserved; Advanced diagnostics can link to an existing profile if you explicitly choose that.
 
 ## 4. Start screen location reading
 
@@ -43,19 +43,19 @@ Select the correct character profile before reviewing or marking progress. Use *
 5. Confirm **Start reading**. Cancel leaves reading stopped. The app uses a local screenshot and does not send controls to the game.
 6. Watch the reader and location status. Repeated confident title readings identify a supported area before switching the map.
 
-Click Capture screenshot and switch to Aion during the three-second countdown, then return to select the crops. Capture runs in a separate helper with a 15-second timeout. The title strip may be as short as 8 pixels; minimap terrain must be at least 32 by 32. Errors appear inline and Cancel stays available. Keep the game visible. Select again after changing monitors, game resolution, HUD layout or window size. Starting/resuming asks you to confirm the crops again. **Pause location reading** stops that session.
+Click Capture screenshot and switch to Aion during the three-second countdown, then return to select the crops. Capture runs in a separate helper with a 15-second timeout. The title strip may be as short as 8 pixels; minimap terrain must be at least 32 by 32. Errors appear inline and Cancel stays available. Keep the game visible. Select again after changing monitors, game resolution, HUD layout or window size. Select these boxes once: Start reuses them after stopping or restarting. If reading was running when you closed the app, it resumes automatically with the saved setup. Stop keeps the boxes and prevents automatic resume. Use **Map tools → Redo minimap and title setup** or **Settings → Location → Redo minimap and title setup** if the game layout changes. The last confirmed region/subarea opens as last known; a fresh reading is required for live tracking.
 
 **Fit screenshot** returns to the full screenshot without clearing your boxes. Zooming and panning change only the view: both saved crops stay in original screen pixels, so tracking uses the same terrain/title areas you selected. The terrain and title buttons let you redraw either box; changing the terrain requires selecting the title again.
 
 Keep **Follow detected area** checked to follow confirmed regions and supported dungeon routes. Choosing another map pauses following, allowing you to browse freely. Check it again to return to the detected area. Unknown, obscured or unsupported titles keep the current map; they do not trigger a guessed switch.
 
-**Settings → Location** holds the Game HUD mode and advanced label configuration. Auto HUD mode, manual label crops and Off are available. The ordinary Start workflow guides crop selection rather than requiring numeric pixel coordinates. Advanced aliases allow alternate/localized names; use them only when you know which map a label belongs to.
+**Settings → Location** holds the Game HUD mode and the explicit Redo setup control. Auto HUD mode, manual label crops and Off are available. The ordinary Start workflow guides crop selection rather than requiring numeric pixel coordinates. Advanced aliases allow alternate/localized names; use them only when you know which map a label belongs to.
 
 ## 5. Understand the location marker
 
 An **area outline** means the named geographic area is known. It is not an exact player coordinate. A **position dot** needs fresh, validated position evidence, such as a sufficiently confident match to a calibrated terrain reference. A **question mark** means the location evidence is missing, stale or too uncertain. Paused reading uses a steady unknown indicator. A stale coordinate is removed rather than shown as if current.
 
-Minimap-title OCR alone cannot tell where you stand inside a region. Experimental terrain tracking requires calibrated references and has limited coverage. Use **Map tools → Tracking setup and help** for the guided explanation, or **Settings → Advanced → Minimap tracking setup** for experimental setup. Confirm the right game monitor, minimap crop and reference calibration before trusting a position match. If the status reports low confidence or missing references, use area-following until better evidence is available.
+Minimap-title OCR alone cannot tell where you stand inside a region. Starting location reading also enables the existing terrain and visible-progress reader with the saved minimap setup. Experimental terrain tracking requires calibrated references and has limited coverage. Use **Map tools → Tracking setup and help** for the guided explanation, or **Settings → Advanced → Minimap tracking setup** for experimental setup. Confirm the right game monitor, minimap crop and reference calibration before trusting a position match. If the status reports low confidence or missing references, use area-following until better evidence is available.
 
 **Positioning Lab** is an advanced testing workspace. Its simulated/manual positions and synthetic maps are labelled fixtures. They do not prove a live position on the hosted game map. Do not confuse a test marker with live player tracking.
 
@@ -71,7 +71,7 @@ Connection **Auto** observes the exact supported AION 2 process when the driver 
 
 Verified Global Steam login observations can populate character identity, pet ownership, levels and soul points. Enter the world/relog to refresh supported login information. Live soul gains, claim eligibility, continuous map position and automatic feather identification remain unverified. Unknown information stays unknown.
 
-If a link-character dialog appears, select the intended existing profile or create a separate one. Cancel if the identity is wrong. Do not link different characters to the same profile just to suppress the prompt.
+**To load or refresh character/pet data:** leave AetherTrail open with **Settings → Connection → Auto**, return to AION’s character selection, then enter the character you want to sync. Restarting only AetherTrail while already in the world will not replay login messages. A separate profile is created and selected automatically when identity arrives. Repeat world entry after switching characters or to refresh pets. No recording or reference import is required for supported login data. Connection shows whether it is waiting for traffic, waiting for character data, or has imported pets.
 
 **Record 60-second game diagnostic** is an optional troubleshooting tool. It requires a usable game connection and explicit confirmation. Choose a private folder. The bounded recording may contain character names, chat and session information; it is not uploaded automatically. Use Stop recording to finish early. **Export connection summary** produces a reduced diagnostic summary without raw packet contents or character identifiers. Importing verified reference catalogs and reviewing corrections are advanced functions, not requirements for normal navigation.
 
@@ -79,7 +79,7 @@ If a link-character dialog appears, select the intended existing profile or crea
 
 **Pets** displays supported login pet observations for a linked character, with search/filter controls. Unseen pets remain unknown; a blank/unknown row is not proof you lack the pet. Claim eligibility is not verified. Relog into the world to refresh login-derived ownership and levels.
 
-**Regions** reviews saved regional checklists and map marks, including offline. Visit a region in Navigation to load it initially; refresh the current map to update its saved snapshot. Select the intended character and region. Manual marks are stored per character/region. Saved positive observations can be shown as last known; stale absence is not proof of missing progress.
+**Regions** reviews saved regional checklists and map marks, including offline. Use the same character-selection/world-entry step above to select the correct linked character. Login currently imports pets, not a full collectible checklist. Visible game-map completion evidence is synced automatically while location reading is running; unknown/missing evidence never becomes an invented completion mark. Visit a region in Navigation to load it initially; refresh the current map to update its saved snapshot. Select the intended character and region. Manual marks are stored per character/region. Saved positive observations can be shown as last known; stale absence is not proof of missing progress.
 
 **Map tools → Character progress** expands the optional progress panel. Search and category/state filters help review linked observations and references. The collapsed panel does not occupy a separate Navigation row. Verified corrections can change completion marks while preserving manual notes. A hosted-site mark and a verified game observation may have different evidence; inspect the source/status rather than assuming everything is live inventory.
 

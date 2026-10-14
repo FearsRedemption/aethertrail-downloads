@@ -2,7 +2,7 @@
 
 Download: https://github.com/FearsRedemption/aethertrail-downloads/releases
 
-This hotfix is supplied as **Aethertrail-Windows-x64-v0.8.18-preview.zip**. Extract the entire ZIP into a dedicated folder and run Aethertrail.exe with its runtime and licenses beside it. Existing installations can choose Download update & restart from Settings -> Updates after the release is published. Installation remains the user's choice. Windows 10/11 x64; no Python or IDE is needed. The app opens maximized. Internet is required for the hosted map; OCR runs locally. The 0.8.15 normal Windows installer remains available separately; no new Setup executable accompanies this hotfix.
+This hotfix is supplied as **Aethertrail-Windows-x64-v0.8.19-preview.zip**. Extract the entire ZIP into a dedicated folder and run Aethertrail.exe with its runtime and licenses beside it. Existing installations can choose Download update & restart from Settings -> Updates after the release is published. Installation remains the user's choice. Windows 10/11 x64; no Python or IDE is needed. The app opens maximized. Internet is required for the hosted map; OCR runs locally. The 0.8.15 normal Windows installer remains available separately; no new Setup executable accompanies this hotfix.
 
 Navigation keeps its controls together and wraps them when larger text needs more room. Character progress and Tracking setup and help are in Map tools. The capture helper is built into Aethertrail; Npcap is a separate driver, linked from Settings → Connection. No Wireshark/helper app needs to run. Npcap is not needed for screen area reading. Continuous network player position remains unverified and disabled.
 
@@ -59,7 +59,7 @@ Settings -> Connection -> Record 60-second game diagnostic. Recordings now follo
 
 ## Automatic login pet progress (v0.8.9)
 
-With Auto enabled, the Global Steam client sends your identity and pet list when you enter the world. After starting this version, return to character selection and enter the same character. Confirm the first profile link in Aethertrail, then open Pets in the sidebar. Ownership, levels and explicit soul points appear with readable names and search/filter controls. Values reflect the last login; relog to refresh them. Missing fields stay unknown. Live soul gains, claim eligibility, feathers and map position remain unavailable. Other client distributions continue connection diagnostics without this decoder. Raw diagnostics remain private.
+With Auto enabled, the Global Steam client sends your identity and pet list when you enter the world. After starting this version, return to character selection and enter the same character. The app automatically creates/selects a separate character profile; then open Pets. Restarting only AetherTrail while already in the world does not replay login data. Ownership, levels and explicit soul points appear with readable names and search/filter controls. Values reflect the last login; relog to refresh them. Missing fields stay unknown. Live soul gains, claim eligibility, feathers and map position remain unavailable. Other client distributions continue connection diagnostics without this decoder. Raw diagnostics remain private.
 
 ## Pets and regional progress
 
@@ -69,7 +69,7 @@ With Auto enabled, the Global Steam client sends your identity and pet list when
 
 ## Location capture setup (v0.8.9 and later)
 
-Click Start location reading to choose the game monitor, minimap terrain and current-location title. Each new start/resume asks for those crops; cancel leaves reading stopped. This preserves the v0.8.9 workflow. Saved crops remain available for advanced tools, and Off persists. Automatic HUD discovery remains an advanced detector and does not require Npcap, but it does not silently start a capture session on launch.
+Click Start location reading to choose the game monitor, minimap terrain and current-location title. This is a one-time setup: later starts reuse both saved boxes. Reading resumes after restart if it was running at close; Stop keeps setup and prevents resume. Use Map tools or Settings → Location → Redo minimap and title setup after a layout change. Location reading also starts experimental terrain/visible-progress tracking. Last known regions are restored without treating old positions as live. Off persists.
 
 Fresh title evidence selects regions and supported dungeons; it does not establish precise coordinates. Terrain dots require calibrated local references. Unknown titles and expired frames remove current-location evidence. Exact feather IDs, historical ownership, live pet soul changes and claim eligibility remain unverified.
 
@@ -98,6 +98,12 @@ The position/area/expiry UI passed isolated native fixtures. Real exact-position
 Startup update prompts are enabled by default. A newer release offers Yes, No, or Disable startup notifications. Yes starts the verified download and restart; No leaves the app open. Disabling this prompt only changes the startup-popup preference; scheduled checks and the Settings dot remain available. Re-enable it in Settings → Updates.
 
 
-## Screenshot controls and update guidance (v0.8.18)
+## Screenshot controls and update guidance (v0.8.19)
 
 Use the mouse wheel to zoom a screenshot, hold middle mouse and drag to pan, and left-drag to draw terrain/title boxes. Fit screenshot returns to the full image without clearing boxes. Saved crops remain in original physical pixels, including after zoom/pan and window resizing. A newly found update sends a brief golden sparkle trail down the sidebar toward Settings; opening Settings stops the trail and preserves the update dot. Checks never install automatically.
+
+## Automatic character and map setup (v0.8.19)
+
+Keep AetherTrail open on Connection → Auto, return to AION character selection and enter the desired character to receive identity and supported pet data. The app automatically creates/selects a separate profile. Restarting the companion alone cannot replay a login snapshot. Connection, Pets and Regions explain this step. Advanced packet recording/reference imports are troubleshooting tools, not normal setup.
+
+Verified completion evidence syncs to the linked character’s Navigation map. Existing screen-based teleport/icon sync starts with location reading and still needs calibrated visual references. Network collectible completion remains unavailable; login pets do not establish map completion. Cached positive network marks can be restored for that same linked character when an exact verified mapping exists, while old absence cannot clear newer progress.
