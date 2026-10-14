@@ -2,9 +2,9 @@
 
 Download: https://github.com/FearsRedemption/aethertrail-downloads/releases
 
-Choose **Aethertrail-Windows-x64-v0.8.8-preview.zip** under Assets, not GitHub's Source code archive. Extract the complete ZIP into a folder and run **Aethertrail.exe**. Keep `_internal`, `licenses` and the included scripts beside it. Windows 10/11 x64; no Python, PyCharm or Rider needed. This preview is unsigned. The app opens maximized; use Settings for Maximize / restore and UI scale, or F11 / Escape to adjust the display. Internet is needed for the hosted map; OCR models are bundled and run locally.
+Choose **Aethertrail-Windows-x64-v0.8.9-preview.zip** under Assets, not GitHub's Source code archive. Extract the complete ZIP into a folder and run **Aethertrail.exe**. Keep `_internal`, `licenses` and the included scripts beside it. Windows 10/11 x64; no Python, PyCharm or Rider needed. This preview is unsigned. The app opens maximized; use Settings for Maximize / restore and UI scale, or F11 / Escape to adjust the display. Internet is needed for the hosted map; OCR models are bundled and run locally.
 
-The map site's first-run faction prompt lets you choose your side or “Not sure yet? Just show me the map”. Test zoom/pan, Maps menu, search and layers. Under Location label setup, choose the game monitor and drag around only the text above the minimap. Preview, save and Start area capture. Dawn Legion Base selects Verteron. Other map names or configured aliases can select dungeon/region routes after repeated confident readings. Unknown labels keep the current map. Stop area capture pauses capture. Manual label capture does not start automatically; Auto HUD mode starts on launch. Use the hosted Maps menu to browse. Browsing away pauses Follow detected area while capture stays active; check Follow detected area to return to your detected area. Reload and Open in browser are under Map tools.
+The map site's first-run faction prompt lets you choose your side or “Not sure yet? Just show me the map”. Click **Start location reading** and choose your game monitor. Drag around minimap terrain first, then only the current-location title above it. Cancel leaves reading stopped. Aethertrail temporarily hides its own windows for the local screenshot and sends no game input. The title selects regions and supported dungeon routes after repeated confident readings; dungeon entrance labels inside the terrain are excluded. Unknown titles keep the current map. Pause stops reading; starting again asks for the crops again. Reselect after moving or resizing the game. Browsing away pauses Follow detected area; check it to return to the detected location. Reload, Open in browser and advanced location setup are under Map tools. If Navigation flashes, select Compatibility (OpenGL) in Settings and restart.
 
 ## Self-tests
 
@@ -43,7 +43,7 @@ Open an issue at https://github.com/FearsRedemption/aethertrail-downloads/issues
 
 ## Verify the download
 
-Download SHA256SUMS.txt from the same release. Run `Get-FileHash .\Aethertrail-Windows-x64-v0.8.8-preview.zip -Algorithm SHA256` and compare with the matching line. A checksum detects corruption; it is not a code signature.
+Download SHA256SUMS.txt from the same release. Run `Get-FileHash .\Aethertrail-Windows-x64-v0.8.9-preview.zip -Algorithm SHA256` and compare with the matching line. A checksum detects corruption; it is not a code signature.
 
 The app is unofficial and is not endorsed by NCSOFT or Aion2Maps.com. Exact catalog-linked game item icons are bundled for offline use, with NC Corporation attribution and per-image source/hash records. No website source is bundled. Aethertrail captures configured screen pixels, with no memory reads, injection or gameplay input automation. Source remains private; this public repository hosts test binaries, documentation and issue reports. Third-party notices and library replacement/source information are included under licenses.
 
@@ -55,7 +55,7 @@ Game connection: Settings defaults to Auto. Installed usable Npcap starts game-o
 
 Settings -> Game connection -> Record 60-second game diagnostic. Recordings now follow socket changes for the same single AION 2 process, so you can return to character selection and enter the same character while recording. The time/size limit is preserved. Recording ends on game exit, process replacement or multiple game instances. Files stay private; only validated Global Steam identity/login pet observations are available. Endpoint discovery can miss the earliest traffic of a new socket.
 
-## Automatic login pet progress (v0.8.8)
+## Automatic login pet progress (v0.8.9)
 
 With Auto enabled, the Global Steam client sends your identity and pet list when you enter the world. After starting this version, return to character selection and enter the same character. Confirm the first profile link in Aethertrail, then open Pets in the sidebar. Ownership, levels and explicit soul points appear with readable names and search/filter controls. Values reflect the last login; relog to refresh them. Missing fields stay unknown. Live soul gains, claim eligibility, feathers and map position remain unavailable. Other client distributions continue connection diagnostics without this decoder. Raw diagnostics remain private.
 
@@ -78,7 +78,7 @@ Pets and Regions preserve unchanged rows during automatic polls. Location messag
 
 Existing recordings have not established continuous precise coordinates for your own character. A login placement and other entities' movement are insufficient for a live player dot. Automatic HUD discovery identifies the location strip and minimap crop; absolute terrain position still needs calibration.
 
-## Offline regional review (v0.8.8)
+## Offline regional review (v0.8.9)
 
 Open Regions to view previously loaded checklists while offline or after restarting. Each checklist and its map marks belong to the selected character profile and region. Visit a region on Navigation to load it the first time; Refresh current map updates its saved snapshot. Unchanged refreshes do not rewrite the cache.
 
