@@ -1,6 +1,8 @@
 # AetherTrail Windows previews
 
-[Download v0.8.15](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.8.15-preview)
+[Latest update: v0.8.16](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.8.16-preview)
+
+**Existing installations:** open **Settings → Updates → Check for updates**, then choose **Download update & restart** to install the v0.8.16 minimap selector fix. Checks only notify; the user starts installation. This hotfix is supplied as the updater-compatible ZIP and has no new Setup executable. It accepts thin title strips, reports selection errors inline and isolates screenshot capture with a timeout.
 
 Recommended: **AetherTrail-Setup-x64-v0.8.15-preview.exe**. Run Setup, choose your application folder and shortcuts, then install. Future Setup downloads remember the installed folder. The optional ZIP is for portable use and existing in-app updates. No Python or IDE is needed. This Windows 10/11 x64 preview is unsigned.
 

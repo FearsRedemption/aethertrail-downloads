@@ -41,7 +41,7 @@ Select the correct character profile before reviewing or marking progress. Use *
 5. Confirm **Start reading**. Cancel leaves reading stopped. The app uses a local screenshot and does not send controls to the game.
 6. Watch the reader and location status. Repeated confident title readings identify a supported area before switching the map.
 
-The app temporarily hides its own window for crop selection so it does not capture itself covering the game's HUD. Keep the game visible. Select again after changing monitors, game resolution, HUD layout or window size. Starting/resuming asks you to confirm the crops again. **Pause location reading** stops that session.
+Click Capture screenshot and switch to Aion during the three-second countdown, then return to select the crops. Capture runs in a separate helper with a 15-second timeout. The title strip may be as short as 8 pixels; minimap terrain must be at least 32 by 32. Errors appear inline and Cancel stays available. Keep the game visible. Select again after changing monitors, game resolution, HUD layout or window size. Starting/resuming asks you to confirm the crops again. **Pause location reading** stops that session.
 
 Keep **Follow detected area** checked to follow confirmed regions and supported dungeon routes. Choosing another map pauses following, allowing you to browse freely. Check it again to return to the detected area. Unknown, obscured or unsupported titles keep the current map; they do not trigger a guessed switch.
 
@@ -132,4 +132,3 @@ When reporting an issue, include your app version, affected page, UI scale/theme
 ## 13. What is still experimental
 
 Continuous player coordinates, reliable all-dungeon terrain coverage, live inventory/material tracking, automatic feather identification and party/invite-code location sharing are not complete. This guide will be revised when their actual implementation and verification change. Existing manual/offline tools remain useful independently of those features.
-
