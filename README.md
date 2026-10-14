@@ -1,8 +1,8 @@
 # AetherTrail Windows previews
 
-[Latest update: v0.8.17](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.8.17-preview)
+[Latest update: v0.8.18](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.8.18-preview)
 
-**Existing installations:** open **Settings → Updates → Check for updates**, then choose **Download update & restart**. Version 0.8.17 adds a brief golden sparkle trail toward Settings when an update is available, mouse-wheel zoom and middle-mouse dragging in the screenshot selector, plus a Fit screenshot button. Checks only notify; the user starts installation. This update is supplied as the updater-compatible ZIP and has no new Setup executable. Thin title strips, inline validation and isolated screenshot capture remain supported.
+**Existing installations:** open **Settings → Updates → Check for updates**, then choose **Download update & restart**. Version 0.8.18 fixes Npcap detection when AION starts an idle launcher parent and a connected game child. Separate or ambiguous clients remain blocked. Checks only notify; the user starts installation. This update is supplied as the updater-compatible ZIP and has no new Setup executable. Screenshot zoom/pan and golden update guidance remain included.
 
 Recommended: **AetherTrail-Setup-x64-v0.8.15-preview.exe**. Run Setup, choose your application folder and shortcuts, then install. Future Setup downloads remember the installed folder. The optional ZIP is for portable use and existing in-app updates. No Python or IDE is needed. This Windows 10/11 x64 preview is unsigned.
 

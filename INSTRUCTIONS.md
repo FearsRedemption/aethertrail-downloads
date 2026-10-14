@@ -65,6 +65,8 @@ Continuous network player coordinates and party/invite-code location sharing are
 
 The capture helper is **included inside AetherTrail**. You do not need Wireshark or another companion application running. Npcap is a separate Windows packet-capture **driver**. Install it only from its [official download page](https://npcap.com/#download), linked in **Settings → Connection**. It is not bundled. Screen-based area reading works without it.
 
+AION can run an idle launcher parent alongside its connected game process. AetherTrail recognizes that verified parent/child pair as one client. Separate or ambiguous clients remain blocked; no game process is closed.
+
 Connection **Auto** observes the exact supported AION 2 process when the driver and one usable game client are available. **Off** is saved between launches; **Pause** lasts for the current launch. Connection diagnostics show whether the driver, game process and transport are available. With no game running, waiting for a game connection is expected. The app does not install drivers automatically.
 
 Verified Global Steam login observations can populate character identity, pet ownership, levels and soul points. Enter the world/relog to refresh supported login information. Live soul gains, claim eligibility, continuous map position and automatic feather identification remain unverified. Unknown information stays unknown.
