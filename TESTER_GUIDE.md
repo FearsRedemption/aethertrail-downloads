@@ -1,8 +1,10 @@
-# Aethertrail preview testing
+# AetherTrail preview testing
 
 Download: https://github.com/FearsRedemption/aethertrail-downloads/releases
 
-Choose **Aethertrail-Windows-x64-v0.8.11-preview.zip** under Assets, not GitHub's Source code archive. Extract the complete ZIP into a folder and run **Aethertrail.exe**. Keep `_internal`, `licenses` and the included scripts beside it. Windows 10/11 x64; no Python, PyCharm or Rider needed. This preview is unsigned. The app opens maximized; use Settings for Maximize / restore and UI scale, or F11 / Escape to adjust the display. Internet is needed for the hosted map; OCR models are bundled and run locally.
+Choose **Aethertrail-Windows-x64-v0.8.14-preview.zip** under Assets, not GitHub's Source code archive. Extract the complete ZIP into a folder and run **Aethertrail.exe**. Keep `_internal`, `licenses` and the included scripts beside it. Windows 10/11 x64; no Python, PyCharm or Rider needed. This preview is unsigned. The app opens maximized; use Settings for Maximize / restore and UI scale, or F11 / Escape to adjust the display. Internet is needed for the hosted map; OCR models are bundled and run locally.
+
+Navigation keeps its controls together and wraps them when larger text needs more room. Character progress and Tracking setup and help are in Map tools. The capture helper is built into Aethertrail; Npcap is a separate driver, linked from Settings → Connection. No Wireshark/helper app needs to run. Npcap is not needed for screen area reading. Continuous network player position remains unverified and disabled.
 
 The map site's first-run faction prompt lets you choose your side or “Not sure yet? Just show me the map”. Click **Start location reading** and choose your game monitor. Drag around minimap terrain first, then only the current-location title above it. Cancel leaves reading stopped. Aethertrail temporarily hides its own windows for the local screenshot and sends no game input. The title selects regions and supported dungeon routes after repeated confident readings; dungeon entrance labels inside the terrain are excluded. Unknown titles keep the current map. Pause stops reading; starting again asks for the crops again. Reselect after moving or resizing the game. Browsing away pauses Follow detected area; check it to return to the detected location. Reload, Open in browser and advanced location setup are under Map tools. If Navigation flashes, select Compatibility (OpenGL) in Settings and restart.
 
