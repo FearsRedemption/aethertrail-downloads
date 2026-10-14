@@ -2,7 +2,9 @@
 
 Download: https://github.com/FearsRedemption/aethertrail-downloads/releases
 
-Choose **Aethertrail-Windows-x64-v0.8.14-preview.zip** under Assets, not GitHub's Source code archive. Extract the complete ZIP into a folder and run **Aethertrail.exe**. Keep `_internal`, `licenses` and the included scripts beside it. Windows 10/11 x64; no Python, PyCharm or Rider needed. This preview is unsigned. The app opens maximized; use Settings for Maximize / restore and UI scale, or F11 / Escape to adjust the display. Internet is needed for the hosted map; OCR models are bundled and run locally.
+Choose **AetherTrail-Setup-x64-v0.8.15-preview.exe** for normal installation. Run Setup, choose the application folder and shortcuts, and install. Later Setup downloads remember that folder and clean obsolete runtime files during upgrades. Use Windows Installed apps to uninstall; saved data is preserved. Setup does not force-close a running copy. Windows 10/11 x64; no Python, PyCharm or Rider needed. This preview is unsigned.
+
+The optional **Aethertrail-Windows-x64-v0.8.15-preview.zip** is a portable alternative: extract the complete ZIP into a dedicated folder and run Aethertrail.exe, keeping its runtime and licences together. The app opens maximized. Internet is required for the hosted map; OCR runs locally. Settings → Instructions contains the full searchable offline guide, including installation, updates and every workspace. The centered sidebar branding and Instructions are new in v0.8.15.
 
 Navigation keeps its controls together and wraps them when larger text needs more room. Character progress and Tracking setup and help are in Map tools. The capture helper is built into Aethertrail; Npcap is a separate driver, linked from Settings → Connection. No Wireshark/helper app needs to run. Npcap is not needed for screen area reading. Continuous network player position remains unverified and disabled.
 
