@@ -22,6 +22,8 @@ Open **Settings → Display** to choose Dark or Light theme, adjust UI scale, se
 
 If the map flashes or fails to render, try **Settings → Display → Map rendering → Compatibility (OpenGL)** and restart when convenient. You can switch back to the system default. Rendering behaviour can vary by graphics driver; changing the preference takes effect after restart.
 
+When a new update is found, a brief golden sparkle trail flows down the left sidebar toward **Settings**. Click Settings to view the available update; the trail stops and the update dot stays until availability clears. Repeated checks for the same version do not replay it. Turning off update notices in Settings -> Updates also turns off the trail. Downloading and restarting still require your choice.
+
 ## 3. Use the Navigation map
 
 Navigation embeds the existing [Aion2Maps.com](https://aion2maps.com/) interactive map. It needs internet access. The site's own menus handle faction selection, regions and dungeon maps, search, layers, collectable filters, zoom and collection controls. Follow its first-run faction prompt; the app does not duplicate those map menus.
@@ -36,12 +38,14 @@ Select the correct character profile before reviewing or marking progress. Use *
 
 1. Open AION 2, enter the world, and leave its minimap visible. This computer must have the game running for real screen reading.
 2. In Navigation, click **Start location reading**. Choose the monitor containing the game.
-3. Drag around the **minimap terrain**, excluding the title above it. The next step asks for the title.
-4. Drag around **only the current-location name above the minimap**, such as Dawn Legion Base. Exclude dungeon entrance labels inside the terrain, quest text and other HUD elements.
+3. Click **Capture screenshot**, switch to Aion during the three-second countdown, then return. Use the **mouse wheel to zoom**, **hold the middle mouse button and drag to pan**, and **left-drag to select** the minimap terrain, excluding its title.
+4. Zoom or pan again if needed, then left-drag around **only the current-location name above the minimap**, such as Dawn Legion Base. Exclude dungeon entrance labels inside the terrain, quest text and other HUD elements.
 5. Confirm **Start reading**. Cancel leaves reading stopped. The app uses a local screenshot and does not send controls to the game.
 6. Watch the reader and location status. Repeated confident title readings identify a supported area before switching the map.
 
 Click Capture screenshot and switch to Aion during the three-second countdown, then return to select the crops. Capture runs in a separate helper with a 15-second timeout. The title strip may be as short as 8 pixels; minimap terrain must be at least 32 by 32. Errors appear inline and Cancel stays available. Keep the game visible. Select again after changing monitors, game resolution, HUD layout or window size. Starting/resuming asks you to confirm the crops again. **Pause location reading** stops that session.
+
+**Fit screenshot** returns to the full screenshot without clearing your boxes. Zooming and panning change only the view: both saved crops stay in original screen pixels, so tracking uses the same terrain/title areas you selected. The terrain and title buttons let you redraw either box; changing the terrain requires selecting the title again.
 
 Keep **Follow detected area** checked to follow confirmed regions and supported dungeon routes. Choosing another map pauses following, allowing you to browse freely. Check it again to return to the detected area. Unknown, obscured or unsupported titles keep the current map; they do not trigger a guessed switch.
 
