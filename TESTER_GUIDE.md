@@ -2,7 +2,7 @@
 
 Download: https://github.com/FearsRedemption/aethertrail-downloads/releases
 
-Choose **Aethertrail-Windows-x64-v0.8.9-preview.zip** under Assets, not GitHub's Source code archive. Extract the complete ZIP into a folder and run **Aethertrail.exe**. Keep `_internal`, `licenses` and the included scripts beside it. Windows 10/11 x64; no Python, PyCharm or Rider needed. This preview is unsigned. The app opens maximized; use Settings for Maximize / restore and UI scale, or F11 / Escape to adjust the display. Internet is needed for the hosted map; OCR models are bundled and run locally.
+Choose **Aethertrail-Windows-x64-v0.8.11-preview.zip** under Assets, not GitHub's Source code archive. Extract the complete ZIP into a folder and run **Aethertrail.exe**. Keep `_internal`, `licenses` and the included scripts beside it. Windows 10/11 x64; no Python, PyCharm or Rider needed. This preview is unsigned. The app opens maximized; use Settings for Maximize / restore and UI scale, or F11 / Escape to adjust the display. Internet is needed for the hosted map; OCR models are bundled and run locally.
 
 The map site's first-run faction prompt lets you choose your side or “Not sure yet? Just show me the map”. Click **Start location reading** and choose your game monitor. Drag around minimap terrain first, then only the current-location title above it. Cancel leaves reading stopped. Aethertrail temporarily hides its own windows for the local screenshot and sends no game input. The title selects regions and supported dungeon routes after repeated confident readings; dungeon entrance labels inside the terrain are excluded. Unknown titles keep the current map. Pause stops reading; starting again asks for the crops again. Reselect after moving or resizing the game. Browsing away pauses Follow detected area; check it to return to the detected location. Reload, Open in browser and advanced location setup are under Map tools. If Navigation flashes, select Compatibility (OpenGL) in Settings and restart.
 
@@ -10,7 +10,7 @@ The map site's first-run faction prompt lets you choose your side or “Not sure
 
 The daily rail has Navigation, Crafting, Timers and Checklists; Settings holds display, alert sounds, Updates and advanced tools. Crafting combines Recipes, Items, Plans and Materials. Search is always available; catalog filters expand on demand. Select a verified artwork row to see ingredients or crafting uses. Related links stay in Crafting and provide Back navigation. Add a recipe to My plans, choose crafts, and edit owned quantities directly in ingredient rows. Counts are shared with Materials, remain manual and are not consumed automatically. The offline catalog covers crafting items, not every game item.
 
-Timers prioritizes running countdowns. New countdowns and saved observations use focused forms; each timer has Start / Pause and an options menu for reset/edit/remove. Known timers retains source-labelled Global schedules and requires your actual server UTC offset. Checklists supports group and completion filters, visible completed tasks and manual group resets. Updates downloads and verifies newer previews before relaunching. Existing experimental tracking and character progress retain their v0.7.5 limitations.
+Timers prioritizes running countdowns. New countdowns and saved observations use focused forms; each timer has Start / Pause and an options menu for reset/edit/remove. Known timers retains source-labelled Global schedules and requires your actual server UTC offset. Checklists supports group and completion filters, visible completed tasks and manual group resets. Settings has Display, Updates, Connection, Location and Advanced pages. A glowing dot on Settings means a release is ready; clicking Settings opens Updates. Choose Download update & restart when convenient. The app verifies and installs the download, then relaunches; background checks never close or restart the app, play a sound, or show a tray popup. Existing experimental tracking and character progress retain their stated limitations.
 
 Close the game and leave the Windows desktop available while running the self-tests. They open temporary application/label windows and close them automatically. They use isolated settings, and the area test captures its own generated label window; it does not automate the game.
 
@@ -43,7 +43,7 @@ Open an issue at https://github.com/FearsRedemption/aethertrail-downloads/issues
 
 ## Verify the download
 
-Download SHA256SUMS.txt from the same release. Run `Get-FileHash .\Aethertrail-Windows-x64-v0.8.9-preview.zip -Algorithm SHA256` and compare with the matching line. A checksum detects corruption; it is not a code signature.
+Download SHA256SUMS.txt from the same release. Run `Get-FileHash .\Aethertrail-Windows-x64-v0.8.11-preview.zip -Algorithm SHA256` and compare with the matching line. A checksum detects corruption; it is not a code signature.
 
 The app is unofficial and is not endorsed by NCSOFT or Aion2Maps.com. Exact catalog-linked game item icons are bundled for offline use, with NC Corporation attribution and per-image source/hash records. No website source is bundled. Aethertrail captures configured screen pixels, with no memory reads, injection or gameplay input automation. Source remains private; this public repository hosts test binaries, documentation and issue reports. Third-party notices and library replacement/source information are included under licenses.
 
@@ -53,7 +53,7 @@ Game connection: Settings defaults to Auto. Installed usable Npcap starts game-o
 
 ## Login diagnostic recording (v0.8.2)
 
-Settings -> Game connection -> Record 60-second game diagnostic. Recordings now follow socket changes for the same single AION 2 process, so you can return to character selection and enter the same character while recording. The time/size limit is preserved. Recording ends on game exit, process replacement or multiple game instances. Files stay private; only validated Global Steam identity/login pet observations are available. Endpoint discovery can miss the earliest traffic of a new socket.
+Settings -> Connection -> Record 60-second game diagnostic. Recordings now follow socket changes for the same single AION 2 process, so you can return to character selection and enter the same character while recording. The time/size limit is preserved. Recording ends on game exit, process replacement or multiple game instances. Files stay private; only validated Global Steam identity/login pet observations are available. Endpoint discovery can miss the earliest traffic of a new socket.
 
 ## Automatic login pet progress (v0.8.9)
 
@@ -65,13 +65,12 @@ With Auto enabled, the Global Steam client sends your identity and pet list when
 
 **Regions** opens Regional Progress. Choose a map on Navigation first, then open Regions to read its feathers and Kibelisks. Filter category/state or search by name or marker ID. The checklist refreshes while visible, and previously viewed regions remain selectable during this session. Counts distinguish verified collected, verified missing, unknown and saved map marks. Unmarked map icons remain unknown. Map marks belong to the selected Navigation character profile; this page reads them without changing them. Automatic feather/Kibelisk decoding and full regional completion totals are still pending protocol verification.
 
-## Automatic HUD discovery (available since v0.8.5)
+## Location capture setup (v0.8.9 and later)
 
-Settings -> Automatic location reading -> Game HUD defaults to Auto HUD detection. Bring one supported Global Steam game client to the foreground on the normal gameplay HUD. Discovery requires a recognized title, minimap boundaries and clock/layout evidence across repeated frames; it then reads the location strip and follows confirmed areas. Hidden/obscured windows, unknown titles or layout changes clear the reading. No game inputs are sent and normal frames are not saved. Auto HUD detection does not require Npcap.
+Click Start location reading to choose the game monitor, minimap terrain and current-location title. Each new start/resume asks for those crops; cancel leaves reading stopped. This preserves the v0.8.9 workflow. Saved crops remain available for advanced tools, and Off persists. Automatic HUD discovery remains an advanced detector and does not require Npcap, but it does not silently start a capture session on launch.
 
-Manual label crops remain saved and selectable. Off persists; the Navigation pause button lasts for the current launch. Test frames at 2560x1440 and simulated 1920x1080 were acquired; smaller 1280x720 samples remained unknown when border evidence was ambiguous. Use Manual label crop if Auto cannot recognize your HUD. This preview still needs live foreground/resize acceptance on the running client.
+Fresh title evidence selects regions and supported dungeons; it does not establish precise coordinates. Terrain dots require calibrated local references. Unknown titles and expired frames remove current-location evidence. Exact feather IDs, historical ownership, live pet soul changes and claim eligibility remain unverified.
 
-Detecting the minimap's screen rectangle does not provide precise world coordinates. Terrain position still requires calibration. Existing claimed feathers, exact feather IDs, live pet soul changes and claim eligibility remain unverified. Feather receipts cannot mark the nearest map collectible automatically. Regional unknown/marked distinctions remain in place.
 ## UI stability (available since v0.8.6)
 
 Pets and Regions preserve unchanged rows during automatic polls. Location messages stay on one line; hover for the complete message. The hidden map pauses on native pages and resumes for Navigation/Regions without reloading. Compare Navigation, Pets, Regions and Crafting for rapid flashing, especially while the connection/location status changes. The native stress check passed, but the user reported flashing continued with the default renderer.
@@ -84,4 +83,15 @@ Open Regions to view previously loaded checklists while offline or after restart
 
 Saved map marks remain Marked, not verified Collected. If a verified linked character has saved positive collection evidence and a validated exact marker reference, offline review labels it Last known verified collection. Stale missing states stay Unknown; partial captures cannot establish full completion. No stable automatic feather IDs have yet been validated, so the supplied recordings do not automatically mark the feathers you gathered. Pet login observations remain saved separately.
 
-Settings -> Map rendering -> Compatibility (OpenGL) is a saved option for flashing. Restart Aethertrail to apply it. The user confirmed the temporary OpenGL trial stopped the flashing with the map loaded. System default remains available. No Windows graphics settings are changed.
+Settings -> Display -> Map rendering -> Compatibility (OpenGL) is a saved option for flashing. Restart Aethertrail to apply it. The user confirmed the temporary OpenGL trial stopped the flashing with the map loaded. System default remains available. No Windows graphics settings are changed.
+
+## Location confidence (v0.8.10)
+
+Navigation shows a dot only for a fresh supported position match. Terrain dots require a calibrated reference and strong independent feature evidence. Exact live network position is still unavailable. A known location title can instead highlight the real named subarea outline, or show the broader mapped region when only its name is known. This is area evidence, not a precise position or an accuracy radius.
+
+A lost/expired location shows a red question mark in the map's upper-right area. Only that icon pulses slowly; the app does not flash. Pausing or turning reading Off makes it steady. Evidence older than three seconds is removed, including frames delayed by slow OCR. Switching characters, browsing another region or losing the title cannot retain an old dot. If the map is zoomed away from the matching location, the position label remains available even when the projected dot is off screen.
+
+The position/area/expiry UI passed isolated native fixtures. Real exact-position acceptance still requires verified location evidence; the login/flight recording did not establish continuous self movement.
+
+Startup update prompts are enabled by default. A newer release offers Yes, No, or Disable startup notifications. Yes starts the verified download and restart; No leaves the app open. Disabling this prompt only changes the startup-popup preference; scheduled checks and the Settings dot remain available. Re-enable it in Settings → Updates.
+
