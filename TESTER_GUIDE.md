@@ -133,10 +133,26 @@ Settings → Sounds contains four original bundled chimes, separate update/remin
 In Closet, select a full Armor set, choose Male and Female, and confirm the character appearance changes. Drag to rotate, scroll to zoom, right-drag to pan and use Reset view. Inspecting a piece must keep the full model in view. The game base body is a reference, not the player's customized character. Model files download only from the AetherTrail downloads repository and then use a verified cache. All 119 full sets have both variants; other individual appearance families may not have models. Confirm Missing and Unknown pets are grayscale in both the gallery and large preview, with only Owned pets in color.
 
 ### Mix armor pieces
-Select a full Armor set and click **Wear selected set**, then search the individual Helm, Pauldrons, Top, Gloves, Legs, Shoes and Cloak fields to replace pieces. Type any part of a piece name for suggestions. Browsing another collection keeps your current outfit. Male/Female changes the complete outfit. The preview does not change equipped gear or ownership. Only pieces with separate geometry in both body models are offered. Some combinations may clip.
+Choose an Armor collection to show its entire set. Change an individual Helm, Pauldrons, Top, Gloves, Legs, Shoes or Cloak field to replace that slot on the model. Type part of a name for suggestions, or click Browse beside the slot for a searchable image picker. Choosing a collection again restores the complete set and resets the mixed preview. Male/Female changes the complete outfit. The preview does not change equipped gear or ownership. Only pieces with separate geometry in both body models are offered. Some combinations may clip.
 
 ### Table headers
 Drag the divider between table headers to resize columns; drag a header to reorder columns. Double-click a divider to fit its contents. Use Ctrl+C to copy selected cells as tab-separated text for Excel. Click any header (or right-click it) for ascending/descending sort, text and value filters, clearing filters, and fitting widths to contents. Filters combine across columns. Select none hides all values; Select all restores them. Table actions and editable counts continue to address the correct records after sorting. Catalog list/card views retain their existing search and category controls.
 
 ### Connection data limits
 Npcap supplies packet capture, not decoded inventory or position data. Character identity and pet observations are supported. Inventory, personal/account storage totals and continuous player coordinates are not yet validated by the game decoder. Crafting quantities remain manual; opening a storage does not currently import it. The map can consume verified network positions when a decoder and map calibration become available; current screen-based positioning remains the available fallback.
+
+### Material grid and batch entry
+Open Crafting → Materials. With the default All ingredients view and an empty search, the grid shows every available crafting material in the bundled catalog, plus saved custom materials and plan ingredients. Cards are ordered by family and grade: Orichalcum Ore, Fine, Pure, Radiant and Ingot stay together, followed by Odyle and other families. Search filters card names and families immediately; searching Fine Odyle shows that grade, while Odyle shows its related types. Clear the search to show the full current view again.
+
+Choose a family on the left to narrow the grid. Gathering & refining shows core gathered/refined resources and retains your tracked counts and plan ingredients. All tracked, Owned, Zero stock and Used in saved plans provide focused views; other pages' table header controls do not apply to this card grid.
+
+Type your available total directly in a card's Owned field. Tab saves and moves to the next quantity; Shift+Tab moves back and Enter saves. Counts immediately update crafting readiness and save through the normal settings workflow. Looking at or tabbing past an untouched field does not create a count. Not entered is separate from an explicit zero: type 0 to record that you have none. Forget selected count removes only the saved quantity; the catalog card remains available. Add custom material handles names outside the catalog.
+
+Inventory and storage still require manual totals. No scan or automatic game import is implied by the catalog cards.
+
+### Workspace sizing
+Search inputs and forms have bounded widths on large windows, and utility workspaces keep a readable content width. The map and Closet keep their larger visual workspaces. Text scaling remains available in Settings → Display; material columns adjust for the chosen scale.
+
+
+### Pet and mount 3D previews
+Select a pet in Pets to view its creature model. Drag to rotate, scroll to zoom, and use Reset view to center it. Verified models are available for 197 of the 207 catalog pets; the others keep their portrait. Load 3D retries a failed download. The app downloads only the selected model from AetherTrail’s public repository, checks its checksum, and renders it locally. Unknown and Missing pets stay grayscale until ownership is observed. These models use the creature’s rest pose: a separate small-pet form or mounted rider is not available. The preview does not establish a separate mount unlock.

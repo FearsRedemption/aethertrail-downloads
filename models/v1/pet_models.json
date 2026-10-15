@@ -1,0 +1,1989 @@
+{
+  "version": 1,
+  "rights": "Game models and textures \u00a9 NCSOFT. GLB conversion: MetaBot.GG.",
+  "forms": "Creature rest pose; no rider or separate pet-size variant verified.",
+  "pets": {
+    "1002": {
+      "file": "pet-1002.glb",
+      "sha256": "1d258caa0b607c4770b563e333534d534a8002d1f5870d4227dc329420db0a75",
+      "bytes": 706068,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_krallreg_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/krall-laborer",
+      "name": "Krall Laborer",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1005": {
+      "file": "pet-1005.glb",
+      "sha256": "98a2d0c6e4795269eb0c70036f66462ee920a21b754821b431da7a032abb0138",
+      "bytes": 502748,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_neuth_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/klaw",
+      "name": "Klaw",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1010": {
+      "file": "pet-1010.glb",
+      "sha256": "fe7aedea5a5be58a1d822c54ce669b3bc6ddd776b243864a8f381f29a19f5838",
+      "bytes": 719556,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_manduriwar_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/manduri-fighter",
+      "name": "Manduri Fighter",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1017": {
+      "file": "pet-1017.glb",
+      "sha256": "dfef8c5e37c6669aba42da3059251a996db0954064a18c18a1b9f212f8990496",
+      "bytes": 656164,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_krallprst_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/krall-warshaman",
+      "name": "Krall Warshaman",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1018": {
+      "file": "pet-1018.glb",
+      "sha256": "efd505652aeda1ccd9357e4742db475efc12c73e3c9542610abc1fc43b0f3561",
+      "bytes": 1067632,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_varg_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/varg-berserker",
+      "name": "Varg Berserker",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1026": {
+      "file": "pet-1026.glb",
+      "sha256": "c1d7cd0c1732ac1b59a56e48f3fd4e4a3fa345d36d1c7cb926180991bc344873",
+      "bytes": 460392,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_krallwar_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/krall-warrior",
+      "name": "Krall Warrior",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1029": {
+      "file": "pet-1029.glb",
+      "sha256": "59232cc0679f7e28524c2b24a3712ae2ec8661acb2a9c0bfde03acc55bbaca56",
+      "bytes": 464244,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_neuth_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/klaw-scout",
+      "name": "Klaw Scout",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1030": {
+      "file": "pet-1030.glb",
+      "sha256": "08232d03c24193a3f567d390eb46c4e93a3447cd17b8944d9ae4b113c9146f08",
+      "bytes": 512300,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_nagaelite_04.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/nagarant-guardian-warrior",
+      "name": "Nagarant Guardian Warrior",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1033": {
+      "file": "pet-1033.glb",
+      "sha256": "f758e1d97f4590e739670e3b71f957b6f99f0b17f9ccf302d936fbfd272180ec",
+      "bytes": 663732,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_manduriwar_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/elite-manduri-fighter",
+      "name": "Elite Manduri Fighter",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1040": {
+      "file": "pet-1040.glb",
+      "sha256": "06a6d1313fc5b73ca67d2c470c7e5bdec370d6f7fbf33f24189712c7ca0331cb",
+      "bytes": 876948,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_owlmag_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/aullaeu-shaman",
+      "name": "Aullaeu Shaman",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1054": {
+      "file": "pet-1054.glb",
+      "sha256": "9df56f772923a882ddbd4443318113365be72685aedab260239ed9223879c0e4",
+      "bytes": 672216,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_skurvwar_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/mumu-warrior",
+      "name": "Mumu Warrior",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1065": {
+      "file": "pet-1065.glb",
+      "sha256": "662921f3a5add77094404a3762ff77a8cad1372056c5d785710610525367f0ef",
+      "bytes": 611048,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_virotawar_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/biruta",
+      "name": "Biruta",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1074": {
+      "file": "pet-1074.glb",
+      "sha256": "9a13b5eccf3f2473d2f5e8f93654f8009f790a9c5d7cf9141bcd631b743769bd",
+      "bytes": 712652,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kuru_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/kuru-worker",
+      "name": "Kuru Worker",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1075": {
+      "file": "pet-1075.glb",
+      "sha256": "f249d2e78b787afa96d5faf6964e487a5e65cef45f7eaf9dd18df0ceeeb226e4",
+      "bytes": 619144,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kuru_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/kuru-tinkerer",
+      "name": "Kuru Tinkerer",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1078": {
+      "file": "pet-1078.glb",
+      "sha256": "d2ccef897a5a401c582ae517bc75683f25acc60f3c9478a1909c15ce4aa3ff96",
+      "bytes": 914088,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_owlsoldier_09.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/urugugu-brawler",
+      "name": "Urugugu Brawler",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1093": {
+      "file": "pet-1093.glb",
+      "sha256": "6898394db49f60780f86b9b9ff193dc40039c7b018cd6633fad2e257e72e8d87",
+      "bytes": 633952,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_nagaelite_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/phantasmal-lakshmi",
+      "name": "Phantasmal Lakshmi",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1103": {
+      "file": "pet-1103.glb",
+      "sha256": "5a1145c12e2b9b6ca717239c022f52c3c8401e9dc31e4406825917fd5b7c82d2",
+      "bytes": 470984,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_pretorboss_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/pretor-veil-administrator",
+      "name": "Pretor Veil Administrator",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1104": {
+      "file": "pet-1104.glb",
+      "sha256": "f44fa94823bc18b305019760e089159f690c412b290d3e3135987af08c67ec83",
+      "bytes": 907944,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_mandurirng_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/manduri-trebuchet-worker",
+      "name": "Manduri Trebuchet Worker",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1105": {
+      "file": "pet-1105.glb",
+      "sha256": "9c4f523013a20baa2ca705d50a9ac67460a7ac5a87ade40e604e2a549390e709",
+      "bytes": 557272,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_virotarag_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/biruta-herbalist",
+      "name": "Biruta Herbalist",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1115": {
+      "file": "pet-1115.glb",
+      "sha256": "dd5a582b45733b0fe040234f2a48e1749f1f6982a92410e712c20d55de9563c6",
+      "bytes": 546856,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kuru_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/kuru-overseer",
+      "name": "Kuru Overseer",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1137": {
+      "file": "pet-1137.glb",
+      "sha256": "d3feca81487f5ea26682ed63c0fd51aa6e86df75626952fea71e10f0c344409d",
+      "bytes": 573228,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_skurvwar_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/mumu-worker",
+      "name": "Mumu Worker",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1138": {
+      "file": "pet-1138.glb",
+      "sha256": "269a58ae4c48fe16d7e48c51ec9a38e0c7e3409dcf05cb4a66b68d4ab45da0f6",
+      "bytes": 628132,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_skurvwar_04.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/mumu-overseer",
+      "name": "Mumu Overseer",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1147": {
+      "file": "pet-1147.glb",
+      "sha256": "690987d81e1ac18a1242a083e1c88ad05e09d771042d0dc5da77f30c0755739c",
+      "bytes": 279788,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dratona_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/dratona",
+      "name": "Dratona",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1156": {
+      "file": "pet-1156.glb",
+      "sha256": "d8bc07fe97d1e2e8fd5742fb63bdb70e09561f200519b6fe00edbce1d1575bde",
+      "bytes": 409280,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_neuth_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/elite-klaw",
+      "name": "Elite Klaw",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1170": {
+      "file": "pet-1170.glb",
+      "sha256": "97ca89a92f37fee08bea58537ffed42a1480b81baf08a994d33c51ad70f24200",
+      "bytes": 451576,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_cherubim_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/kerubian",
+      "name": "Kerubian",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1171": {
+      "file": "pet-1171.glb",
+      "sha256": "1e7d9f45d656a8919ea3cfc0da7a53395ecd9e8488ac80b881b8a10088cd60a8",
+      "bytes": 391004,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_cherubim_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/kerubiel",
+      "name": "Kerubiel",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1184": {
+      "file": "pet-1184.glb",
+      "sha256": "2ba0f354aefcb65c8f841620464049581ef0cca188265c5ae3e02d7e8e8e1bd6",
+      "bytes": 587768,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_drakan_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/drakan-watcher",
+      "name": "Drakan Watcher",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1185": {
+      "file": "pet-1185.glb",
+      "sha256": "608832e2cd34a23429afaf2ccdcc61bb2fa67d573254edb5860870f6a0657f4c",
+      "bytes": 321860,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dratona_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/dratona-tinkerer",
+      "name": "Dratona Tinkerer",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1191": {
+      "file": "pet-1191.glb",
+      "sha256": "2fad0d4fef46d9a78d8b0ead31fcb1f3ac5f808abea1626ce310a19b9c7e5ac7",
+      "bytes": 1322488,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_ferk_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/furious-feruk",
+      "name": "Furious Feruk",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1193": {
+      "file": "pet-1193.glb",
+      "sha256": "6d8c03a74e1a517a89183eff3d8d2c75443c5879f02202e59de3e111af50dcfe",
+      "bytes": 652552,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_addshulack_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/addicted-shulak-cart-worker",
+      "name": "Addicted Shulak Cart Worker",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1195": {
+      "file": "pet-1195.glb",
+      "sha256": "e43a1ccbcc584e0b06141e6f7f58ffa3bc8aa30f5fb5d33b332c478c87a9f007",
+      "bytes": 311892,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dracuni_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/dracuni-herbalist",
+      "name": "Dracuni Herbalist",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1196": {
+      "file": "pet-1196.glb",
+      "sha256": "ac14c9739317ece84a8d06f80fe52ac13aeb7202129a3a582b140f4ec73de102",
+      "bytes": 483520,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dratona_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/elite-dratona",
+      "name": "Elite Dratona",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1200": {
+      "file": "pet-1200.glb",
+      "sha256": "aba09c71e1567889cbc6ab66589ee4cfee4b343155459f828979276b07f9a161",
+      "bytes": 713608,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_nagaelite_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/naga-elite-priest",
+      "name": "Naga Elite Priest",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1201": {
+      "file": "pet-1201.glb",
+      "sha256": "18e5471f2c5d4a84c3735cb78dd2874bcfff0644d0434edb55f2f09341d80131",
+      "bytes": 1197268,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_lufilini_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/modified-lupyllini",
+      "name": "Modified Lupyllini",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1202": {
+      "file": "pet-1202.glb",
+      "sha256": "77fdde8905ec294b6324f2d4dcb3745a183318d687589eca61a76e98a69637f5",
+      "bytes": 841532,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_lufilini_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/decomposed-lupyllini",
+      "name": "Decomposed Lupyllini",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1215": {
+      "file": "pet-1215.glb",
+      "sha256": "ef3f61c54f476f5a9a3f7480bd10abdcfd6feebad0f3d1b12772757a720b17b6",
+      "bytes": 565368,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_nagaelite_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/predator-saraswati",
+      "name": "Predator Saraswati",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1004": {
+      "file": "pet-1004.glb",
+      "sha256": "7359b316a4aea77952689f1d4d1977c102a2f1bbc7208fe062376bf779ed502f",
+      "bytes": 751108,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fossa_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/fossa",
+      "name": "Fossa",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1006": {
+      "file": "pet-1006.glb",
+      "sha256": "fbe02f182b40c325582a194a24086291ce0e68c20c1ac49360f8b73755f0e5a2",
+      "bytes": 500084,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_sparkyod_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/sparkie",
+      "name": "Sparkie",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1007": {
+      "file": "pet-1007.glb",
+      "sha256": "ebef7aac0f5ab021e8ac702b8e0f6f0e57787398a23cfae65831948475bcce72",
+      "bytes": 448100,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_crab_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/potcrab",
+      "name": "Potcrab",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1008": {
+      "file": "pet-1008.glb",
+      "sha256": "f525c4003a0cdc184e8a0c02dd2dad79e2a89378550180c7c9cba3f0cc48b780",
+      "bytes": 147580,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_odspider_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/baby-odyle-spider",
+      "name": "Baby Odyle Spider",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1009": {
+      "file": "pet-1009.glb",
+      "sha256": "e163506386921d41397b5d3eea68187c4495e9a953cd3e4142c8a71237f691e6",
+      "bytes": 813268,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_keneir_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/kernon",
+      "name": "Kernon",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1011": {
+      "file": "pet-1011.glb",
+      "sha256": "215418924659af6eb4ffa8d6853b5e8393c24d570dcbd84ff792dc54b78ea06f",
+      "bytes": 153012,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_skyray_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/skyray",
+      "name": "Skyray",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1014": {
+      "file": "pet-1014.glb",
+      "sha256": "11b3982702c6d0f58412948e81a738cc590363dd72e4a4a0e106095b02caedee",
+      "bytes": 363548,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_beritrac_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/drakan-guard-dog",
+      "name": "Drakan Guard Dog",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1015": {
+      "file": "pet-1015.glb",
+      "sha256": "15bac2330a106c7fcb7b41402a3b94cb51136aa4c80afeb6891b85abd9ce1d4e",
+      "bytes": 457752,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kailin_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/kailin",
+      "name": "Kailin",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1016": {
+      "file": "pet-1016.glb",
+      "sha256": "aa8cc3b1a90e009fbe3d6cf4b607cc2f8616a68450335f46175863a38a93f88e",
+      "bytes": 454548,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_lepisma_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/slink",
+      "name": "Slink",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1021": {
+      "file": "pet-1021.glb",
+      "sha256": "25d061cd7482392163c4916ae175c44efd87d0c48081ff7482fe1aa4a57d9007",
+      "bytes": 294412,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_odspider_04.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/aberrant-odyle-spider",
+      "name": "Aberrant Odyle Spider",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1022": {
+      "file": "pet-1022.glb",
+      "sha256": "6af5eee421b441abf524586cf1a0a79cf7fc11cb7653a5fa5aee008336ffbf8d",
+      "bytes": 275996,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_phaini_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/crasaur",
+      "name": "Crasaur",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1025": {
+      "file": "pet-1025.glb",
+      "sha256": "e325bac6cf06be63f72e757b145a8fc516f2f44e2841ae16eac50ef118856160",
+      "bytes": 294420,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_odspider_04_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/mutated-aberrant-odyle-spider",
+      "name": "Mutated Aberrant Odyle Spider",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1032": {
+      "file": "pet-1032.glb",
+      "sha256": "80e9cafeb5f9a954a223e33a658455e03a96c983b4ec33ab929753e4da24fdbc",
+      "bytes": 792488,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_keneir_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/elite-keneire",
+      "name": "Elite Keneire",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1034": {
+      "file": "pet-1034.glb",
+      "sha256": "3d96e1347025e91e1ed6f1e430ccefc90517b5209df2e7a94e8effc11f674e83",
+      "bytes": 483264,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_sparkyod_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/giant-sparkie",
+      "name": "Giant Sparkie",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1035": {
+      "file": "pet-1035.glb",
+      "sha256": "0698593b02cdd4558f5aa7ac20f2072e9e2b00be037d24b48de6d69fe76ef161",
+      "bytes": 435560,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fish_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/skama",
+      "name": "Skama",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1036": {
+      "file": "pet-1036.glb",
+      "sha256": "f340539187476e30640ef6e4068f6b864d925ea139ec37a2f2feb2fdb31f1666",
+      "bytes": 810608,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_lufilini_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/lupyllini",
+      "name": "Lupyllini",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1037": {
+      "file": "pet-1037.glb",
+      "sha256": "92ed017dc772154af94af7354727cc130c8dbe3232e0bac7ccf37969a2fb72bc",
+      "bytes": 837328,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_crestlich_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/male-crestlich",
+      "name": "Male Crestlich",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1038": {
+      "file": "pet-1038.glb",
+      "sha256": "c374e29ba619b0beeba3f9a65a309f54fc33602ec24949b9b1694f7440195438",
+      "bytes": 880804,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_airon_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/airon",
+      "name": "Airon",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1039": {
+      "file": "pet-1039.glb",
+      "sha256": "f6222b765b32f6de3fb05cf3ba6018a64138e2b11e8bdece0ae11a77350ebafb",
+      "bytes": 703524,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_crestlich_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/crestlich",
+      "name": "Crestlich",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1041": {
+      "file": "pet-1041.glb",
+      "sha256": "3544ff5f09f63e82041e0cb5083296edffeddfbb1fd45dc9b5e9595616d4d2f7",
+      "bytes": 539796,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_cavebat_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/cave-bat",
+      "name": "Cave Bat",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1042": {
+      "file": "pet-1042.glb",
+      "sha256": "5dab66d5377785185703cc6e55fefe3bab3fd72062ae003e339e2c222bf3912f",
+      "bytes": 875832,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_ursuss_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/ursus",
+      "name": "Ursus",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1043": {
+      "file": "pet-1043.glb",
+      "sha256": "c75a5c692110e3b17cbb8779b4b03f21515057abbd34b23aa843003cb148992b",
+      "bytes": 903672,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_ursusselite_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/elite-ursus",
+      "name": "Elite Ursus",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1045": {
+      "file": "pet-1045.glb",
+      "sha256": "095010e3e71e6545c1dcd1422fd62689de63afdefd33f50f378240a2281ab198",
+      "bytes": 329396,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_muta_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/sylphen",
+      "name": "Sylphen",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1046": {
+      "file": "pet-1046.glb",
+      "sha256": "782efe0583aba1ac816b0f2c4790930fc3a7ef59775ac7aedf7b14bb4d2ce799",
+      "bytes": 499812,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_mole_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/armadon",
+      "name": "Armadon",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1047": {
+      "file": "pet-1047.glb",
+      "sha256": "b1d5296bd4fd3b491f038480d0a33c47b3c53b3ccc0d881b9aceca0a852f46cc",
+      "bytes": 474524,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_mole_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/aberrant-armadon",
+      "name": "Aberrant Armadon",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1053": {
+      "file": "pet-1053.glb",
+      "sha256": "e03d8ebd8585fe591d7c153dba758b94e911d724d2a8937a1fa078b05a352128",
+      "bytes": 358652,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_crab_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/aberrant-potcrab",
+      "name": "Aberrant Potcrab",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1055": {
+      "file": "pet-1055.glb",
+      "sha256": "94608c37713cdbfdf66fac791dc16ab3e9ec169052081e1c3caddbe8c30109c8",
+      "bytes": 371832,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_graverat_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/grave-rat",
+      "name": "Grave Rat",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1057": {
+      "file": "pet-1057.glb",
+      "sha256": "bf5ea2feb142ae1dc1c680c79db1bfb76665ce3f6fe4c4956e202e2fd7f6cbbc",
+      "bytes": 489836,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_coradon_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/coradon",
+      "name": "Coradon",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1059": {
+      "file": "pet-1059.glb",
+      "sha256": "ee9f9995eeb5f39935c37c0fbb65793a9a82fe49ccf58868a472fbc60dce5344",
+      "bytes": 258304,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_bee_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/giant-bee",
+      "name": "Giant Bee",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1060": {
+      "file": "pet-1060.glb",
+      "sha256": "678b16e848692637a437df9160b9ba552d00eb7f1c87fd1ca48cc935cebdf940",
+      "bytes": 396236,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_starturtle_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/starturtle",
+      "name": "Starturtle",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1066": {
+      "file": "pet-1066.glb",
+      "sha256": "97f6d2cb3cb162c80b2b94e35671b40b4437bbf85a296bfa6bcaf1a65f85496b",
+      "bytes": 217676,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_papis_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/papis",
+      "name": "Papis",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1067": {
+      "file": "pet-1067.glb",
+      "sha256": "1c37ecdcab17feb196a5258438cb4f8e08c7ebbfbc0c3adf34882a01ad6c05ac",
+      "bytes": 484628,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_scorpion_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/scorpion",
+      "name": "Scorpion",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1071": {
+      "file": "pet-1071.glb",
+      "sha256": "9e4d4142f8b6313e90c4547e85d20b01658faedff9ceb11191a331973909d0aa",
+      "bytes": 288640,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_altbug_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/cadaver-insectoid",
+      "name": "Cadaver Insectoid",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1072": {
+      "file": "pet-1072.glb",
+      "sha256": "a658a3f74bdb6a3ed841b5cb54213a91a57ae26e2895c852a77ae6342cc6f740",
+      "bytes": 470700,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_tog_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/tog",
+      "name": "Tog",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1083": {
+      "file": "pet-1083.glb",
+      "sha256": "494210348593fb92d05a847f6b6bed272e18866c043a30ccfae53b79f19b3e9e",
+      "bytes": 384100,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_spider_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/spider",
+      "name": "Spider",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1089": {
+      "file": "pet-1089.glb",
+      "sha256": "303d08f0977a6aca33ce374462042035b3414d56ea43c88f5c526d6dd704a0b4",
+      "bytes": 429712,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fish_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/aberrant-skama",
+      "name": "Aberrant Skama",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1097": {
+      "file": "pet-1097.glb",
+      "sha256": "658de97dc5d19582875985a3e0ba4e037327b5dbc5af5ca49372030056f26ff2",
+      "bytes": 886780,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kalnif_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/karnif",
+      "name": "Karnif",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1098": {
+      "file": "pet-1098.glb",
+      "sha256": "6c5d7bddd3b0c88f32b1979ab0c23f56dfd2e27abbb37ada983b4ab191daf834",
+      "bytes": 615856,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kalnif_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/modified-karnif",
+      "name": "Modified Karnif",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1099": {
+      "file": "pet-1099.glb",
+      "sha256": "349fac9fd7207c9ca8eff3956bb6b80c76c12ec531741c5c1044d5c77c8d9243",
+      "bytes": 1036732,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kalnifelite_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/elite-karnif",
+      "name": "Elite Karnif",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1106": {
+      "file": "pet-1106.glb",
+      "sha256": "fd8c92baeaaae0ff6a647bdef94fa734e414a56cc7bb843f0762f3e6a529fc99",
+      "bytes": 539724,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_tayga_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/tayga",
+      "name": "Tayga",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1114": {
+      "file": "pet-1114.glb",
+      "sha256": "8326ecc7c4b8030418b9010ecc76257f2fdaee54b7d03f869e78d87d20b8541f",
+      "bytes": 299552,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_odspider_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/ashen-spider",
+      "name": "Ashen Spider",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1116": {
+      "file": "pet-1116.glb",
+      "sha256": "85952045f4a05750c790f88691bd20332141530d82084d82b8c4892384c611db",
+      "bytes": 299560,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_odspider_03_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/withered-branch-spider",
+      "name": "Withered Branch Spider",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1117": {
+      "file": "pet-1117.glb",
+      "sha256": "b2f3cabf0a2526a82be6c79c90442b581e263196b15acfc2133a42947c28d972",
+      "bytes": 384752,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_spider_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/unstable-spider",
+      "name": "Unstable Spider",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1118": {
+      "file": "pet-1118.glb",
+      "sha256": "0187bb3b4039c3262858e9f4c2ae3da049fa5a3998182342e2920053f8e32475",
+      "bytes": 174064,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_bee_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/aberrant-bee",
+      "name": "Aberrant Bee",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1119": {
+      "file": "pet-1119.glb",
+      "sha256": "8d12ccb24d9b3af4823166c24570ea8fef29cfc06e82b38bd1da4fbd7903082c",
+      "bytes": 399452,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_coradon_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/aberrant-coradon",
+      "name": "Aberrant Coradon",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1120": {
+      "file": "pet-1120.glb",
+      "sha256": "b5b322669d5b8eabcd8b194aa7c0172176144b47de0b99a3c4db3bebbcc0f791",
+      "bytes": 439284,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kailin_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/young-kailin",
+      "name": "Young Kailin",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1121": {
+      "file": "pet-1121.glb",
+      "sha256": "6dd1f8b99c542de14346f55b143e6bbb79967c7ac40d0002552324302d57ca30",
+      "bytes": 389432,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_lepisma_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/young-slink",
+      "name": "Young Slink",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1122": {
+      "file": "pet-1122.glb",
+      "sha256": "5411822fc45ef69303e4b72303dec148bcf1dd86fc9b587bf2f8e7d4d9c290c2",
+      "bytes": 292948,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_tog_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/young-tog",
+      "name": "Young Tog",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1123": {
+      "file": "pet-1123.glb",
+      "sha256": "6f1fe0c80ce525ff38055386e789334abe6790293cd3355aae6e6f8749048e0c",
+      "bytes": 867580,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_ursuss_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/young-ursus",
+      "name": "Young Ursus",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1124": {
+      "file": "pet-1124.glb",
+      "sha256": "ee32e9ef3cadf0dcbae6b070da5dec3425861d3bd305fed5e296f0a8bf4da003",
+      "bytes": 791100,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_zaif_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/zaif",
+      "name": "Zaif",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1125": {
+      "file": "pet-1125.glb",
+      "sha256": "1007a0a2161389a2bb2fcea2b4f6260082e8d308f91868c021e8648a89fd9170",
+      "bytes": 775924,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_zaif_01_cv02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/aberrant-zaif",
+      "name": "Aberrant Zaif",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1126": {
+      "file": "pet-1126.glb",
+      "sha256": "2081f7ea254185a88d0f69294eadd1f2f6bf9fe6e425d5fc08465d2461156b95",
+      "bytes": 481676,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_tog_01_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/aberrant-tog",
+      "name": "Aberrant Tog",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1130": {
+      "file": "pet-1130.glb",
+      "sha256": "5a7897039f832f04f96111e472bd429cb12cbd779bc7adb814414bb08d46b4c0",
+      "bytes": 303776,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_altbug_01_cv02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/mutated-cadaver-insectoid",
+      "name": "Mutated Cadaver Insectoid",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1132": {
+      "file": "pet-1132.glb",
+      "sha256": "65d6c81b4ddaafe5786def87721ec28a1c3ebcad487018101664edb49a1dc4b6",
+      "bytes": 782024,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_lufilini_02_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/ashen-lupyllini",
+      "name": "Ashen Lupyllini",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1134": {
+      "file": "pet-1134.glb",
+      "sha256": "9e899faada025ab2d513c0c1828d6f8ef51a02ec6c0c3368c94dd30e8f556ae0",
+      "bytes": 491240,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_coradon_01_v04.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/eternal-coradon",
+      "name": "Eternal Coradon",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1143": {
+      "file": "pet-1143.glb",
+      "sha256": "cf04aa0daf8ea07aa435a1cb737487bb8850ac9f06f12f30f6bb862a805ebda4",
+      "bytes": 878164,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_ursuss_01_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/mutated-ursus",
+      "name": "Mutated Ursus",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1145": {
+      "file": "pet-1145.glb",
+      "sha256": "ee0cf5e12ca309e60e75133355fb2cde38234f9ed0f72d89f1be18e2a462e7e6",
+      "bytes": 284744,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_bug_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/mutated-insectoid-valka",
+      "name": "Mutated Insectoid Valka",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1158": {
+      "file": "pet-1158.glb",
+      "sha256": "44d037f2b710b3fddd9ca6c5da18aff2867224b51fe36408e7783bdfcb804f00",
+      "bytes": 323396,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_bug_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/venomous-insect-sram",
+      "name": "Venomous Insect Sram",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1181": {
+      "file": "pet-1181.glb",
+      "sha256": "a0f1053d65c22fbe383db908a4550a82f6f78f03188079df6eb519c061d30666",
+      "bytes": 621424,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_brax_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/brax",
+      "name": "Brax",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1188": {
+      "file": "pet-1188.glb",
+      "sha256": "cf8ab249c545e41d9ab750d991a2df05c3168d72d3fb37b6e24a9693436b3b8a",
+      "bytes": 408148,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_gravebat_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/vivel",
+      "name": "Vivel",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1189": {
+      "file": "pet-1189.glb",
+      "sha256": "0a1aa45c2f3bdf59251729ee6aa1b9c923ab72b97698482efb968032c1a7d5b0",
+      "bytes": 1165536,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_zaif_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/tamed-zaif",
+      "name": "Tamed Zaif",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1199": {
+      "file": "pet-1199.glb",
+      "sha256": "ee963fcb533afd165c9b28af07b03979d8a09204e386ec54f8daeae152a51d1c",
+      "bytes": 619124,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_balgest_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/flame-barghest",
+      "name": "Flame Barghest",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1203": {
+      "file": "pet-1203.glb",
+      "sha256": "dd0224d549b598bbee6bec240987fcf26a6315999bc9eea6df2d184bba75d75e",
+      "bytes": 415304,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kalnif_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/tamed-karnif",
+      "name": "Tamed Karnif",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1003": {
+      "file": "pet-1003.glb",
+      "sha256": "8ebcdf2bf6724f0d5e44165c05b94b30f96cfbb7181edda4e5c0a65c2fefb5b9",
+      "bytes": 692144,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_forestwisp_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/forest-specter",
+      "name": "Forest Specter",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1012": {
+      "file": "pet-1012.glb",
+      "sha256": "13d23dc6d70a99a79b1053d64eb27efd1c6f9b294a10431cccf733b133f6fdfc",
+      "bytes": 156408,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fungy_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/fungie",
+      "name": "Fungie",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1027": {
+      "file": "pet-1027.glb",
+      "sha256": "05be18afe3afd0dfdbebfba6615a30632f096a552162239b0fab62537bb2528e",
+      "bytes": 608796,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_agrint_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/withered-agrint",
+      "name": "Withered Agrint",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1031": {
+      "file": "pet-1031.glb",
+      "sha256": "f9ba1726ed7f175863facc95902ee8ccdd5f2fd16ec00297a8f01df08485c930",
+      "bytes": 605280,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_conuti_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/konutin-worker",
+      "name": "Konutin Worker",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1048": {
+      "file": "pet-1048.glb",
+      "sha256": "5175584f2b2030e0cb83cfc53e88765b7897ce5adcc45a3cc90a2e5751c76fed",
+      "bytes": 413284,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_forestele_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/forest-spirit",
+      "name": "Forest Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1049": {
+      "file": "pet-1049.glb",
+      "sha256": "32dc9389933af3df8e4f2cc3f9e39dc864ec801025c3fbdaa2715c22638fefdd",
+      "bytes": 333320,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_forestele_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/mutated-forest-spirit",
+      "name": "Mutated Forest Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1050": {
+      "file": "pet-1050.glb",
+      "sha256": "aecc5ba33cabae45f1bd3c0b3d5ca101388017a0025a8df5b7b38236da9c6e9c",
+      "bytes": 285012,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_gravi_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/gravi",
+      "name": "Gravi",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1051": {
+      "file": "pet-1051.glb",
+      "sha256": "d4830715c840279d62acd9c4e0bc502a1b5558535e87d040ba272efe83935027",
+      "bytes": 318324,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_gravi_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/magic-gravi",
+      "name": "Magic Gravi",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1052": {
+      "file": "pet-1052.glb",
+      "sha256": "a8ee7d25a1b7a41ff7ac5225394305796ab75b5f49fed0f0f593cbb4d06c23d1",
+      "bytes": 326004,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_gravi_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/large-leaf-gravi",
+      "name": "Large Leaf Gravi",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1058": {
+      "file": "pet-1058.glb",
+      "sha256": "ca6612402786ab10ba947715baceace36d09c191502d2431a82cfabdecbbecce",
+      "bytes": 701168,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_ashguard_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/black-smoke-murute",
+      "name": "Black Smoke Murute",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1069": {
+      "file": "pet-1069.glb",
+      "sha256": "9d2ab35562f3e43c97609360e9cbc7733ce1dace929cbe9f8e4cb3d3cdfb3ad1",
+      "bytes": 621948,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_eartheleod_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/stone-spirit",
+      "name": "Stone Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1073": {
+      "file": "pet-1073.glb",
+      "sha256": "08c91b3d2f0572bb90bbfdddd6d0dbd612bfb616bb48a2034c3801e40fe52d2d",
+      "bytes": 320696,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_rafflesia_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/nepenthes",
+      "name": "Nepenthes",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1079": {
+      "file": "pet-1079.glb",
+      "sha256": "7ad9a978d0f3d5604d4f96cf95445581227984e373e4dd33309d0d595e1f8b9f",
+      "bytes": 791960,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_windele_04.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/ultimate-wind-spirit",
+      "name": "Ultimate Wind Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1081": {
+      "file": "pet-1081.glb",
+      "sha256": "802e75d7eb2ee35ea79da6655936ab27fc5f1ea08546709a7eae0ed3758b6700",
+      "bytes": 262092,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dionaea_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/dionae",
+      "name": "Dionae",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1082": {
+      "file": "pet-1082.glb",
+      "sha256": "1bf0117708c94bd30967aec5fe52bf7fc54be7304dc4be159bb27b03ac040d15",
+      "bytes": 575368,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fireele_04.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/ultimate-fire-spirit",
+      "name": "Ultimate Fire Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1086": {
+      "file": "pet-1086.glb",
+      "sha256": "8786e8517b36c695cf6e267f8b1c39788f23f14d70a36158bdda368a1c6846c1",
+      "bytes": 468624,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fungus_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/fungen",
+      "name": "Fungen",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1090": {
+      "file": "pet-1090.glb",
+      "sha256": "61fa68bed985987dc904f61b64c22d27a08ec42b4ae00af1cc16eb561999f5e7",
+      "bytes": 422360,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_waterele_04.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/ultimate-water-spirit",
+      "name": "Ultimate Water Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1091": {
+      "file": "pet-1091.glb",
+      "sha256": "53d0202e592d577547b57106eae914e4cf65b9010c64127883437eda9fa4fbea",
+      "bytes": 648528,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fireguard_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/red-spark-ignus",
+      "name": "Red Spark Ignus",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1092": {
+      "file": "pet-1092.glb",
+      "sha256": "3b98574e83b0bcb25ac4e3436f6fb54cb2a6aff683aa2a95688aa8d28b378a65",
+      "bytes": 478512,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_windele_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/lesser-wind-spirit",
+      "name": "Lesser Wind Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1094": {
+      "file": "pet-1094.glb",
+      "sha256": "94214790e1664b4940f867d707a5124df779c3bf646d8d09c1db17c796c9f8cc",
+      "bytes": 674508,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_windele_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/intermediate-wind-spirit",
+      "name": "Intermediate Wind Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1095": {
+      "file": "pet-1095.glb",
+      "sha256": "605ce5141904644ec5f674044cfa5cf8a21f3c591643c89d8a85706ff78e6b7b",
+      "bytes": 762980,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_windele_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/superior-wind-spirit",
+      "name": "Superior Wind Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1096": {
+      "file": "pet-1096.glb",
+      "sha256": "ec0ed113b3271109422b7781b7ff80448f66a35b3e3586240d66debf8bde656a",
+      "bytes": 440348,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fireele_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/superior-fire-spirit",
+      "name": "Superior Fire Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1100": {
+      "file": "pet-1100.glb",
+      "sha256": "03428d52d8f59ec21582d1980baaa4f4085c96a42b826037054e13a6a97f61ba",
+      "bytes": 1015500,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_earthele_04.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/ultimate-earth-spirit",
+      "name": "Ultimate Earth Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1101": {
+      "file": "pet-1101.glb",
+      "sha256": "49d717c209d65dcafc22eb944865f57c16fa27ce2409efdb5115379d20ad38bc",
+      "bytes": 595616,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_forestarc_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/forest-guardian",
+      "name": "Forest Guardian",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1102": {
+      "file": "pet-1102.glb",
+      "sha256": "4dd9075fb384ed8a16d8c345ed19b3bfa4ce5f0865f799ff4339db62000c318c",
+      "bytes": 554836,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_forestarc_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/dried-up-forest-guardian",
+      "name": "Dried Up Forest Guardian",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1127": {
+      "file": "pet-1127.glb",
+      "sha256": "393a84fbc1112e9b55b0eb956755448b10468b59e9a4261d06797a5925031ceb",
+      "bytes": 634308,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_eartheleod_01_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/odyle-stone-spirit",
+      "name": "Odyle Stone Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1131": {
+      "file": "pet-1131.glb",
+      "sha256": "8fc09be824f3316c2e040aae042a72177698277d45a6f86efad9e4ca9e5d24db",
+      "bytes": 338124,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_forestele_01_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/drana-spore",
+      "name": "Drana Spore",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1133": {
+      "file": "pet-1133.glb",
+      "sha256": "a0e6c4c65b093ef65452b1d6ce568ad1694458765c55becf82e16b9b96ade1c5",
+      "bytes": 255396,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dionaea_01_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/forest-dionae",
+      "name": "Forest Dionae",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1135": {
+      "file": "pet-1135.glb",
+      "sha256": "f8788ed7501eadf0e7490c111b8b4537d05e31fa873c816c409ec63eea02b61a",
+      "bytes": 257728,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dionaea_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/ashen-dionae",
+      "name": "Ashen Dionae",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1136": {
+      "file": "pet-1136.glb",
+      "sha256": "172ab075ea0c5706c4005be86f1e87c99bf3a3d37e9ecd04959c649dd211e80a",
+      "bytes": 318376,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_rafflesia_01_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/rafflesia",
+      "name": "Rafflesia",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1144": {
+      "file": "pet-1144.glb",
+      "sha256": "6c72f1161dd86e17e6abb1fb174b9de4a6bcd041b20beeefda934dbd3d26b180",
+      "bytes": 595624,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_forestarc_01_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/mutated-forest-guardian",
+      "name": "Mutated Forest Guardian",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1155": {
+      "file": "pet-1155.glb",
+      "sha256": "ad41a48df940a050b73ed9285760fae4f997fc5e5b7aa1e868cd1fd96304f338",
+      "bytes": 344768,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_waterele_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/superior-water-spirit",
+      "name": "Superior Water Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1164": {
+      "file": "pet-1164.glb",
+      "sha256": "3a2b1e596b29d47880080153c11a203c2395309abf3cf5f0f3972c2af00325dc",
+      "bytes": 601936,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_earthele_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/lesser-earth-spirit",
+      "name": "Lesser Earth Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1165": {
+      "file": "pet-1165.glb",
+      "sha256": "c37a978a95b372dc26857ac2f5f0a2d1730a6f5d6bdeb34ca30e8c90e9b16bfa",
+      "bytes": 586576,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_earthele_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/intermediate-earth-spirit",
+      "name": "Intermediate Earth Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1166": {
+      "file": "pet-1166.glb",
+      "sha256": "a7fc8fe0ed52de2df103f89ade05f267e7f7eedb55fcdc4dafe5454373d070f7",
+      "bytes": 722804,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_earthele_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/superior-earth-spirit",
+      "name": "Superior Earth Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1168": {
+      "file": "pet-1168.glb",
+      "sha256": "f261f48a5b84f800340c59ba5b6bbe126658ac5c32f42edee1af7bb4df489ee8",
+      "bytes": 205672,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_waterele_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/lesser-water-spirit",
+      "name": "Lesser Water Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1169": {
+      "file": "pet-1169.glb",
+      "sha256": "e1ae754773865b07ee77df10deb427e1911fba3fe0319eb19a59081d5ea3e058",
+      "bytes": 251084,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_waterele_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/intermediate-water-spirit",
+      "name": "Intermediate Water Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1177": {
+      "file": "pet-1177.glb",
+      "sha256": "612e7c3c2f288c73f3025b6f9ff855a02826312d7198d432615f179ddb6ca7f0",
+      "bytes": 768924,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_gartua_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/ancient-spirit",
+      "name": "Ancient Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1187": {
+      "file": "pet-1187.glb",
+      "sha256": "a13618b6fe10fe2fc7b1f350db3f89132285438c17e33a4045b6611777091c6a",
+      "bytes": 354340,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fireele_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/intermediate-fire-spirit",
+      "name": "Intermediate Fire Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1190": {
+      "file": "pet-1190.glb",
+      "sha256": "98c9b0aa747914eae1b31b879fe2586e8265f8b408cdadaea990a3247a106c33",
+      "bytes": 592992,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_toxfungus_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/elite-poisonous-spore-fungen",
+      "name": "Elite Poisonous Spore Fungen",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1207": {
+      "file": "pet-1207.glb",
+      "sha256": "8d5a2341438500107d5a317629749f4c0650c74a3eef1d837c49ebc8fc560c1e",
+      "bytes": 659544,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_agrint_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/agrint",
+      "name": "Agrint",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1208": {
+      "file": "pet-1208.glb",
+      "sha256": "9718a30d51c8d2b5f40e7ad9b4edc2392301bc69152666217f69daa96e3284f1",
+      "bytes": 577128,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_agrint_01_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/ashen-agrint",
+      "name": "Ashen Agrint",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1209": {
+      "file": "pet-1209.glb",
+      "sha256": "1d14ddfa734da1ca9760644bb50dc7aab9a19da0fa9755a2c25bb92279391a6e",
+      "bytes": 430208,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_agrint_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/thin-agrint",
+      "name": "Thin Agrint",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1210": {
+      "file": "pet-1210.glb",
+      "sha256": "fd52e11354357073b8d8d22a9ad1d9693f2214c184f5481136de98b045876dac",
+      "bytes": 633368,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_agrint_01_v02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/dry-leaf-agrint",
+      "name": "Dry Leaf Agrint",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1213": {
+      "file": "pet-1213.glb",
+      "sha256": "a6582b3f310ef21781b3940b88dd1b5161bcc129bebd46c69b3dafbceb1f7c9e",
+      "bytes": 366440,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fireele_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/lesser-fire-spirit",
+      "name": "Lesser Fire Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1214": {
+      "file": "pet-1214.glb",
+      "sha256": "c34017edfb22f8e6ffa975f2a3e05fe649b5d98c51fef206d4454c792c4f9b3f",
+      "bytes": 495856,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_darkele_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/black-spirit",
+      "name": "Black Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1219": {
+      "file": "pet-1219.glb",
+      "sha256": "d070aa0ffaddb7ddc902d8fa84e2bcc313f8088c37a699be11ba2e0fd26e0192",
+      "bytes": 643448,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_jellofi_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/zelophi",
+      "name": "Zelophi",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1013": {
+      "file": "pet-1013.glb",
+      "sha256": "c0a6d9d7b9df21bc249e7da5526df73c23ecc51f64920efb71df69f199ddaaa0",
+      "bytes": 261604,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_abyssswarm_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/swarm",
+      "name": "Swarm",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1028": {
+      "file": "pet-1028.glb",
+      "sha256": "2f3053fefd77378ce3e2d1c2e693a656c5cef28cfaca43bf6ddcead86c87fb93",
+      "bytes": 454800,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kraoelite_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/krao-mutant",
+      "name": "Krao Mutant",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1056": {
+      "file": "pet-1056.glb",
+      "sha256": "976e80798e32ff2148a8bbac8ebda94a7633789e74cef911833ae777ed901d2a",
+      "bytes": 305520,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_beritrac_06.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/drakan-probe",
+      "name": "Drakan Probe",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1061": {
+      "file": "pet-1061.glb",
+      "sha256": "e133d8ee20b14aea2f5ca34ec565e93122ea48903b93d3b8dbda60ea44fec0af",
+      "bytes": 72672,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_slime_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/slime",
+      "name": "Slime",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1062": {
+      "file": "pet-1062.glb",
+      "sha256": "18d8ddf3751c84e6e6858e409637326dc878cdff5b72ea600b10b2dad841c7d1",
+      "bytes": 82616,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_slime_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/contaminated-slime",
+      "name": "Contaminated Slime",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1063": {
+      "file": "pet-1063.glb",
+      "sha256": "4e095f7181e972eba38f48d245eba50771789738f34352ab1a8cdb41cb4b4f80",
+      "bytes": 217196,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_oculazen_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/vigilant-oculazen",
+      "name": "Vigilant Oculazen",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1064": {
+      "file": "pet-1064.glb",
+      "sha256": "06ef27cece38afcd2b43c386b034835dd8ce969816065ce69310ea4985212803",
+      "bytes": 178380,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_oculazen_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/oculazen",
+      "name": "Oculazen",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1068": {
+      "file": "pet-1068.glb",
+      "sha256": "e581b33dc5dad9b6f6cd9691c6f6f8186ad14254da177b118e73ec868d6afced",
+      "bytes": 442892,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kraowar_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/krao-test-subject",
+      "name": "Krao Test Subject",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1077": {
+      "file": "pet-1077.glb",
+      "sha256": "375167cccdb4e6cc291302ad8a02fdd71c78141e9d4218550f05155f082786fe",
+      "bytes": 766952,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kraoelite_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/harcon",
+      "name": "Harcon",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1084": {
+      "file": "pet-1084.glb",
+      "sha256": "ca06f35d315b4f3ed062926fdb35d04f556926ac56944a315f26883a4cc6cd70",
+      "bytes": 524132,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kalgolem_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/kalgolem",
+      "name": "Kalgolem",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1087": {
+      "file": "pet-1087.glb",
+      "sha256": "964a3bb866a4ea76a60146ca1eee8b6abd048fec60e8cef6074048eba443a862",
+      "bytes": 468556,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_pino_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/pino",
+      "name": "Pino",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1088": {
+      "file": "pet-1088.glb",
+      "sha256": "1247b45fbf5672f2262ce1725c17cf001281c4bc61a8dc20a3994b2e6d3af97e",
+      "bytes": 494860,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_pino_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/pino-worker",
+      "name": "Pino Worker",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1107": {
+      "file": "pet-1107.glb",
+      "sha256": "43a0ffa96db313a79571c5d3ccfb662c48fba0f7d63570de8b0a15e3f42a41a1",
+      "bytes": 758828,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kraoelite_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/krao-seal-guardian",
+      "name": "Krao Seal Guardian",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1110": {
+      "file": "pet-1110.glb",
+      "sha256": "690a0c96ad184b0b469a3cadc70f16c11dbf435b7292e4306154cc15f5d4c6b8",
+      "bytes": 525828,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kalgolem_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/blue-kalgolem",
+      "name": "Blue Kalgolem",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1128": {
+      "file": "pet-1128.glb",
+      "sha256": "4c3538a92848f5f6b374feefcc03465f7ac5133bb2952a74d668fbcca6f1477a",
+      "bytes": 82624,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_slime_02_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/drana-slime",
+      "name": "Drana Slime",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1129": {
+      "file": "pet-1129.glb",
+      "sha256": "d96eb2f5bd0eedc1eb3bff57779e40ba51838f1760ade47db9d8d234e88da5e1",
+      "bytes": 250236,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_abyssswarm_01_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/drana-swarm",
+      "name": "Drana Swarm",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1139": {
+      "file": "pet-1139.glb",
+      "sha256": "9bed668755b4f7b09851fe38b2f4479089e2e353b06336067e840157ad9a319c",
+      "bytes": 657956,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_bigman_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/swamp-monster",
+      "name": "Swamp Monster",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1140": {
+      "file": "pet-1140.glb",
+      "sha256": "972609e4ad8424790a9f5cd1424c156888d6cd76c6024cb8dd69db152613dfa9",
+      "bytes": 676056,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_bigman_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/forest-monster",
+      "name": "Forest Monster",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1141": {
+      "file": "pet-1141.glb",
+      "sha256": "71fb299dc294961d6f0fa9a5c1ecb074f9c59de4cdfcc5703975151aabd2f31f",
+      "bytes": 644416,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_bigman_01_v02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/marsh-targon",
+      "name": "Marsh Targon",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1142": {
+      "file": "pet-1142.glb",
+      "sha256": "a651336db6668d1bf92b6691fb2445f27d1ab8de9c3f03521d1829338e808937",
+      "bytes": 593568,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_bigman_01_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/distorted-mutant",
+      "name": "Distorted Mutant",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1146": {
+      "file": "pet-1146.glb",
+      "sha256": "222b339e4a49426c5ba7472cdee60bc8601e487c74f49804cca76360b3fee376",
+      "bytes": 732448,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_pinoboss_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/gatekeeper-pinopi",
+      "name": "Gatekeeper Pinopi",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1148": {
+      "file": "pet-1148.glb",
+      "sha256": "711e5387f14bd999e51b3e5f97afd85a2434e4af3174ae8b0a35dc200d830c14",
+      "bytes": 443784,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_kalgolem_01_v02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/drakana-kalgolem",
+      "name": "Drakana Kalgolem",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1153": {
+      "file": "pet-1153.glb",
+      "sha256": "3f66f0a5e2fa139273f4f6aaf5c72b157c14c0ec65cc370ca213add395f0a59c",
+      "bytes": 434716,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dranavar_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/drana-mutant-brute",
+      "name": "Drana Mutant Brute",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1154": {
+      "file": "pet-1154.glb",
+      "sha256": "709a58e02d09297de8cc6e8798eb1428cd55f5547daea1599e5494190a0a2048",
+      "bytes": 464244,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dranavar_02_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/faded-mutant-brute",
+      "name": "Faded Mutant Brute",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1157": {
+      "file": "pet-1157.glb",
+      "sha256": "3185165ffc0e3e14f131cb795bb15e6fcf9782a4315962b1f12eee5174321fd8",
+      "bytes": 290860,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_imp_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/cadaver-cleaner",
+      "name": "Cadaver Cleaner",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1159": {
+      "file": "pet-1159.glb",
+      "sha256": "1343c47accf26d22e4d222267ea60a1b576530013d6188410a743866c912b60a",
+      "bytes": 244764,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_abyssswarm_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/parasite-swarm",
+      "name": "Parasite Swarm",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1160": {
+      "file": "pet-1160.glb",
+      "sha256": "8f04f9f54ce4fb1bfb9df6fb8df1ade5b9736664c9d025054ed8d8f4fb1ad3e3",
+      "bytes": 346284,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dranavar_04.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/drana-contaminant",
+      "name": "Drana Contaminant",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1161": {
+      "file": "pet-1161.glb",
+      "sha256": "f5d106fca2cae91e31d98a972cbd90d1b93c8b7651b8b0acd8707f2d7fb26bef",
+      "bytes": 389668,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dranavar_04_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/faded-floater",
+      "name": "Faded Floater",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1167": {
+      "file": "pet-1167.glb",
+      "sha256": "4cea0cbf637685ee9f95f3472ba8aac3dc94dc0ae53af1879a7b8168983ae2fa",
+      "bytes": 482344,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_gargoyle_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/flame-stone-guardian-statue",
+      "name": "Flame Stone Guardian Statue",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1172": {
+      "file": "pet-1172.glb",
+      "sha256": "36684c1e94e59177afb77d0258e3501abcdaf2ca8d73c4c250f4e22fbf6736c0",
+      "bytes": 346504,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_duduka_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/duduka-worker",
+      "name": "Duduka Worker",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1173": {
+      "file": "pet-1173.glb",
+      "sha256": "245fe01141b68840ce85b740b650100f299242ff70e42795a8cfc1f0d2e381cd",
+      "bytes": 444024,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_duduka_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/duduka-trebuchet-worker",
+      "name": "Duduka Trebuchet Worker",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1174": {
+      "file": "pet-1174.glb",
+      "sha256": "31b417f764825dcc36bba658cba9f6efe4a11aac89353f1bb8f33a203f32b279",
+      "bytes": 465876,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dranavar_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/drana-predator",
+      "name": "Drana Predator",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1175": {
+      "file": "pet-1175.glb",
+      "sha256": "cdb1e8d8f1fc316f4ccd48fad6b07ba030dcf83211425a5f5bb0e078e6ac20de",
+      "bytes": 505980,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dranavar_03_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/faded-predator",
+      "name": "Faded Predator",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1176": {
+      "file": "pet-1176.glb",
+      "sha256": "0fdc4c0bff8d42773dbe5b76a90006812d1c5f2747958cd472bda3d45af98e99",
+      "bytes": 239524,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fafblood_02_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/mudthorn",
+      "name": "Mudthorn",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1179": {
+      "file": "pet-1179.glb",
+      "sha256": "11cfdcb65807ce78023962417f50fdf485f9e946f58236752428113b8efd1b2f",
+      "bytes": 353980,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dranavar_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/drana-mutant",
+      "name": "Drana Mutant",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1180": {
+      "file": "pet-1180.glb",
+      "sha256": "d5616c616a8d88bff627795099ea00c0ee0cd738723177956fc11e698117e470",
+      "bytes": 368728,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dranavar_01_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/faded-mutant",
+      "name": "Faded Mutant",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1182": {
+      "file": "pet-1182.glb",
+      "sha256": "0a5f3574157df72b77cd9ab85f226685df7fd7058cba89b5187b4bbfaf2bfcff",
+      "bytes": 504940,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_corpespider_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/elite-soulless-corpse-gnat",
+      "name": "Elite Soulless Corpse Gnat",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1183": {
+      "file": "pet-1183.glb",
+      "sha256": "d497591fe837185becbd130911897b3e7ff1ec6bafd85a361e928ff1273314ae",
+      "bytes": 311924,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_corpespider_01_v01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/soulless-corpse-gnat",
+      "name": "Soulless Corpse Gnat",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1186": {
+      "file": "pet-1186.glb",
+      "sha256": "619eeb1d754e00c8465142d629e9df8420a8510485c22c897632e033240bc5dc",
+      "bytes": 239512,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_fafblood_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/poison-blood",
+      "name": "Poison Blood",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1192": {
+      "file": "pet-1192.glb",
+      "sha256": "f332b758d15436a586e7ec9a3340e306253d7e150b4520d4aa3d68cbd2e4b27e",
+      "bytes": 365416,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_rotan_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/silver-blade-rotan",
+      "name": "Silver Blade Rotan",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1194": {
+      "file": "pet-1194.glb",
+      "sha256": "a200580e9928ffad908cce847e226a6fe2370c4b55eee3c2aea8e15449f7091a",
+      "bytes": 354168,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_guardit_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/guardite",
+      "name": "Guardite",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1197": {
+      "file": "pet-1197.glb",
+      "sha256": "86dcbd89f5fd34b421dd6eaa96791f2f5f9698d426b482657fda22902800b954",
+      "bytes": 329644,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_guardit_02.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/watcher-guardite",
+      "name": "Watcher Guardite",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1206": {
+      "file": "pet-1206.glb",
+      "sha256": "242f16c3254c19186e82d74ba605955232b785aec4dc56dce74cf7368bb13f79",
+      "bytes": 534444,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_guardit_03.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/elite-guardite",
+      "name": "Elite Guardite",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1216": {
+      "file": "pet-1216.glb",
+      "sha256": "c89a2fcff567e02da275415ae09d5546eb6e95d157569683c578aeef9a93c2d1",
+      "bytes": 443500,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_specter_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/dark-spirit",
+      "name": "Dark Spirit",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1217": {
+      "file": "pet-1217.glb",
+      "sha256": "a37ebd9bb6ab1d11569b1f660bbeb91b5527a5a4d1f2483f57da54c2ca2033bd",
+      "bytes": 271976,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dranavar_06.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/congealed-drana",
+      "name": "Congealed Drana",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1218": {
+      "file": "pet-1218.glb",
+      "sha256": "615bf06f4c177046d7376662106df2caf2549b9da8c3955e091c270b5611fdaa",
+      "bytes": 281064,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_dranavar_06_cv01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/faded-drana",
+      "name": "Faded Drana",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1001": {
+      "file": "pet-1001.glb",
+      "sha256": "d3a0f07f0ac86a8792b6e6556d4a1e672f7dfcadbfd857339a3f9717fd14fba9",
+      "bytes": 449192,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_blackdragon_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/black-dragon",
+      "name": "Black Dragon",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1204": {
+      "file": "pet-1204.glb",
+      "sha256": "24ed0a22eb6b4d612dacbac12497e5564b54064d979ce674573c41ddcd835a1c",
+      "bytes": 685996,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_pagati_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/pagati",
+      "name": "Pagati",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1240": {
+      "file": "pet-1240.glb",
+      "sha256": "da3c81512217e10c4e2b6b0da72983fce22ce395ecef0fd8ff6e93edd02ddd78",
+      "bytes": 328004,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_rabbit_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/white-bunny",
+      "name": "White Bunny",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1278": {
+      "file": "pet-1278.glb",
+      "sha256": "7c3735c0f5535f63d3c24e9fcbb517f8a88432c8cdb8fe1d28ba16f634598d20",
+      "bytes": 894528,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_hamster_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/chonky-hamster",
+      "name": "Chonky Hamster",
+      "meshes": 1,
+      "animations": 0
+    },
+    "1299": {
+      "file": "pet-1299.glb",
+      "sha256": "0b08540b9fd0f1e1b81547d541ea5f427cbf6dafebc476cb8113d4c6e5acc352",
+      "bytes": 147948,
+      "source": "https://metabot.gg/web/aion2/models/mounts/v_showcase_01.glb",
+      "reference": "https://metabot.gg/en/aion-2/mounts/two",
+      "name": "Two",
+      "meshes": 1,
+      "animations": 0
+    }
+  },
+  "unavailable": {
+    "1044": "HTTP Error 404: Not Found",
+    "1080": "HTTP Error 404: Not Found",
+    "1108": "no unique model",
+    "1109": "no unique model",
+    "1162": "no unique model",
+    "1163": "no unique model",
+    "1198": "no unique model",
+    "1178": "HTTP Error 404: Not Found",
+    "1111": "no unique model",
+    "1112": "no unique model"
+  }
+}
