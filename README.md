@@ -1,19 +1,19 @@
 # AetherTrail Windows previews
 
-[Latest update: v0.9.1](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.9.1-preview)
+[Latest release: v0.9.2](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.9.2-preview)
 
-**Version 0.9.1:** a searchable 207-portrait Pets gallery with observed details and soul-source locations; a Sets browser with 1,463 appearances, individual artwork, acquisition references and character-specific manual appearance notes; and Exploration completion syncing independent of a terrain match. Explicit 100%/0% summaries sync sealed-dungeon map marks and save regional stronghold completion. Repeated named checkmarks support partial lists conservatively. Saved location setup, automatic character profiles, dark/light themes, golden update guidance and four original chimes remain available. Full character models, automatic Closet ownership and separate mount eligibility are not implemented.
+**[Download the Windows Setup EXE](https://github.com/FearsRedemption/aethertrail-downloads/releases/download/v0.9.2-preview/AetherTrail-Setup-x64-v0.9.2-preview.exe).** Close AetherTrail and run Setup. It remembers an existing installation folder and preserves saved settings, timers, crafting plans and character data. No ZIP extraction is required. Windows 10/11 x64; no Python or IDE is needed. The preview is unsigned.
 
-This release also fixes stale terrain references blocking independent Exploration reading. Reviewed source is synchronized to main; source, packaged-app and isolated installer checks passed.
+**Version 0.9.2:** full-set character models with Male/Female selection for all 119 armor sets. Drag to rotate, scroll to zoom, right-drag to pan and use Reset view. Inspect pieces without replacing the full character preview. Missing pets use grayscale thumbnails and large previews; Owned and Unknown pets retain color.
 
-**Existing installations:** Settings → Updates → Check for updates → Download update & restart. Installation remains your choice.
+The renderer and reference images are bundled with AetherTrail. Selected model files download from this repository, are checksum-verified, and are cached in the app-data folder. There is no external wardrobe page or separate viewer app. Models show the game's base male/female body, not the player's customization or hairstyle. Other appearance families outside the 119 full sets may not have models. Automatic Closet/inventory decoding remains unfinished; appearance notes are manual and character-specific.
 
-**Recommended download: AetherTrail-Setup-x64-v0.9.1-preview.exe.** Run Setup to install the complete application and shortcuts, then choose Launch AetherTrail. No manual ZIP extraction is needed. The ZIP remains an optional portable download and supplies the built-in updater. Windows 10/11 x64; no Python or IDE is needed. This preview is unsigned. Saved settings and character data remain in AppData. For a very old version, close it and uninstall/remove its old application folder before running the new Setup EXE; keep AppData so saved progress survives.
+AetherTrail also includes the interactive map, a searchable 207-portrait Pets gallery, 1,463 appearance records, crafting plans, material checklists, known/manual timers and supported Exploration completion observations. Live position accuracy still needs gameplay testing; party location sharing is unfinished.
 
-Updates clean obsolete application runtime files while retaining settings, crafting plans, timers and character data in their separate app-data folder. Setup does not force-close a running app. Windows Installed apps supports uninstall without deleting saved data.
+**Existing installations:** Settings → Updates → Check for updates → Download update & restart. Background checks only notify you; installation/restart remains your choice. The optional ZIP supplies the verified built-in updater and portable use. Setup does not force-close a running app. Windows Installed apps supports uninstall while retaining saved data.
 
-Settings → Instructions contains a full searchable offline guide. The sidebar logo, AetherTrail name and subtitle are centered. [Full instructions](INSTRUCTIONS.md) · [Tester guide](TESTER_GUIDE.md).
+Settings → Instructions provides a full searchable guide. [Full instructions](INSTRUCTIONS.md) · [Tester guide](TESTER_GUIDE.md).
 
-AetherTrail includes its capture helper; Npcap is a separate optional Windows driver. Screen area reading works without it. Continuous player coordinates, live inventory and party sharing remain experimental or unavailable. Settings update prompts, a quiet dot and a brief golden guide are supported; installation/restart occurs only when you choose it.
+The interactive map uses Aion2Maps. AetherTrail includes its capture helper; Npcap is a separate optional Windows driver. Area reading and appearance browsing work without Npcap. Source links are retained for reference; ordinary collection/model browsing does not need an external database site.
 
-Application source stays private. Public builds exclude source archives and private captures. Checksums accompany each release.
+Application source stays private. Public builds exclude application source archives, personal character data and private captures. Checksums accompany every release. Game artwork/models are copyright NCSOFT; original model/reference conversion sources and library licenses are documented with the app and asset manifest.
