@@ -16,7 +16,7 @@ Settings, timer deadlines, crafting plans and character data are stored under **
 
 ## 2. First launch and window controls
 
-The app opens maximized by default. The left rail switches between Navigation, Pets, Sets, Regions, Crafting, Timers, Checklists and Settings. Each destination shows its own workspace. Switching away from Navigation hides the map while timers continue running.
+The app opens maximized by default. The left rail switches between Navigation, Pets, Closet, Regions, Crafting, Timers, Checklists and Settings. Each destination shows its own workspace. Switching away from Navigation hides the map while timers continue running.
 
 Open **Settings → Display** to choose Dark or Light theme, adjust UI scale, or maximize/restore. UI scale enlarges text and icons and also scales the hosted map. Controls can wrap or scroll when larger text needs more room. Press **F11** for full screen and **Escape** to leave full screen. Display preferences are saved between launches.
 
@@ -143,11 +143,11 @@ Continuous player coordinates, reliable all-dungeon terrain coverage, live inven
 
 Download the latest **AetherTrail-Setup-x64** executable from the public releases page. Close the old app, run Setup and follow its prompts; it installs the complete app and offers to launch it. No manual ZIP extraction is required. Keep saved settings and character progress in AppData. The built-in updater remains available for existing installations; ZIP downloads are optional portable/updater packages.
 
-## Pets, Sets and exploration completion (v0.9.0)
+## Pets, Closet and exploration completion (v0.9.0)
 
 Pets shows 207 original game portraits, observed ownership, level and soul points. Select a card for soul requirements, named soul sources, known source locations and its reference link. The catalog is browsable offline before connecting. Unknown stays unknown. Leave Connection on Auto, return to character selection and enter your character once to receive login observations; relog to refresh them. Mount eligibility is not separately verified.
 
-Sets contains Armor, Weapons and Decoration collections from 1,463 Global-client appearances. Search by set or piece name; select a collection to view its full-set appearance and inspect individual pieces and unlock items/source links. Armor entries distinguish game SkinSet membership from browsing name families. Obtained, Missing and Unknown are manual appearance notes saved separately for each selected character. The app does not infer Closet unlocks from inventory, equipped gear or pet packets. The renderer is bundled; full-set model files download from AetherTrail and are cached. Some icons and acquisition routes are unavailable; a listed unlock item does not establish a dungeon drop location.
+Closet contains Armor, Weapons and Decoration collections from 1,463 Global-client appearances. Search by set or piece name; select a collection to view its full-set appearance and inspect individual pieces and unlock items/source links. Armor entries distinguish game SkinSet membership from browsing name families. Obtained, Missing and Unknown are manual appearance notes saved separately for each selected character. The app does not infer Closet unlocks from inventory, equipped gear or pet packets. The renderer is bundled; full-set model files download from AetherTrail and are cached. Some icons and acquisition routes are unavailable; a listed unlock item does not establish a dungeon drop location.
 
 Start location reading, then open AION’s full map → Exploration. Repeated, confident **100%** Sealed Dungeon summaries mark the current region’s native sealed-dungeon markers, including older completions. Explicit **0%** clears that category for the selected character; partial percentages alone do not identify which individual dungeons remain. Repeated, clearly checkmarked named rows can sync older completions as you scroll the list; blank rows stay unknown. This summary reading works without a matched terrain reference. Stronghold 100%/0% is saved as regional completion and displayed above Navigation and in Regions, because the hosted map has no native stronghold checklist marker type. Scanning stays on the remembered game monitor.
 
@@ -155,10 +155,13 @@ Visible supported icon evidence remains available with aligned terrain reference
 
 Settings → Sounds contains four original bundled chimes, separate update/reminder choices and enable switches, volume, Preview and Mute all app sounds. New-version discovery chimes once; duplicate checks remain quiet across restarts. Nearby timer expirations coalesce playback. Audio failure leaves visual alerts available without a Windows error beep fallback. Checks notify; installation is your choice.
 
-## Sets: character appearance preview
+## Closet: character appearance preview
 
 Select an Armor set to view its full appearance on the game's base body. Choose Male or Female above the preview. Drag to rotate, scroll to zoom, and right-drag to pan; Reset view returns to the full body. Individual piece buttons update acquisition information without replacing the character model with an icon. The base body is a reference, not your custom character, and does not include your hairstyle or body customization.
 
 The first view of each body downloads its model from AetherTrail's own GitHub downloads repository; subsequent views use the verified cache. The local renderer and male reference images ship with the app. No separate model-viewer app or external wardrobe site is needed. If a model cannot download or graphics rendering is unavailable, collection browsing and manual notes still work. A missing or unavailable female model never displays the male image as female. Single appearance families outside the 119 full sets may not have a model.
 
 Pets marked Missing use grayscale portraits. Owned and Unknown pets remain in color; lack of an observation is not treated as missing.
+
+### Mix armor pieces
+Select a full Armor set and click **Wear selected set**, then search the individual Helm, Pauldrons, Top, Gloves, Legs, Shoes and Cloak fields to replace pieces. Type any part of a piece name for suggestions. Browsing another collection keeps your current outfit. Male/Female changes the complete outfit. The preview does not change equipped gear or ownership. Only pieces with separate geometry in both body models are offered. Some combinations may clip.

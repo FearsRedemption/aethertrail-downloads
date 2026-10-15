@@ -1,10 +1,10 @@
 # AetherTrail Windows previews
 
-[Latest release: v0.9.2](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.9.2-preview)
+[Latest release: v0.9.3](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.9.3-preview)
 
-**[Download the Windows Setup EXE](https://github.com/FearsRedemption/aethertrail-downloads/releases/download/v0.9.2-preview/AetherTrail-Setup-x64-v0.9.2-preview.exe).** Close AetherTrail and run Setup. It remembers an existing installation folder and preserves saved settings, timers, crafting plans and character data. No ZIP extraction is required. Windows 10/11 x64; no Python or IDE is needed. The preview is unsigned.
+**[Download the Windows Setup EXE](https://github.com/FearsRedemption/aethertrail-downloads/releases/download/v0.9.3-preview/AetherTrail-Setup-x64-v0.9.3-preview.exe).** Close AetherTrail and run Setup. It remembers an existing installation folder and preserves saved settings, timers, crafting plans and character data. No ZIP extraction is required. Windows 10/11 x64; no Python or IDE is needed. The preview is unsigned.
 
-**Version 0.9.2:** full-set character models with Male/Female selection for all 119 armor sets. Drag to rotate, scroll to zoom, right-drag to pan and use Reset view. Inspect pieces without replacing the full character preview. Missing pets use grayscale thumbnails and large previews; Owned and Unknown pets retain color.
+**Version 0.9.3:** Sets is now **Closet**. Mix armor pieces from different sets, search each armor slot with autocomplete, and switch the complete outfit between Male and Female. Browse other collections without replacing your outfit. Collection search suggests every catalog part and set name and includes a clear button. Only parts verified as separate geometry in both body models are offered; some combinations may clip. GitHub installer packaging is fixed and checks bundled renderer integrity before building.
 
 The renderer and reference images are bundled with AetherTrail. Selected model files download from this repository, are checksum-verified, and are cached in the app-data folder. There is no external wardrobe page or separate viewer app. Models show the game's base male/female body, not the player's customization or hairstyle. Other appearance families outside the 119 full sets may not have models. Automatic Closet/inventory decoding remains unfinished; appearance notes are manual and character-specific.
 
