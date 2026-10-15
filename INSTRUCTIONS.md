@@ -161,7 +161,13 @@ Select an Armor set to view its full appearance on the game's base body. Choose 
 
 The first view of each body downloads its model from AetherTrail's own GitHub downloads repository; subsequent views use the verified cache. The local renderer and male reference images ship with the app. No separate model-viewer app or external wardrobe site is needed. If a model cannot download or graphics rendering is unavailable, collection browsing and manual notes still work. A missing or unavailable female model never displays the male image as female. Single appearance families outside the 119 full sets may not have a model.
 
-Pets marked Missing use grayscale portraits. Owned and Unknown pets remain in color; lack of an observation is not treated as missing.
+Only confirmed Owned pets use color portraits. Missing and Unknown pets use grayscale in both the gallery and preview. Unknown remains a separate evidence state; it does not mean confirmed missing.
 
 ### Mix armor pieces
 Select a full Armor set and click **Wear selected set**, then search the individual Helm, Pauldrons, Top, Gloves, Legs, Shoes and Cloak fields to replace pieces. Type any part of a piece name for suggestions. Browsing another collection keeps your current outfit. Male/Female changes the complete outfit. The preview does not change equipped gear or ownership. Only pieces with separate geometry in both body models are offered. Some combinations may clip.
+
+### Table headers
+Drag the divider between table headers to resize columns; drag a header to reorder columns. Double-click a divider to fit its contents. Use Ctrl+C to copy selected cells as tab-separated text for Excel. Click any header (or right-click it) for ascending/descending sort, text and value filters, clearing filters, and fitting widths to contents. Filters combine across columns. Select none hides all values; Select all restores them. Table actions and editable counts continue to address the correct records after sorting. Catalog list/card views retain their existing search and category controls.
+
+### Connection data limits
+Npcap supplies packet capture, not decoded inventory or position data. Character identity and pet observations are supported. Inventory, personal/account storage totals and continuous player coordinates are not yet validated by the game decoder. Crafting quantities remain manual; opening a storage does not currently import it. The map can consume verified network positions when a decoder and map calibration become available; current screen-based positioning remains the available fallback.

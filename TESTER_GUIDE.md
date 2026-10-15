@@ -130,7 +130,13 @@ Settings → Sounds contains four original bundled chimes, separate update/remin
 
 ## v0.9.2 appearance checks
 
-In Closet, select a full Armor set, choose Male and Female, and confirm the character appearance changes. Drag to rotate, scroll to zoom, right-drag to pan and use Reset view. Inspecting a piece must keep the full model in view. The game base body is a reference, not the player's customized character. Model files download only from the AetherTrail downloads repository and then use a verified cache. All 119 full sets have both variants; other individual appearance families may not have models. Confirm Missing pets are grayscale in both the gallery and large preview, with Owned and Unknown pets in color.
+In Closet, select a full Armor set, choose Male and Female, and confirm the character appearance changes. Drag to rotate, scroll to zoom, right-drag to pan and use Reset view. Inspecting a piece must keep the full model in view. The game base body is a reference, not the player's customized character. Model files download only from the AetherTrail downloads repository and then use a verified cache. All 119 full sets have both variants; other individual appearance families may not have models. Confirm Missing and Unknown pets are grayscale in both the gallery and large preview, with only Owned pets in color.
 
 ### Mix armor pieces
 Select a full Armor set and click **Wear selected set**, then search the individual Helm, Pauldrons, Top, Gloves, Legs, Shoes and Cloak fields to replace pieces. Type any part of a piece name for suggestions. Browsing another collection keeps your current outfit. Male/Female changes the complete outfit. The preview does not change equipped gear or ownership. Only pieces with separate geometry in both body models are offered. Some combinations may clip.
+
+### Table headers
+Drag the divider between table headers to resize columns; drag a header to reorder columns. Double-click a divider to fit its contents. Use Ctrl+C to copy selected cells as tab-separated text for Excel. Click any header (or right-click it) for ascending/descending sort, text and value filters, clearing filters, and fitting widths to contents. Filters combine across columns. Select none hides all values; Select all restores them. Table actions and editable counts continue to address the correct records after sorting. Catalog list/card views retain their existing search and category controls.
+
+### Connection data limits
+Npcap supplies packet capture, not decoded inventory or position data. Character identity and pet observations are supported. Inventory, personal/account storage totals and continuous player coordinates are not yet validated by the game decoder. Crafting quantities remain manual; opening a storage does not currently import it. The map can consume verified network positions when a decoder and map calibration become available; current screen-based positioning remains the available fallback.

@@ -1,7 +1,9 @@
-AetherTrail v0.9.3 renames Sets to **Closet** and adds mix-and-match armor previews. Select a full Armor set, click **Wear selected set**, then search each armor slot to replace pieces from other sets. Male/Female switches the complete outfit. Browsing other collections preserves your outfit. Only separate parts verified in both models are offered; some combinations may clip.
+AetherTrail v0.9.4 gives Closet a three-column layout: a larger model preview, a vertical armor mixer, and a separate set browser. Category, ownership filter and search now sit above the two right columns.
 
-Collection search now suggests set and piece names as you type, switches to the matching category when you choose a suggestion, and includes a clear button. The bundled renderer remains local, and model downloads come from AetherTrail’s own repository.
+Only confirmed Owned pets are shown in color. Missing and Unknown pets are grayscale in both thumbnails and the large preview. Unknown remains a distinct status, not proof that a pet is missing.
 
-Fixed GitHub installer builds: missing bundled renderer files are now tracked and retain their original bytes on Windows checkouts, with an early integrity regression check.
+Tables now support draggable column widths and order, header menus for sorting and text/value filters, clearing filters, auto-fit widths, and Ctrl+C to copy selected cells for a spreadsheet. Sorting keeps actions tied to their original records. List/card views retain their existing search controls.
 
-Download **AetherTrail-Setup-x64-v0.9.3-preview.exe** for normal installation. Close the app and run Setup; settings and character data are retained. ZIP downloads remain available for the built-in updater and portable use.
+Npcap inventory/storage totals and continuous network player positions remain unvalidated. Crafting quantities remain manual, and screen-based map tracking remains available; this update does not claim live storage import or enable unverified coordinates.
+
+Download **AetherTrail-Setup-x64-v0.9.4-preview.exe** for normal installation. Close AetherTrail and run Setup; settings and character data are retained. The ZIP remains available for the built-in updater and portable use.
