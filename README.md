@@ -1,14 +1,12 @@
 # AetherTrail Windows previews
 
-[Latest update: v0.8.19](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.8.19-preview)
+[Latest update: v0.8.20](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.8.20-preview)
 
-**Version 0.8.19:** saved minimap/title setup, remembered reading across restarts, automatic separate character profiles, clearer world-entry refresh guidance on Connection/Pets/Regions, and automatic startup of saved terrain/visible-progress tracking with location reading. Network collectible completion is not decoded yet.
+**Version 0.8.20:** saved minimap/title setup, remembered reading across restarts, automatic separate character profiles, clearer world-entry refresh guidance on Connection/Pets/Regions, and automatic startup of saved terrain/visible-progress tracking with location reading. Network collectible completion is not decoded yet.
 
 **Existing installations:** Settings → Updates → Check for updates → Download update & restart. Installation remains your choice.
 
-Latest portable download: extract the complete v0.8.19 ZIP into a dedicated folder and run Aethertrail.exe with its accompanying runtime and license files. Saved data stays in AppData.
-
-Older installer option: **AetherTrail-Setup-x64-v0.8.15-preview.exe** (update through Settings afterward). Run Setup, choose your application folder and shortcuts, then install. Future Setup downloads remember the installed folder. The optional ZIP is for portable use and existing in-app updates. No Python or IDE is needed. This Windows 10/11 x64 preview is unsigned.
+**Recommended download: AetherTrail-Setup-x64-v0.8.20-preview.exe.** Run Setup to install the complete application and shortcuts, then choose Launch AetherTrail. No manual ZIP extraction is needed. The ZIP remains an optional portable download and supplies the built-in updater. Windows 10/11 x64; no Python or IDE is needed. This preview is unsigned. Saved settings and character data remain in AppData.
 
 Updates clean obsolete application runtime files while retaining settings, crafting plans, timers and character data in their separate app-data folder. Setup does not force-close a running app. Windows Installed apps supports uninstall without deleting saved data.
 

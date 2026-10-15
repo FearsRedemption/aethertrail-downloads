@@ -2,7 +2,7 @@
 
 Download: https://github.com/FearsRedemption/aethertrail-downloads/releases
 
-This hotfix is supplied as **Aethertrail-Windows-x64-v0.8.19-preview.zip**. Extract the entire ZIP into a dedicated folder and run Aethertrail.exe with its runtime and licenses beside it. Existing installations can choose Download update & restart from Settings -> Updates after the release is published. Installation remains the user's choice. Windows 10/11 x64; no Python or IDE is needed. The app opens maximized. Internet is required for the hosted map; OCR runs locally. The 0.8.15 normal Windows installer remains available separately; no new Setup executable accompanies this hotfix.
+Recommended download: **AetherTrail-Setup-x64-v0.8.20-preview.exe**. Close the old app and run Setup; no manual ZIP extraction is required. Setup installs the complete runtime and shortcuts and offers to launch AetherTrail. Keep saved settings and character data in AppData when refreshing old program files. The ZIP is retained for the built-in updater and optional portable use. Windows 10/11 x64; no Python or IDE is needed. The app opens maximized. Internet is required for the hosted map; OCR runs locally.
 
 Navigation keeps its controls together and wraps them when larger text needs more room. Character progress and Tracking setup and help are in Map tools. The capture helper is built into Aethertrail; Npcap is a separate driver, linked from Settings → Connection. No Wireshark/helper app needs to run. Npcap is not needed for screen area reading. Continuous network player position remains unverified and disabled.
 
@@ -98,11 +98,11 @@ The position/area/expiry UI passed isolated native fixtures. Real exact-position
 Startup update prompts are enabled by default. A newer release offers Yes, No, or Disable startup notifications. Yes starts the verified download and restart; No leaves the app open. Disabling this prompt only changes the startup-popup preference; scheduled checks and the Settings dot remain available. Re-enable it in Settings → Updates.
 
 
-## Screenshot controls and update guidance (v0.8.19)
+## Screenshot controls and update guidance (v0.8.20)
 
 Use the mouse wheel to zoom a screenshot, hold middle mouse and drag to pan, and left-drag to draw terrain/title boxes. Fit screenshot returns to the full image without clearing boxes. Saved crops remain in original physical pixels, including after zoom/pan and window resizing. A newly found update sends a brief golden sparkle trail down the sidebar toward Settings; opening Settings stops the trail and preserves the update dot. Checks never install automatically.
 
-## Automatic character and map setup (v0.8.19)
+## Automatic character and map setup (v0.8.20)
 
 Keep AetherTrail open on Connection → Auto, return to AION character selection and enter the desired character to receive identity and supported pet data. The app automatically creates/selects a separate profile. Restarting the companion alone cannot replay a login snapshot. Connection, Pets and Regions explain this step. Advanced packet recording/reference imports are troubleshooting tools, not normal setup.
 

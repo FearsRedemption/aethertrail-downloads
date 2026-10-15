@@ -138,3 +138,7 @@ When reporting an issue, include your app version, affected page, UI scale/theme
 ## 13. What is still experimental
 
 Continuous player coordinates, reliable all-dungeon terrain coverage, live inventory/material tracking, automatic feather identification and party/invite-code location sharing are not complete. This guide will be revised when their actual implementation and verification change. Existing manual/offline tools remain useful independently of those features.
+
+## Fresh install from an older version
+
+Download the latest **AetherTrail-Setup-x64** executable from the public releases page. Close the old app, run Setup and follow its prompts; it installs the complete app and offers to launch it. No manual ZIP extraction is required. Keep saved settings and character progress in AppData. The built-in updater remains available for existing installations; ZIP downloads are optional portable/updater packages.
