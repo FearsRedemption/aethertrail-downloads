@@ -16,7 +16,7 @@ Settings, timer deadlines, crafting plans and character data are stored under **
 
 ## 2. First launch and window controls
 
-The app opens maximized by default. The left rail switches between Navigation, Pets, Regions, Crafting, Timers, Checklists and Settings. Each destination shows its own workspace. Switching away from Navigation hides the map while timers continue running.
+The app opens maximized by default. The left rail switches between Navigation, Pets, Sets, Regions, Crafting, Timers, Checklists and Settings. Each destination shows its own workspace. Switching away from Navigation hides the map while timers continue running.
 
 Open **Settings → Display** to choose Dark or Light theme, adjust UI scale, or maximize/restore. UI scale enlarges text and icons and also scales the hosted map. Controls can wrap or scroll when larger text needs more room. Press **F11** for full screen and **Escape** to leave full screen. Display preferences are saved between launches.
 
@@ -77,7 +77,7 @@ Verified Global Steam login observations can populate character identity, pet ow
 
 ## 7. Pets and regional progress
 
-**Pets** displays supported login pet observations for a linked character, with search/filter controls. Unseen pets remain unknown; a blank/unknown row is not proof you lack the pet. Claim eligibility is not verified. Relog into the world to refresh login-derived ownership and levels.
+**Pets** displays a searchable portrait gallery with supported login pet observations for the selected character, soul requirements, named soul sources and recorded source locations. Unseen pets remain unknown; a blank/unknown row is not proof you lack the pet. Claim eligibility is not verified. Relog into the world to refresh login-derived ownership and levels.
 
 **Regions** reviews saved regional checklists and map marks, including offline. Use the same character-selection/world-entry step above to select the correct linked character. Login currently imports pets, not a full collectible checklist. Visible game-map completion evidence is synced automatically while location reading is running; unknown/missing evidence never becomes an invented completion mark. Visit a region in Navigation to load it initially; refresh the current map to update its saved snapshot. Select the intended character and region. Manual marks are stored per character/region. Saved positive observations can be shown as last known; stale absence is not proof of missing progress.
 
@@ -143,6 +143,14 @@ Continuous player coordinates, reliable all-dungeon terrain coverage, live inven
 
 Download the latest **AetherTrail-Setup-x64** executable from the public releases page. Close the old app, run Setup and follow its prompts; it installs the complete app and offers to launch it. No manual ZIP extraction is required. Keep saved settings and character progress in AppData. The built-in updater remains available for existing installations; ZIP downloads are optional portable/updater packages.
 
-## Pet details
+## Pets, Sets and exploration completion (v0.9.0)
 
-Pets separates name, ownership, observed level/souls and last-observed evidence into readable columns. Select a row for a detail summary. Unknown values stay unknown; absence does not prove a pet is missing. Pet portraits, mount ownership, acquisition catalogs and Sets are not included in this update.
+Pets shows 207 original game portraits, observed ownership, level and soul points. Select a card for soul requirements, named soul sources, known source locations and its reference link. The catalog is browsable offline before connecting. Unknown stays unknown. Leave Connection on Auto, return to character selection and enter your character once to receive login observations; relog to refresh them. Mount eligibility is not separately verified.
+
+Sets contains Armor, Weapons and Decoration collections from 1,463 Global-client appearances. Search by set or piece name; select a collection to see its piece layout, enlarge individual artwork and inspect unlock items/source links. Armor entries distinguish game SkinSet membership from browsing name families. Obtained, Missing and Unknown are manual appearance notes saved separately for each selected character. The app does not infer Closet unlocks from inventory, equipped gear or pet packets. No interactive character model is bundled. Some icons and acquisition routes are unavailable; a listed unlock item does not establish a dungeon drop location.
+
+Start location reading, then open AION’s full map → Exploration. Repeated, confident **100%** Sealed Dungeon summaries mark the current region’s native sealed-dungeon markers, including older completions. Explicit **0%** clears that category for the selected character; partial percentages alone do not identify which individual dungeons remain. Repeated, clearly checkmarked named rows can sync older completions as you scroll the list; blank rows stay unknown. This summary reading works without a matched terrain reference. Stronghold 100%/0% is saved as regional completion and displayed above Navigation and in Regions, because the hosted map has no native stronghold checklist marker type. Scanning stays on the remembered game monitor.
+
+Visible supported icon evidence remains available with aligned terrain references. Screen observations are saved per character and region, separate from manual map marks. Opening another character’s map does not transfer these observations. A hidden or disappearing dungeon icon never proves completion. Network collectible decoding remains unavailable; pet imports alone cannot mark a map.
+
+Settings → Sounds contains four original bundled chimes, separate update/reminder choices and enable switches, volume, Preview and Mute all app sounds. New-version discovery chimes once; duplicate checks remain quiet across restarts. Nearby timer expirations coalesce playback. Audio failure leaves visual alerts available without a Windows error beep fallback. Checks notify; installation is your choice.

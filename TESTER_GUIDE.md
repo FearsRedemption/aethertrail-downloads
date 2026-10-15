@@ -2,7 +2,7 @@
 
 Download: https://github.com/FearsRedemption/aethertrail-downloads/releases
 
-Recommended download: **AetherTrail-Setup-x64-v0.8.21-preview.exe**. Close the old app and run Setup; no manual ZIP extraction is required. Setup installs the complete runtime and shortcuts and offers to launch AetherTrail. Keep saved settings and character data in AppData when refreshing old program files. The ZIP is retained for the built-in updater and optional portable use. Windows 10/11 x64; no Python or IDE is needed. The app opens maximized. Internet is required for the hosted map; OCR runs locally.
+Recommended download: **AetherTrail-Setup-x64-v0.9.0-preview.exe**. Close the old app and run Setup; no manual ZIP extraction is required. Setup installs the complete runtime and shortcuts and offers to launch AetherTrail. Keep saved settings and character data in AppData when refreshing old program files. The ZIP is retained for the built-in updater and optional portable use. Windows 10/11 x64; no Python or IDE is needed. The app opens maximized. Internet is required for the hosted map; OCR runs locally.
 
 Navigation keeps its controls together and wraps them when larger text needs more room. Character progress and Tracking setup and help are in Map tools. The capture helper is built into Aethertrail; Npcap is a separate driver, linked from Settings → Connection. No Wireshark/helper app needs to run. Npcap is not needed for screen area reading. Continuous network player position remains unverified and disabled.
 
@@ -112,6 +112,18 @@ Verified completion evidence syncs to the linked character’s Navigation map. E
 
 Settings → Sounds contains four original bundled chimes, separate update/reminder choices and enable switches, volume, Preview and Mute all app sounds. New-version discovery chimes once; duplicate checks remain quiet across restarts. Nearby timer expirations coalesce sound playback. Audio failure leaves visual alerts available without a Windows error beep fallback. Settings persist.
 
-Pets shows separate ownership, level/souls and last-observed columns, with a selected-row detail summary. Unknown stays unknown. Portraits, mount ownership and Sets are deferred.
+Pets shows separate ownership, level/souls and last-observed columns, with a selected-row detail summary. Unknown stays unknown. This table layout was replaced by the v0.9.0 portrait gallery and Sets browser described below.
 
-Collection coverage: sealed dungeons and strongholds are not automatically marked yet. The user reported all completed sealed dungeons remaining unmarked; this requires new category/evidence support, not a sound-setting change.
+Collection coverage in v0.8.21 was limited to supported teleport/feather screen evidence. v0.9.0 adds Exploration summaries as described below.
+
+## Pets, Sets and exploration completion (v0.9.0)
+
+Pets shows 207 original game portraits, observed ownership, level and soul points. Select a card for soul requirements, named soul sources, known source locations and its reference link. The catalog is browsable offline before connecting. Unknown stays unknown. Leave Connection on Auto, return to character selection and enter your character once to receive login observations; relog to refresh them. Mount eligibility is not separately verified.
+
+Sets contains Armor, Weapons and Decoration collections from 1,463 Global-client appearances. Search by set or piece name; select a collection to see its piece layout, enlarge individual artwork and inspect unlock items/source links. Armor entries distinguish game SkinSet membership from browsing name families. Obtained, Missing and Unknown are manual appearance notes saved separately for each selected character. The app does not infer Closet unlocks from inventory, equipped gear or pet packets. No interactive character model is bundled. Some icons and acquisition routes are unavailable; a listed unlock item does not establish a dungeon drop location.
+
+Start location reading, then open AION’s full map → Exploration. Repeated, confident **100%** Sealed Dungeon summaries mark the current region’s native sealed-dungeon markers, including older completions. Explicit **0%** clears that category for the selected character; partial percentages alone do not identify which individual dungeons remain. Repeated, clearly checkmarked named rows can sync older completions as you scroll; blank rows stay unknown. This summary reading works without a matched terrain reference. Stronghold 100%/0% is saved as regional completion and displayed above Navigation and in Regions, because the hosted map has no native stronghold checklist marker type. Scanning stays on the remembered game monitor.
+
+Visible supported icon evidence remains available with aligned terrain references. Screen observations are saved per character and region, separate from manual map marks. Opening another character’s map does not transfer these observations. A hidden or disappearing dungeon icon never proves completion. Network collectible decoding remains unavailable; pet imports alone cannot mark a map.
+
+Settings → Sounds contains four original bundled chimes, separate update/reminder choices and enable switches, volume, Preview and Mute all app sounds. New-version discovery chimes once; duplicate checks remain quiet across restarts. Nearby timer expirations coalesce playback. Audio failure leaves visual alerts available without a Windows error beep fallback. Checks notify; installation is your choice.
