@@ -1,0 +1,2029 @@
+{
+  "version": 1,
+  "base_url": "https://raw.githubusercontent.com/FearsRedemption/aethertrail-downloads/main/models/v1/",
+  "sets": {
+    "Adamant Guardian": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/adamant-guardian",
+      "variants": {
+        "Female": {
+          "file": "gf-300011.glb",
+          "sha256": "ea196edd0fa3b21635ec1e8a028ebd43edefa85640165ea0d61f59027ef037dd",
+          "bytes": 1414844,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300011.glb"
+        },
+        "Male": {
+          "file": "gm-300011.glb",
+          "sha256": "c2c060ef95902c7007b5ff9029e59ef5dc0a71a69564181033ac8abf2efb25f9",
+          "bytes": 1367100,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300011.glb"
+        }
+      }
+    },
+    "Amethyst Scale": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/amethyst-scale",
+      "variants": {
+        "Female": {
+          "file": "gf-301521.glb",
+          "sha256": "fa83dfb43ed4da92bb90ef5a6b8987707e76e555d4b886930998b08cc18c7c7b",
+          "bytes": 835984,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301521.glb"
+        },
+        "Male": {
+          "file": "gm-301521.glb",
+          "sha256": "bae6d5f45844c01e76a7d3be2cdb1edd57e3a14527ec82e3da0fda18dc6e619a",
+          "bytes": 830372,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301521.glb"
+        }
+      }
+    },
+    "Ancient Guardian": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/ancient-guardian",
+      "variants": {
+        "Female": {
+          "file": "gf-400041.glb",
+          "sha256": "01990ce6345eb2dce22d5c24256ad79d30bc5e0752524cf71849f82cd96adbc2",
+          "bytes": 1391136,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400041.glb"
+        },
+        "Male": {
+          "file": "gm-400041.glb",
+          "sha256": "c4db0eb85f7f18fbad1bc72aac9773bc829a5d8206a53e497314cd8760906a97",
+          "bytes": 1383104,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400041.glb"
+        }
+      }
+    },
+    "Anguished Darkness": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/anguished-darkness",
+      "variants": {
+        "Female": {
+          "file": "gf-300411.glb",
+          "sha256": "99ae3fbbaa9abc036a5f5a47be7ac149e8e4f15b1e45637536f9074a5ed792e1",
+          "bytes": 1325732,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300411.glb"
+        },
+        "Male": {
+          "file": "gm-300411.glb",
+          "sha256": "73497c394b983ddfb2dd0eccd49ae46943a74b736798de86aa012163dadd7559",
+          "bytes": 1092536,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300411.glb"
+        }
+      }
+    },
+    "Argent Light": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/argent-light",
+      "variants": {
+        "Female": {
+          "file": "gf-301481.glb",
+          "sha256": "458e8fe09cae403b39088a16c6800c3920edabfa76aba87ab9ab3d3d266cfea7",
+          "bytes": 301932,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301481.glb"
+        },
+        "Male": {
+          "file": "gm-301481.glb",
+          "sha256": "f5ed77a08629b8e10ea9177729ca5d4b9ae9bd8290cf0f2c0c1a85cde3de5e08",
+          "bytes": 977132,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301481.glb"
+        }
+      }
+    },
+    "Ascended Daeva": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/ascended-daeva",
+      "variants": {
+        "Female": {
+          "file": "gf-300801.glb",
+          "sha256": "d2e3ca564093dc7d0e54386f2e5c0ee7761f744506a67fe5a0c6879525d2a8d3",
+          "bytes": 1378172,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300801.glb"
+        },
+        "Male": {
+          "file": "gm-300801.glb",
+          "sha256": "aa4f693ac1b0a75e1789522af1f7902cb563d5e0ef3210ff10a729e78e6e5a69",
+          "bytes": 1304508,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300801.glb"
+        }
+      }
+    },
+    "Awakened": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/awakened",
+      "variants": {
+        "Female": {
+          "file": "gf-300701.glb",
+          "sha256": "c4033cd04b3365e319e15892d7f8d6344f8215f606c9d816b63d9f61c92a44b6",
+          "bytes": 1798900,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300701.glb"
+        },
+        "Male": {
+          "file": "gm-300701.glb",
+          "sha256": "e071d06ff6ee90f9d18df1e9b61fa021fdc9e859b349a048ffea05083ac01276",
+          "bytes": 1792540,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300701.glb"
+        }
+      }
+    },
+    "Azure Aura": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/azure-aura",
+      "variants": {
+        "Female": {
+          "file": "gf-300541.glb",
+          "sha256": "0643a8d92f28c294d4f54d1654ce80727eb149a125fb1179ae108d2beab25893",
+          "bytes": 1230636,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300541.glb"
+        },
+        "Male": {
+          "file": "gm-300541.glb",
+          "sha256": "4428d6532d2ade0190500c03d88a5f9b22e60bdf1649c1a0abc4f9e1030043a2",
+          "bytes": 1165632,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300541.glb"
+        }
+      }
+    },
+    "Battle Spirit": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/battle-spirit",
+      "variants": {
+        "Female": {
+          "file": "gf-300231.glb",
+          "sha256": "e0221ea3167450d875e73245d1cbe6301cf8de1501f591ec1cf45fe616052818",
+          "bytes": 902904,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300231.glb"
+        },
+        "Male": {
+          "file": "gm-300231.glb",
+          "sha256": "26a1d83eed15c4bc7996ce8ead0e8f8f5467da5e754a2020a303f50b6f880abc",
+          "bytes": 900480,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300231.glb"
+        }
+      }
+    },
+    "Blessing of Life": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/blessing-of-life",
+      "variants": {
+        "Female": {
+          "file": "gf-300081.glb",
+          "sha256": "5c8bce2cdb360bfbf2a13f1d17d5e5274ce3990fb0df8cce7f3bf7ed167797b7",
+          "bytes": 1200220,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300081.glb"
+        },
+        "Male": {
+          "file": "gm-300081.glb",
+          "sha256": "9391d40a3ee4027cc6fa1099efec670e5b9d464761453e0b94774482a96e8007",
+          "bytes": 1117972,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300081.glb"
+        }
+      }
+    },
+    "Bloodscent Image": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/bloodscent-image",
+      "variants": {
+        "Female": {
+          "file": "gf-301391.glb",
+          "sha256": "86cbf90a0c6aa7e3c0ddecae69768321962528d62c4cdbefefde8eb97d5334d3",
+          "bytes": 1194964,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301391.glb"
+        },
+        "Male": {
+          "file": "gm-301391.glb",
+          "sha256": "aa37a50c71b0f3c1efc368f77f59f7477a9e03806d427758e7faf3fbff450534",
+          "bytes": 1217212,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301391.glb"
+        }
+      }
+    },
+    "Blue Breath Searcher": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/blue-breath-searcher",
+      "variants": {
+        "Female": {
+          "file": "gf-301101.glb",
+          "sha256": "cffc1710ea566af4d07e72c4ce307be90d85e4bc7079d3081142c1a06cb7e569",
+          "bytes": 736740,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301101.glb"
+        },
+        "Male": {
+          "file": "gm-301101.glb",
+          "sha256": "3a2e363840ece28a165f2687adbd252f153efa513f7852e78b688bfe53051263",
+          "bytes": 722568,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301101.glb"
+        }
+      }
+    },
+    "Centurion Armor": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/centurion-armor",
+      "variants": {
+        "Female": {
+          "file": "gf-300201.glb",
+          "sha256": "ec179ffee199e32e46b87c562fccfd5b0e3c34960ad60c8a47d9c378155e494f",
+          "bytes": 1170396,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300201.glb"
+        },
+        "Male": {
+          "file": "gm-300201.glb",
+          "sha256": "4ad358c6068869e21703329c048b332931544709e7015c7e7685690d78a71029",
+          "bytes": 1242788,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300201.glb"
+        }
+      }
+    },
+    "Chivalrous Will": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/chivalrous-will",
+      "variants": {
+        "Female": {
+          "file": "gf-300041.glb",
+          "sha256": "981394b4466d2330f4306fbde78fb8ff9cead431e173831b852f556b1af5ce66",
+          "bytes": 1108308,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300041.glb"
+        },
+        "Male": {
+          "file": "gm-300041.glb",
+          "sha256": "0d8ffdd332cc7422046fa2118d9cdd1d614c6b9afcfbd9f55e4fb27c5f6ca7fc",
+          "bytes": 1180300,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300041.glb"
+        }
+      }
+    },
+    "Contemplator": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/contemplator",
+      "variants": {
+        "Female": {
+          "file": "gf-300241.glb",
+          "sha256": "13d803c0ff32c4b576b3d1f5c66371539429d301e2bd02c438f1af9cd3c6fa73",
+          "bytes": 884100,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300241.glb"
+        },
+        "Male": {
+          "file": "gm-300241.glb",
+          "sha256": "3bdf177bc575aff26b48d2e0e13adc892f138fc5d4033d81ef49dfc04025ca79",
+          "bytes": 789980,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300241.glb"
+        }
+      }
+    },
+    "Dark Fang": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/dark-fang",
+      "variants": {
+        "Female": {
+          "file": "gf-300641.glb",
+          "sha256": "e221fc3c23798b62f55322d8ebba70a8fb508195d009a01b42dcb5a5b627b1c3",
+          "bytes": 1320284,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300641.glb"
+        },
+        "Male": {
+          "file": "gm-300641.glb",
+          "sha256": "4178ced5e7a2327c88ac1f33c1e4f1b13832f4cb5dee75e63c63980b528ef2ea",
+          "bytes": 1119512,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300641.glb"
+        }
+      }
+    },
+    "Dawn Frost": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/dawn-frost",
+      "variants": {
+        "Female": {
+          "file": "gf-301711.glb",
+          "sha256": "b1168ccc867041f230d8594b21ac1109cbfc9d1b63948e40df2b94edd8e3b286",
+          "bytes": 1038040,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301711.glb"
+        },
+        "Male": {
+          "file": "gm-301711.glb",
+          "sha256": "9cffa9dc58a544ac1a0d4e48bcbd8abd96687eec972cc5f76ac8e419ab16419f",
+          "bytes": 1012332,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301711.glb"
+        }
+      }
+    },
+    "Dawnbreaker": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/dawnbreaker",
+      "variants": {
+        "Female": {
+          "file": "gf-300051.glb",
+          "sha256": "c36e0a67b9c3777aa591666998bd19a2796ac7dbc05179a469f7f754b2e0f467",
+          "bytes": 1473332,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300051.glb"
+        },
+        "Male": {
+          "file": "gm-300051.glb",
+          "sha256": "66e478aa2e5084d6eabc510ac6665aa955de8e244923b8d7c2fb4004e63e7ead",
+          "bytes": 1442396,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300051.glb"
+        }
+      }
+    },
+    "Decanus Armor": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/decanus-armor",
+      "variants": {
+        "Female": {
+          "file": "gf-301811.glb",
+          "sha256": "9a4e9a1d16b388a14355132a1ac549fc8a02bfc61253139c6cdac4d0a2b036ef",
+          "bytes": 1632552,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301811.glb"
+        },
+        "Male": {
+          "file": "gm-301811.glb",
+          "sha256": "f99d64d9248e543cc7258c9a93aaabaad3ecedfeb0adbfa4813093c776256b6e",
+          "bytes": 1612808,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301811.glb"
+        }
+      }
+    },
+    "Destruction Spearhead": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/destruction-spearhead",
+      "variants": {
+        "Female": {
+          "file": "gf-300441.glb",
+          "sha256": "75bccc1a764aa7593bfc4460cd18d87b6f32d6e3f7f7c9ce6942df41c9f892e7",
+          "bytes": 1314796,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300441.glb"
+        },
+        "Male": {
+          "file": "gm-300441.glb",
+          "sha256": "91fd205c9ac063bf80bad6832f982ac6ae36d32a8d72af78f3bfa4896b504cc3",
+          "bytes": 1466344,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300441.glb"
+        }
+      }
+    },
+    "Direction Setter": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/direction-setter",
+      "variants": {
+        "Female": {
+          "file": "gf-300381.glb",
+          "sha256": "7987e06756276a9b6cda12d621712b43723dd6dfe20c21850ab35b7cedec1414",
+          "bytes": 1486396,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300381.glb"
+        },
+        "Male": {
+          "file": "gm-300381.glb",
+          "sha256": "6ebc4569855fc0dd63e44bab8a2c5f2d690d09449e6c5c42a2ab74cc19c5cb07",
+          "bytes": 1433880,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300381.glb"
+        }
+      }
+    },
+    "Divine Benediction": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/divine-benediction",
+      "variants": {
+        "Female": {
+          "file": "gf-300581.glb",
+          "sha256": "1f7c1e8e0b32465a7a3325f44c9ebb89f243fab1e93047eb0ebd01a7cc63e826",
+          "bytes": 1218952,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300581.glb"
+        },
+        "Male": {
+          "file": "gm-300581.glb",
+          "sha256": "6cd7bcf637c9e0c2dce1bf0b40b9067bbe6fa26b7175891b440604428e7d1298",
+          "bytes": 1120548,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300581.glb"
+        }
+      }
+    },
+    "Draconic Aura": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/draconic-aura",
+      "variants": {
+        "Female": {
+          "file": "gf-300611.glb",
+          "sha256": "c46b686e2c78254688305e47d638e6fe50f99bd53e8462b6bdc0fcb628f76ba8",
+          "bytes": 1331028,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300611.glb"
+        },
+        "Male": {
+          "file": "gm-300611.glb",
+          "sha256": "f4bc54e21d320b9383113d8f9d52994605109bf61bd90753169d7abb4c36b7e2",
+          "bytes": 1457356,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300611.glb"
+        }
+      }
+    },
+    "Draconic Benediction": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/draconic-benediction",
+      "variants": {
+        "Female": {
+          "file": "gf-300601.glb",
+          "sha256": "7094d47152077b926d84b7a996899db59b409adc57be32448f1fbfd299ac5168",
+          "bytes": 1496476,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300601.glb"
+        },
+        "Male": {
+          "file": "gm-300601.glb",
+          "sha256": "16470afe59e9200ebbc91d278b264eca1572c8515e5bbd2bf797b14fd0889baa",
+          "bytes": 1211304,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300601.glb"
+        }
+      }
+    },
+    "Draconic Rage": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/draconic-rage",
+      "variants": {
+        "Female": {
+          "file": "gf-300621.glb",
+          "sha256": "99510c0ef6e03121d116a2f350b9a35b407e6023d7a0bbd54b714218486ad846",
+          "bytes": 1563196,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300621.glb"
+        },
+        "Male": {
+          "file": "gm-300621.glb",
+          "sha256": "26fc7f66e67c79b861f84eb3141d5ebce3f1e247fafd6d995df3c390545ced1d",
+          "bytes": 1565604,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300621.glb"
+        }
+      }
+    },
+    "Dream Executor": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/dream-executor",
+      "variants": {
+        "Female": {
+          "file": "gf-400021.glb",
+          "sha256": "393e74378d8bb7d03846e4bbad534b861bc022170e2c76349fe858bc121f272d",
+          "bytes": 1466904,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400021.glb"
+        },
+        "Male": {
+          "file": "gm-400021.glb",
+          "sha256": "74f94fdb0cce71e1d99115b0b1a9495fafc429dd0b192188fd6d6ca0a41ae0c3",
+          "bytes": 1468424,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400021.glb"
+        }
+      }
+    },
+    "Dreamy Day Uniform": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/dreamy-day-uniform",
+      "variants": {
+        "Female": {
+          "file": "gf-400421.glb",
+          "sha256": "6271a8e5dac90af0eee29b23e91624347f37f919fcf14d3296f045f068bdfe98",
+          "bytes": 548868,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400421.glb"
+        },
+        "Male": {
+          "file": "gm-400421.glb",
+          "sha256": "2c39e0e8c5ce8cd26e55a40190d2e5ad48441df6476c32e38717298647b25811",
+          "bytes": 493264,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400421.glb"
+        }
+      }
+    },
+    "Dusk Silk": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/dusk-silk",
+      "variants": {
+        "Female": {
+          "file": "gf-300291.glb",
+          "sha256": "c8721eec9f76a609eb8b84eb32a691fcc64de524623315b71570d2f2759493ae",
+          "bytes": 1267132,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300291.glb"
+        },
+        "Male": {
+          "file": "gm-300291.glb",
+          "sha256": "0de2fe02e8f97c3f33b828f09042e76c17bb7d8cc4c93433a34813af61305b53",
+          "bytes": 1206536,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300291.glb"
+        }
+      }
+    },
+    "Duskpath": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/duskpath",
+      "variants": {
+        "Female": {
+          "file": "gf-301501.glb",
+          "sha256": "379394544289b964d05ed81aabe79a8605de67f381ea7e4081344847f1bf24bf",
+          "bytes": 1029500,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301501.glb"
+        },
+        "Male": {
+          "file": "gm-301501.glb",
+          "sha256": "403e8bf0c106fbc07af2f23927183fe4f1008d86069f5f42aad14882e04f3096",
+          "bytes": 1007260,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301501.glb"
+        }
+      }
+    },
+    "Eternal Horn": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/eternal-horn",
+      "variants": {
+        "Female": {
+          "file": "gf-300551.glb",
+          "sha256": "8b003955c56fe5d4d46a3edb0d4af5c16be6c983815dc830236894b0ade01d29",
+          "bytes": 1822156,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300551.glb"
+        },
+        "Male": {
+          "file": "gm-300551.glb",
+          "sha256": "5afc90054e0236b97aa3dabdde57418e5636bcd60693719580abff8461263b7d",
+          "bytes": 1891568,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300551.glb"
+        }
+      }
+    },
+    "Flash Ironclad": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/flash-ironclad",
+      "variants": {
+        "Female": {
+          "file": "gf-300061.glb",
+          "sha256": "d2c2a489f0618fb3e0db1ec195b68359ce1ac13544234bd49cdf26afc60b6bb1",
+          "bytes": 1876516,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300061.glb"
+        },
+        "Male": {
+          "file": "gm-300061.glb",
+          "sha256": "3212eeca840914aefa250c8ef4697a03704766005bc48eba729c2b85081d0c03",
+          "bytes": 1707152,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300061.glb"
+        }
+      }
+    },
+    "Floofy Shugo Friend": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/floofy-shugo-friend",
+      "variants": {
+        "Female": {
+          "file": "gf-400621.glb",
+          "sha256": "617e52ad44e321563248a26b99bf83dc569ad12ea9609ae98a7aa542dbd1ff47",
+          "bytes": 357456,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400621.glb"
+        },
+        "Male": {
+          "file": "gm-400621.glb",
+          "sha256": "250b2c3b46a9fb43cee3e238c2c8ca0a05b3c7b1cd2a9dfecfc53dbb2e754502",
+          "bytes": 328860,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400621.glb"
+        }
+      }
+    },
+    "Forest Guardian": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/forest-guardian",
+      "variants": {
+        "Female": {
+          "file": "gf-300071.glb",
+          "sha256": "f7e19d1e1720ffdceadd3f945873af3136616b88eba4c191c7b28f6e0260937a",
+          "bytes": 1193796,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300071.glb"
+        },
+        "Male": {
+          "file": "gm-300071.glb",
+          "sha256": "a2f348bdd894e2d35a2f3e83247dd8fb74a8a4e3d414c35e20ca77f05e1e86d4",
+          "bytes": 1264496,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300071.glb"
+        }
+      }
+    },
+    "Forest Hermit": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/forest-hermit",
+      "variants": {
+        "Female": {
+          "file": "gf-300881.glb",
+          "sha256": "0e41114a425d75c84faf8a0ed51f1e0a3479dca11383944dcd1227b58aa2bb94",
+          "bytes": 1125732,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300881.glb"
+        },
+        "Male": {
+          "file": "gm-300881.glb",
+          "sha256": "6847e18b5396e37895a5e666cfd2ee84c853204a7bb71a141ff7ac0b8c49237a",
+          "bytes": 1119628,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300881.glb"
+        }
+      }
+    },
+    "Forest Scholar": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/forest-scholar",
+      "variants": {
+        "Female": {
+          "file": "gf-300361.glb",
+          "sha256": "20007a56938ae89c2818c9ed7a9277a09bedb529b2cdc4efc57a66de853782fb",
+          "bytes": 1312516,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300361.glb"
+        },
+        "Male": {
+          "file": "gm-300361.glb",
+          "sha256": "0dd6840482717be97619bdfedbe4d4aee1a0e079d9f78475f587422ebf061ff8",
+          "bytes": 1318780,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300361.glb"
+        }
+      }
+    },
+    "Forgotten Recon Team": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/forgotten-recon-team",
+      "variants": {
+        "Female": {
+          "file": "gf-300681.glb",
+          "sha256": "5c8d542aff3ea6615d88f7862d32f09f986d575adbd9eb81b7bbc85d63f755d0",
+          "bytes": 1524668,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300681.glb"
+        },
+        "Male": {
+          "file": "gm-300681.glb",
+          "sha256": "6c921bd30c00bb0ab83a609f0e160b2252b32947fde5362cfaccd2b674e6f2eb",
+          "bytes": 1355984,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300681.glb"
+        }
+      }
+    },
+    "Genesis Daeva": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/genesis-daeva",
+      "variants": {
+        "Female": {
+          "file": "gf-400641.glb",
+          "sha256": "97e95fbed9979be0cef75f5282e85d6e961e33520890b332d0688603495a3c11",
+          "bytes": 839000,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400641.glb"
+        },
+        "Male": {
+          "file": "gm-400641.glb",
+          "sha256": "d67d4bd46647c7b4ad72bbbfe07edec6612ee33c68bfc5562bd32aed9fabc8ce",
+          "bytes": 853712,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400641.glb"
+        }
+      }
+    },
+    "Gilded Guardian": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/gilded-guardian",
+      "variants": {
+        "Female": {
+          "file": "gf-301371.glb",
+          "sha256": "77a8d81d743c18f6d0cb1306f995540b042268ed11016347f5e1a896dbb4e071",
+          "bytes": 1040616,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301371.glb"
+        },
+        "Male": {
+          "file": "gm-301371.glb",
+          "sha256": "0bc3dca011331eb04515919e509094877b15fcfb91b3482bbd06bdadb98e0a4f",
+          "bytes": 912088,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301371.glb"
+        }
+      }
+    },
+    "Guardian of Honor": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/guardian-of-honor",
+      "variants": {
+        "Female": {
+          "file": "gf-400151.glb",
+          "sha256": "5a0f5c68ca8d548841d0cc3ddba548aa19e73b6d7d1ccf773282b9f595a8d7c1",
+          "bytes": 1322680,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400151.glb"
+        },
+        "Male": {
+          "file": "gm-400151.glb",
+          "sha256": "8aacfaf580c9a5ccad83133b8755627025a8780a39b5986f19e071a0fddea7f8",
+          "bytes": 1322168,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400151.glb"
+        }
+      }
+    },
+    "Hallowed Promise": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/hallowed-promise",
+      "variants": {
+        "Female": {
+          "file": "gf-300321.glb",
+          "sha256": "bb7f76daef4e5a2f0384a4d8d44d985ec093fbb567415a54d2bc532b3d9fd814",
+          "bytes": 1295156,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300321.glb"
+        },
+        "Male": {
+          "file": "gm-300321.glb",
+          "sha256": "01022d1664cae8e92531b1f9edc52b958adc515e05e1ce134989cd27f3ebb2a1",
+          "bytes": 1213040,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300321.glb"
+        }
+      }
+    },
+    "Hidden Escaper": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/hidden-escaper",
+      "variants": {
+        "Female": {
+          "file": "gf-300161.glb",
+          "sha256": "191d4435411194691c9fab86852ea9444c43d0311f32e8ce33f1a96c18c2f97f",
+          "bytes": 1457064,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300161.glb"
+        },
+        "Male": {
+          "file": "gm-300161.glb",
+          "sha256": "f638f5a1401c8f26be5c47894bb9e50b2e658804301ecf58d5c0cce99bea5c34",
+          "bytes": 1409224,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300161.glb"
+        }
+      }
+    },
+    "Howling Dragon": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/howling-dragon",
+      "variants": {
+        "Female": {
+          "file": "gf-300461.glb",
+          "sha256": "56b59a96cb3494ad499214a0fb9676b629262c8d07065b59a6af6dc9c7f02f56",
+          "bytes": 1870328,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300461.glb"
+        },
+        "Male": {
+          "file": "gm-300461.glb",
+          "sha256": "619ca0293c9fb8b1868e03fc640566a73c234e01ff1b76be42c11e7883cb1637",
+          "bytes": 1697680,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300461.glb"
+        }
+      }
+    },
+    "Illusionary Shadow": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/illusionary-shadow",
+      "variants": {
+        "Female": {
+          "file": "gf-300661.glb",
+          "sha256": "8d2fd9f47202c6f90b3df4b416197df2b0e851fd57e0d29650416005a1bf5067",
+          "bytes": 1128876,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300661.glb"
+        },
+        "Male": {
+          "file": "gm-300661.glb",
+          "sha256": "a5dbf9965240c11b6e09c3f189530e1a66a12bb386aff5ade61c457452efde2f",
+          "bytes": 1094548,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300661.glb"
+        }
+      }
+    },
+    "Immortal Heart": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/immortal-heart",
+      "variants": {
+        "Female": {
+          "file": "gf-300561.glb",
+          "sha256": "d292087736922b33f887204310d7524d44fe53d5f2d969fa8626b33c315e131c",
+          "bytes": 1077844,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300561.glb"
+        },
+        "Male": {
+          "file": "gm-300561.glb",
+          "sha256": "4757eaa99731cf3933a421b5fc1d211ceab327b55d3e8086b19eaa8e1140190c",
+          "bytes": 1078324,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300561.glb"
+        }
+      }
+    },
+    "Iron Heart": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/iron-heart",
+      "variants": {
+        "Female": {
+          "file": "gf-300191.glb",
+          "sha256": "bab538da4012939612380bc17f74375fcec3b339b9318d11267172ee55e7df95",
+          "bytes": 1153848,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300191.glb"
+        },
+        "Male": {
+          "file": "gm-300191.glb",
+          "sha256": "e7ca2f5d40b034ec4ff1432d53b84c5d393a8159b512bd555f3e879df7fe790e",
+          "bytes": 1144548,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300191.glb"
+        }
+      }
+    },
+    "Ironclad Vow": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/ironclad-vow",
+      "variants": {
+        "Female": {
+          "file": "gf-300131.glb",
+          "sha256": "a6b7429b2ed8bc0100af12dbfb98c5174841db1495207c3bad28a8e251f77874",
+          "bytes": 1249496,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300131.glb"
+        },
+        "Male": {
+          "file": "gm-300131.glb",
+          "sha256": "a3b3941a8d766c5e242a63b0271b2e92519bbed1e45fbb54a8fcb075b07b5ac8",
+          "bytes": 1214004,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300131.glb"
+        }
+      }
+    },
+    "Journey Flow": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/journey-flow",
+      "variants": {
+        "Female": {
+          "file": "gf-301011.glb",
+          "sha256": "db1e415ce5fdd9edb7fe3392b2e9fc6abbe396e3eb9c5e2cfdd5e118692e3d54",
+          "bytes": 751740,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301011.glb"
+        },
+        "Male": {
+          "file": "gm-301011.glb",
+          "sha256": "78e4fc34a26906d28fe106054261df5e30761d249d20eb49fc60f496c070b500",
+          "bytes": 728192,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301011.glb"
+        }
+      }
+    },
+    "Journey Progress": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/journey-progress",
+      "variants": {
+        "Female": {
+          "file": "gf-301001.glb",
+          "sha256": "2c57058693faf516b1e3b09d01bd9f806b0456018fd4d90509f2e2ed8dd394ca",
+          "bytes": 897024,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301001.glb"
+        },
+        "Male": {
+          "file": "gm-301001.glb",
+          "sha256": "c05d323fe7bea0946cab579099f1f9636df9655a82374072a948edd616270ea3",
+          "bytes": 908832,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301001.glb"
+        }
+      }
+    },
+    "Judgment of Glory": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/judgment-of-glory",
+      "variants": {
+        "Female": {
+          "file": "gf-300211.glb",
+          "sha256": "1e67db0f5cbe9dc3d8e41a7fccc2ed9b48c6bfdc855841f0c1a6b101ff7b1654",
+          "bytes": 1248896,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300211.glb"
+        },
+        "Male": {
+          "file": "gm-300211.glb",
+          "sha256": "3dcbb2be7c9996508ecd99a1b85fcb0f5a6e28ec49353397a8c52a80b10b44d1",
+          "bytes": 1190172,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300211.glb"
+        }
+      }
+    },
+    "Keeper": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/keeper",
+      "variants": {
+        "Female": {
+          "file": "gf-300091.glb",
+          "sha256": "7ea69373e51d78d0bc78c9f349c3c6eeca4036b028dcd4c2dbb977fbd5f0eea2",
+          "bytes": 1132200,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300091.glb"
+        },
+        "Male": {
+          "file": "gm-300091.glb",
+          "sha256": "d7005a8e13160a5a143172d632953d1d7b3a67785924d7b226e4116adeb7fcb0",
+          "bytes": 1135120,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300091.glb"
+        }
+      }
+    },
+    "Knightly Conviction": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/knightly-conviction",
+      "variants": {
+        "Female": {
+          "file": "gf-300311.glb",
+          "sha256": "c3084eda432c66f6ec96a9bde1068039cbbc15503adce98acbd0f1a939b7e5c4",
+          "bytes": 1233372,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300311.glb"
+        },
+        "Male": {
+          "file": "gm-300311.glb",
+          "sha256": "3ed7f24fbb78297870cc15ba833b82f7221ecd6a5d655d0d76b2a9a68cb49faf",
+          "bytes": 1192520,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300311.glb"
+        }
+      }
+    },
+    "Knowledge Successor": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/knowledge-successor",
+      "variants": {
+        "Female": {
+          "file": "gf-300931.glb",
+          "sha256": "336333c900199db83d9cce45a70ef9f76e48195c5954cd77e57b9e7df4051c77",
+          "bytes": 872184,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300931.glb"
+        },
+        "Male": {
+          "file": "gm-300931.glb",
+          "sha256": "0e434040d300c992f8d03a398e79ad5b4d9a12ad2627dd917e455019cee9beaa",
+          "bytes": 999804,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300931.glb"
+        }
+      }
+    },
+    "Kromede's Desire": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/kromedes-desire",
+      "variants": {
+        "Female": {
+          "file": "gf-400301.glb",
+          "sha256": "15463f8e748df0e655c3ad7e94de3031b452b07a212db0002a5823d4f77e7563",
+          "bytes": 1496896,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400301.glb"
+        },
+        "Male": {
+          "file": "gm-400301.glb",
+          "sha256": "7aef1ddcbf4d8d0b4b2e9a9980982172af283250f4fbee080e6aadc657bed5c9",
+          "bytes": 1567172,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400301.glb"
+        }
+      }
+    },
+    "Leather Crop Fit": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/leather-crop-fit",
+      "variants": {
+        "Female": {
+          "file": "gf-400481.glb",
+          "sha256": "ebee03826f5738b989f1c343fe5d7f2a98c85c96e6943c441b324d4202a30b1a",
+          "bytes": 832224,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400481.glb"
+        },
+        "Male": {
+          "file": "gm-400481.glb",
+          "sha256": "09c3b8c2637ff4be34455044a51d7e7aeea1a25a8237258daa1377e613a5c1c6",
+          "bytes": 660340,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400481.glb"
+        }
+      }
+    },
+    "Light of Genesis": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/light-of-genesis",
+      "variants": {
+        "Female": {
+          "file": "gf-300631.glb",
+          "sha256": "672f56e6dcc86034e0ae69e56ff843a39c82388d82a3031f919d7b14f84c8d42",
+          "bytes": 1422744,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300631.glb"
+        },
+        "Male": {
+          "file": "gm-300631.glb",
+          "sha256": "bf8e7d30083e89c43a5fd21d45c415fd6c3e4b41dfb7533aafad14c2709b93ac",
+          "bytes": 1237164,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300631.glb"
+        }
+      }
+    },
+    "Lightpath Trace": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/lightpath-trace",
+      "variants": {
+        "Female": {
+          "file": "gf-300811.glb",
+          "sha256": "ddf700e62ee8ec7e8b5557086b8c0801ebbf2e06ab27611922c100eec03c5b07",
+          "bytes": 1080644,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300811.glb"
+        },
+        "Male": {
+          "file": "gm-300811.glb",
+          "sha256": "e9a976fc2abcf6b8ee52cf0e8240e3174940768f016d1bd25409e9c60f501007",
+          "bytes": 1123432,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300811.glb"
+        }
+      }
+    },
+    "Lone Chaser": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/lone-chaser",
+      "variants": {
+        "Female": {
+          "file": "gf-300301.glb",
+          "sha256": "42ce8d21f733f91c4ae57b29825f1449d5adac239c2b41e944d0c56c6a8e340d",
+          "bytes": 1070268,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300301.glb"
+        },
+        "Male": {
+          "file": "gm-300301.glb",
+          "sha256": "aae91e2af1d15069dfd50d191ec61b1b040e4c8db2c27210ff12da8898704547",
+          "bytes": 1072916,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300301.glb"
+        }
+      }
+    },
+    "Loose-Fit Streetwear": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/loose-fit-streetwear",
+      "variants": {
+        "Female": {
+          "file": "gf-400461.glb",
+          "sha256": "ddfda90b3c1a823d96a36da9545c16b2db58a2a2a55b3559f8659ce1d14b73f0",
+          "bytes": 1135948,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400461.glb"
+        },
+        "Male": {
+          "file": "gm-400461.glb",
+          "sha256": "9fdbff2f155c349fca95f653b4e8091777634397df394424db70adcad8bae80b",
+          "bytes": 1184216,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400461.glb"
+        }
+      }
+    },
+    "Meteor's Benediction": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/meteors-benediction",
+      "variants": {
+        "Female": {
+          "file": "gf-300021.glb",
+          "sha256": "b825b77de0d623d2ef45851f90937c4baa35da87457ab44ec935b88542e3eba5",
+          "bytes": 1050444,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300021.glb"
+        },
+        "Male": {
+          "file": "gm-300021.glb",
+          "sha256": "2706c98da94ce50c70eceb3c9b7f9351ad05378e44919382e82c3348cdd5765f",
+          "bytes": 968184,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300021.glb"
+        }
+      }
+    },
+    "Mischievous Shugo": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/mischievous-shugo",
+      "variants": {
+        "Female": {
+          "file": "gf-400611.glb",
+          "sha256": "151a0270eee6cf641339ef71d12c976aa2c39804da79c2577e24fef86d7fe2ac",
+          "bytes": 541940,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400611.glb"
+        },
+        "Male": {
+          "file": "gm-400611.glb",
+          "sha256": "cdf54b3d04331ae6e46f40777d6dcebfcc7b1a793d6ea2dc20a80fa20894c7e9",
+          "bytes": 532708,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400611.glb"
+        }
+      }
+    },
+    "Moon Luster": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/moon-luster",
+      "variants": {
+        "Female": {
+          "file": "gf-300111.glb",
+          "sha256": "b7899d22c8a0ad9c805a620ced4d16788d98bc92c36e5dd8e7b887bf177ac394",
+          "bytes": 1477692,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300111.glb"
+        },
+        "Male": {
+          "file": "gm-300111.glb",
+          "sha256": "6d2e916b519f8672396b6eb2a57156b75547b9eb43dbc25f0ac212d00c4ed275",
+          "bytes": 1457580,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300111.glb"
+        }
+      }
+    },
+    "Moonlit Aria": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/moonlit-aria",
+      "variants": {
+        "Female": {
+          "file": "gf-400671.glb",
+          "sha256": "829d50b35735492ad04f011051f50dd5c14fd5ab95d2f5d787206722327dffed",
+          "bytes": 1157372,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400671.glb"
+        },
+        "Male": {
+          "file": "gm-400671.glb",
+          "sha256": "3fa02ddbd2b46ef58475963ef960b910b1904daddadef2ecd292c53afcea5150",
+          "bytes": 887216,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400671.glb"
+        }
+      }
+    },
+    "Nameless Savior": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/nameless-savior",
+      "variants": {
+        "Female": {
+          "file": "gf-300121.glb",
+          "sha256": "98c88ea68d7f6ff551b361ac8703bfe49034ce83159fcb49c22f3b3190f1c149",
+          "bytes": 1296292,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300121.glb"
+        },
+        "Male": {
+          "file": "gm-300121.glb",
+          "sha256": "d133385b7bed6c82c89993b5ca95c04264a3934753a93678316aee7648dee1d8",
+          "bytes": 1280096,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300121.glb"
+        }
+      }
+    },
+    "Nature Greenwood": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/nature-greenwood",
+      "variants": {
+        "Female": {
+          "file": "gf-300261.glb",
+          "sha256": "0bab262923ecb4a3da20d1f7f1ec43915f20fd79aa954a92485f2d5f0ace6d07",
+          "bytes": 970948,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300261.glb"
+        },
+        "Male": {
+          "file": "gm-300261.glb",
+          "sha256": "25cdca059b428904b85189e6960a7746396d5ad824085bf4a687a8dc372b8c69",
+          "bytes": 814552,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300261.glb"
+        }
+      }
+    },
+    "Netherworld Explorer": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/netherworld-explorer",
+      "variants": {
+        "Female": {
+          "file": "gf-300521.glb",
+          "sha256": "a78af31c367ae50b39e38535fd36883ab167b092985f3e6bc49a6e2e5260283b",
+          "bytes": 1006084,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300521.glb"
+        },
+        "Male": {
+          "file": "gm-300521.glb",
+          "sha256": "6b336b510ee6d1ec55ca7cc0f8014266612c70329df9f6524728956db67e9049",
+          "bytes": 1119860,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300521.glb"
+        }
+      }
+    },
+    "Netherworld Seeker": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/netherworld-seeker",
+      "variants": {
+        "Female": {
+          "file": "gf-301081.glb",
+          "sha256": "7e32122731f23d6d6c0cc760ef0ce7a9f724ec16270f37cc4e6beb353eb7121a",
+          "bytes": 1084672,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301081.glb"
+        },
+        "Male": {
+          "file": "gm-301081.glb",
+          "sha256": "3410e290131530d7bc0131dd862c395ba7b0625e3574e8dae60d46ff69471340",
+          "bytes": 951092,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301081.glb"
+        }
+      }
+    },
+    "Night Dragon": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/night-dragon",
+      "variants": {
+        "Female": {
+          "file": "gf-300431.glb",
+          "sha256": "e6c3f090f0f976bc21681d9cb9a5b11f2339c8718cd9f8fc4f5267044e638510",
+          "bytes": 1291668,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300431.glb"
+        },
+        "Male": {
+          "file": "gm-300431.glb",
+          "sha256": "0dad54feb45c505d4644b28051bb0ae0db57ad4eb9691bab4c7a4efc979a3c87",
+          "bytes": 1291460,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300431.glb"
+        }
+      }
+    },
+    "Night Mist Phantom": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/night-mist-phantom",
+      "variants": {
+        "Female": {
+          "file": "gf-300351.glb",
+          "sha256": "35268c8eeb42653a15e1e22db1c5c9980897744812dfb093cb9e0604140e7c02",
+          "bytes": 1069544,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300351.glb"
+        },
+        "Male": {
+          "file": "gm-300351.glb",
+          "sha256": "451fa3082219d236372a828e585023058f470a0c75adedede86299191a7fbd4f",
+          "bytes": 1106212,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300351.glb"
+        }
+      }
+    },
+    "Night Shadow": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/night-shadow",
+      "variants": {
+        "Female": {
+          "file": "gf-300421.glb",
+          "sha256": "99579b539e0780f7b291952202c48e08c8357e593cc59e4154a386b426a7259a",
+          "bytes": 1157820,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300421.glb"
+        },
+        "Male": {
+          "file": "gm-300421.glb",
+          "sha256": "c116958eaf532afdf7a5d70af295929e17c2a3992e6a331bdf6a4c2d9ac10384",
+          "bytes": 1160336,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300421.glb"
+        }
+      }
+    },
+    "Noble Vow": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/noble-vow",
+      "variants": {
+        "Female": {
+          "file": "gf-300031.glb",
+          "sha256": "6c849a91637669812f6a8af5db43b240848f509ac5080c766c8e836a793cfab4",
+          "bytes": 927424,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300031.glb"
+        },
+        "Male": {
+          "file": "gm-300031.glb",
+          "sha256": "1971e9a7c532cbcec799136a48b40036d5135cd73de1380b347f74032d4f33bd",
+          "bytes": 882040,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300031.glb"
+        }
+      }
+    },
+    "North Wind Ironclad": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/north-wind-ironclad",
+      "variants": {
+        "Female": {
+          "file": "gf-400281.glb",
+          "sha256": "d50482d38c192bc1ff55b7bb9f1d52e7cecbeabf4570e8b853213f7ff38057be",
+          "bytes": 1422728,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400281.glb"
+        },
+        "Male": {
+          "file": "gm-400281.glb",
+          "sha256": "af9630197fdda0bed07198c1956d10973cb3a636e44af3d5d488058c39717466",
+          "bytes": 1434428,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400281.glb"
+        }
+      }
+    },
+    "Oblivion Mediator": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/oblivion-mediator",
+      "variants": {
+        "Female": {
+          "file": "gf-400031.glb",
+          "sha256": "0d8c0e8ddb8863fa921575e6afc33f570a4e55883e216c27236fdd5060b9ad79",
+          "bytes": 1334056,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400031.glb"
+        },
+        "Male": {
+          "file": "gm-400031.glb",
+          "sha256": "bd41e354e52ec46d2a651d7349f7129f297742afc8ee374fb5aef064a8307ed3",
+          "bytes": 1330980,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400031.glb"
+        }
+      }
+    },
+    "Pitch Black Night": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/pitch-black-night",
+      "variants": {
+        "Female": {
+          "file": "gf-301491.glb",
+          "sha256": "e704aa09a82f6bb172f5ccc895dc911ec85a6403a6b383640c917e296c322979",
+          "bytes": 1283484,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301491.glb"
+        },
+        "Male": {
+          "file": "gm-301491.glb",
+          "sha256": "47055a206d257c5bd33a3059e01972a0ca701ac57d17fbe5b7e7f5fce01fa33d",
+          "bytes": 1314216,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301491.glb"
+        }
+      }
+    },
+    "Promise Legion": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/promise-legion",
+      "variants": {
+        "Female": {
+          "file": "gf-400601.glb",
+          "sha256": "5ef3458532e0f58b59a1c2b276535bd9c6ad9757778885f74211e5bc05db4ae2",
+          "bytes": 971164,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400601.glb"
+        },
+        "Male": {
+          "file": "gm-400601.glb",
+          "sha256": "45bb770bf52d72df8388aadc89fe74945774045a84088895b09de76713a59b9b",
+          "bytes": 969864,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400601.glb"
+        }
+      }
+    },
+    "Radiant Heart": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/radiant-heart",
+      "variants": {
+        "Female": {
+          "file": "gf-301131.glb",
+          "sha256": "fb6c137151986b1b7bb8ac8a660c49a3545e0e50a3c772e1cfc5e5ea81100a96",
+          "bytes": 914792,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301131.glb"
+        },
+        "Male": {
+          "file": "gm-301131.glb",
+          "sha256": "4fbb884a2a9353f345de5bd35b07468f1fef8bc4b0ef5957842e7b3d6fd77a94",
+          "bytes": 961324,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301131.glb"
+        }
+      }
+    },
+    "Rage Ironclad": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/rage-ironclad",
+      "variants": {
+        "Female": {
+          "file": "gf-301041.glb",
+          "sha256": "73f3d093b521ff4d8d8e66563681a37342887f8df9cde653186fc90ad9a848da",
+          "bytes": 1087004,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301041.glb"
+        },
+        "Male": {
+          "file": "gm-301041.glb",
+          "sha256": "a73059f2a73892953578a5db737a16eb95360673bf78a950e406170b197ab64a",
+          "bytes": 1081956,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301041.glb"
+        }
+      }
+    },
+    "Researcher": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/researcher",
+      "variants": {
+        "Female": {
+          "file": "gf-300941.glb",
+          "sha256": "43a1b840c76cac7d2c31f7deca398cba1537647ffaba68f81db88a68e4f9f973",
+          "bytes": 844548,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300941.glb"
+        },
+        "Male": {
+          "file": "gm-300941.glb",
+          "sha256": "54673d9cb578708bba6c6985e35a5383ac6fd7ba733a24fae02eba04123b202f",
+          "bytes": 989532,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300941.glb"
+        }
+      }
+    },
+    "Restored Recon Team": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/restored-recon-team",
+      "variants": {
+        "Female": {
+          "file": "gf-300671.glb",
+          "sha256": "26bd399c0f80ecee69d3809189efce7cb80221058570b7f74985ec7254214d38",
+          "bytes": 1415556,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300671.glb"
+        },
+        "Male": {
+          "file": "gm-300671.glb",
+          "sha256": "f893b34a20be342e334477f6b04643b2070c5c2c18a83a717378a27a07658fb9",
+          "bytes": 1433172,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300671.glb"
+        }
+      }
+    },
+    "Roaring Dragon": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/roaring-dragon",
+      "variants": {
+        "Female": {
+          "file": "gf-300451.glb",
+          "sha256": "f25441730af19e4831005d968f1ce39093c80c3f0924830015e3349b2710bccb",
+          "bytes": 2139132,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300451.glb"
+        },
+        "Male": {
+          "file": "gm-300451.glb",
+          "sha256": "ddfae07e7cc5104f78b759744098aec287590068dd2848d17d0d82906f115768",
+          "bytes": 2167864,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300451.glb"
+        }
+      }
+    },
+    "Ruinous Devourer": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/ruinous-devourer",
+      "variants": {
+        "Female": {
+          "file": "gf-300281.glb",
+          "sha256": "244f9d24ca3862312e1662608c83d31dbb7a21516201b034e5d27703a2e55201",
+          "bytes": 1250448,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300281.glb"
+        },
+        "Male": {
+          "file": "gm-300281.glb",
+          "sha256": "89198718ef97f0992b4b19fc87760f250f833ab46cdcfd14dfd18600f5b6e955",
+          "bytes": 1308348,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300281.glb"
+        }
+      }
+    },
+    "Sage of Destiny": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/sage-of-destiny",
+      "variants": {
+        "Female": {
+          "file": "gf-300971.glb",
+          "sha256": "756cf59381679dfc4f13973b486ba6e2d83c3e8e80df46d4a947648aa535426a",
+          "bytes": 1193000,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300971.glb"
+        },
+        "Male": {
+          "file": "gm-300971.glb",
+          "sha256": "cf489192adab904c1e88901007fcd14e2772994f6a1793aec59fea09c67aef00",
+          "bytes": 1155784,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300971.glb"
+        }
+      }
+    },
+    "Sand Dunes Workshop": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/sand-dunes-workshop",
+      "variants": {
+        "Female": {
+          "file": "gf-301561.glb",
+          "sha256": "31462275e01b7bbd6264d216bff73de3d7c6073847b86e904d2016ffe13a3f4c",
+          "bytes": 923432,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301561.glb"
+        },
+        "Male": {
+          "file": "gm-301561.glb",
+          "sha256": "2fde6f3c20072d28860dfae4079e621de928b1a83ca3ec473617f2d59ef0dfd4",
+          "bytes": 1000312,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301561.glb"
+        }
+      }
+    },
+    "Sandstorm Wanderer": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/sandstorm-wanderer",
+      "variants": {
+        "Female": {
+          "file": "gf-301091.glb",
+          "sha256": "8cc612f278bdcb8a70cc62941a424c2e7f73433b58f410ede3009704992edf25",
+          "bytes": 1217032,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301091.glb"
+        },
+        "Male": {
+          "file": "gm-301091.glb",
+          "sha256": "f87fd18d5bfa1477cb03b0ad53cdd6e763a2cfaa40eeaa7bcb11a964d9ae5707",
+          "bytes": 1121492,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301091.glb"
+        }
+      }
+    },
+    "Scribe": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/scribe",
+      "variants": {
+        "Female": {
+          "file": "gf-300951.glb",
+          "sha256": "f4ff17ed74d66443106c9768f556a8612edf8560993eefed6b4f761c344fb263",
+          "bytes": 860564,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300951.glb"
+        },
+        "Male": {
+          "file": "gm-300951.glb",
+          "sha256": "c8f5393a19d7a15002ba97b66038f005e8d803e212a94f1e52967c86a726f9e9",
+          "bytes": 956116,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300951.glb"
+        }
+      }
+    },
+    "Senior Inquirer": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/senior-inquirer",
+      "variants": {
+        "Female": {
+          "file": "gf-300991.glb",
+          "sha256": "82070a3e4fc5f75c8b88c7135490811e1ed34f3fb27688db811a842e5238a497",
+          "bytes": 994764,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300991.glb"
+        },
+        "Male": {
+          "file": "gm-300991.glb",
+          "sha256": "4f413ac4bd0e880704ddc0f7bd7070d9981a8d468b6912582b5c22fc839dcc26",
+          "bytes": 989588,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300991.glb"
+        }
+      }
+    },
+    "Shadow Mask": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/shadow-mask",
+      "variants": {
+        "Female": {
+          "file": "gf-300371.glb",
+          "sha256": "15e17dbf030153555f7e3d2d4e9d0ca8fcfc2a4d59a33047e65736d4b9bd7e5e",
+          "bytes": 1349120,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300371.glb"
+        },
+        "Male": {
+          "file": "gm-300371.glb",
+          "sha256": "2dd71cc4774a8b45eeea683710da1bf38a95756a7429e72042ae3eec97378b7f",
+          "bytes": 1356160,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300371.glb"
+        }
+      }
+    },
+    "Shadow Slayer": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/shadow-slayer",
+      "variants": {
+        "Female": {
+          "file": "gf-400561.glb",
+          "sha256": "3a1ee76177a037cbd94c43d64837276f9723c789cd9bbd9ae8553ec5c76afcb7",
+          "bytes": 1085712,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400561.glb"
+        },
+        "Male": {
+          "file": "gm-400561.glb",
+          "sha256": "8769a435776fa0e85906570968afd783440f31e4a2b68e3b6a6d16354ed3cd6e",
+          "bytes": 1053532,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400561.glb"
+        }
+      }
+    },
+    "Shadowlight Wind": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/shadowlight-wind",
+      "variants": {
+        "Female": {
+          "file": "gf-301401.glb",
+          "sha256": "6fee64467bb01b178fb563e5adb24da425e78cfb858b907edb1e06162b68e72b",
+          "bytes": 1065804,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301401.glb"
+        },
+        "Male": {
+          "file": "gm-301401.glb",
+          "sha256": "22927393d749d0f52f09c143c89a4183cd3f1386700b752e5b7938d512ce6ed6",
+          "bytes": 990456,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301401.glb"
+        }
+      }
+    },
+    "Silent Breath": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/silent-breath",
+      "variants": {
+        "Female": {
+          "file": "gf-301641.glb",
+          "sha256": "244f19cbac995fb3757a140304f7e1dbe4b9ffce5dbe015e256300900d51b9a1",
+          "bytes": 1047528,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301641.glb"
+        },
+        "Male": {
+          "file": "gm-301641.glb",
+          "sha256": "5085c54b5f4face43e3bb23a66a866ef54ef9921bc6e217b987af68aaa20e707",
+          "bytes": 1021332,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301641.glb"
+        }
+      }
+    },
+    "Silent Forest": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/silent-forest",
+      "variants": {
+        "Female": {
+          "file": "gf-300961.glb",
+          "sha256": "35350d8d3c685f612060e7dcefc31596f4ea3738de59162d827cf17e7967c7bd",
+          "bytes": 1344480,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300961.glb"
+        },
+        "Male": {
+          "file": "gm-300961.glb",
+          "sha256": "c9e6e930eab41d8e83c9ce932e3c1c244206ab74594c5b99c10d10ab2ee0d515",
+          "bytes": 1309788,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300961.glb"
+        }
+      }
+    },
+    "Silent Hunter": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/silent-hunter",
+      "variants": {
+        "Female": {
+          "file": "gf-300171.glb",
+          "sha256": "83d3c87593f2162c614a51f8e8d8c4e839aa030281ed6d87136a44854b3370c4",
+          "bytes": 982120,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300171.glb"
+        },
+        "Male": {
+          "file": "gm-300171.glb",
+          "sha256": "2cadecc0cbd6c1144e14253912f163b329318f0f664fb264ee0aef4b91de7082",
+          "bytes": 959780,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300171.glb"
+        }
+      }
+    },
+    "Silent Resolve": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/silent-resolve",
+      "variants": {
+        "Female": {
+          "file": "gf-301761.glb",
+          "sha256": "73f0a373ac9ea86e25436b774f9970418144fa9609e7ad0763b616a366051160",
+          "bytes": 910912,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301761.glb"
+        },
+        "Male": {
+          "file": "gm-301761.glb",
+          "sha256": "78545ff21d6d78d996fa8a4bfd39cfdb39629957c7fa5dce7368521ee3a91e43",
+          "bytes": 905640,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301761.glb"
+        }
+      }
+    },
+    "Silent Steel": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/silent-steel",
+      "variants": {
+        "Female": {
+          "file": "gf-301051.glb",
+          "sha256": "46cefe5b614c3abe2aba541fb73539e8616f40a5dd76092f18a9e4213daa9c03",
+          "bytes": 996832,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301051.glb"
+        },
+        "Male": {
+          "file": "gm-301051.glb",
+          "sha256": "94d5633405ebcb4c872f93d2be272f5347e2c5c0e93a30b2747c732b2372294a",
+          "bytes": 975264,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301051.glb"
+        }
+      }
+    },
+    "Silent Wind": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/silent-wind",
+      "variants": {
+        "Female": {
+          "file": "gf-301581.glb",
+          "sha256": "ddaf8ea7765757f88e155eca030336755f7ed9908026c6642ebe8bd2079e6543",
+          "bytes": 1026600,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301581.glb"
+        },
+        "Male": {
+          "file": "gm-301581.glb",
+          "sha256": "236b0b62bdf5a053f74ff6ae2c88103d10e11bdff81037e84ab752bdc59ea984",
+          "bytes": 1022104,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301581.glb"
+        }
+      }
+    },
+    "Silent Wraith": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/silent-wraith",
+      "variants": {
+        "Female": {
+          "file": "gf-300151.glb",
+          "sha256": "b4b02933e628fa92b00098fb64d8afa266cb8546907ec12d61e5a268fa6b678a",
+          "bytes": 1110200,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300151.glb"
+        },
+        "Male": {
+          "file": "gm-300151.glb",
+          "sha256": "19994df795fe027dcd297c73a56758610998ac2609ece3cea517f1eada261cf8",
+          "bytes": 1090720,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300151.glb"
+        }
+      }
+    },
+    "Silver Barrier": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/silver-barrier",
+      "variants": {
+        "Female": {
+          "file": "gf-301231.glb",
+          "sha256": "69344dade0efedcf9396dcd09dd120af031835ac3378e11d62ed6016fa8188c7",
+          "bytes": 855956,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301231.glb"
+        },
+        "Male": {
+          "file": "gm-301231.glb",
+          "sha256": "f1994c6e9ee8d62130e0955280fa21cda746fa1bf40f99f0aceef3382cb081f7",
+          "bytes": 851992,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301231.glb"
+        }
+      }
+    },
+    "Silver Bell Fairy's Dream": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/silver-bell-fairys-dream",
+      "variants": {
+        "Female": {
+          "file": "gf-300491.glb",
+          "sha256": "5c2d53b891a2e874c7249a9b1c90ec98ba50e7428efaec4a52a3e736ea10ffc9",
+          "bytes": 1719072,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300491.glb"
+        },
+        "Male": {
+          "file": "gm-300491.glb",
+          "sha256": "da4c2ea5e71da40572ba088bac705495184756bf01339f1bea242724c0dfb844",
+          "bytes": 1190372,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300491.glb"
+        }
+      }
+    },
+    "Silver Executioner": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/silver-executioner",
+      "variants": {
+        "Female": {
+          "file": "gf-300331.glb",
+          "sha256": "e8d21dee0825f5ec0145f511c3662c46fba1fb12c0f115d70b9ec41abab84b6c",
+          "bytes": 1337808,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300331.glb"
+        },
+        "Male": {
+          "file": "gm-300331.glb",
+          "sha256": "ffa423b70b52f646bf719bf060a89266810e08c28f9e55b35197da03fda26f95",
+          "bytes": 1320276,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300331.glb"
+        }
+      }
+    },
+    "Skilled Expert": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/skilled-expert",
+      "variants": {
+        "Female": {
+          "file": "gf-300531.glb",
+          "sha256": "ea57b291ef2f2ee96e2ab8a06c11432f9bd750eace204f8e782132ba435ba8d0",
+          "bytes": 1136312,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300531.glb"
+        },
+        "Male": {
+          "file": "gm-300531.glb",
+          "sha256": "abc26270c018727bd4de5e995c0c132c85a236927bf54b0b5f2b31cd2f105d0b",
+          "bytes": 1188200,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300531.glb"
+        }
+      }
+    },
+    "Sky Feather": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/sky-feather",
+      "variants": {
+        "Female": {
+          "file": "gf-300271.glb",
+          "sha256": "bcb11876ea33d1bac0337d0b2a8d6f44d612f8df4a5f74bc51227fd7a16956de",
+          "bytes": 1202040,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300271.glb"
+        },
+        "Male": {
+          "file": "gm-300271.glb",
+          "sha256": "aca90a4391ab6cc1e342d6bbea7d679673eebcf00bce8c0c55e760ca8ef1a5ad",
+          "bytes": 1187592,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300271.glb"
+        }
+      }
+    },
+    "Skybright Oath": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/skybright-oath",
+      "variants": {
+        "Female": {
+          "file": "gf-400141.glb",
+          "sha256": "fa5f06cb8fb33c4c33fd10ad010695a57317957cb80473fb4df4bb991acab369",
+          "bytes": 1274832,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400141.glb"
+        },
+        "Male": {
+          "file": "gm-400141.glb",
+          "sha256": "713b20c657af51d2a5addce3abbc75112ad4b6aa4fbae9ba6c7b848c11717ac7",
+          "bytes": 1147072,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400141.glb"
+        }
+      }
+    },
+    "Skyfeather Guardian": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/skyfeather-guardian",
+      "variants": {
+        "Female": {
+          "file": "gf-300721.glb",
+          "sha256": "b2d77478b0395147ca9050fb89c31940eff51c164b06eecf9ef4f440cef979bd",
+          "bytes": 1387004,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300721.glb"
+        },
+        "Male": {
+          "file": "gm-300721.glb",
+          "sha256": "66ba6c632e964af68130ddbe0cb90bde10b737fa25c4f9ac866ad2cca20cbf03",
+          "bytes": 1434864,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300721.glb"
+        }
+      }
+    },
+    "Snowy Sheer": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/snowy-sheer",
+      "variants": {
+        "Female": {
+          "file": "gf-400631.glb",
+          "sha256": "7dc11319024a52a592364c929f5b5595bd40d2ca0d5b8b60d0d31b974425602a",
+          "bytes": 1062244,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400631.glb"
+        },
+        "Male": {
+          "file": "gm-400631.glb",
+          "sha256": "28ec44d5a355da81e44154f35dd87573e434e8487b148105ff5064088007b106",
+          "bytes": 1025964,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400631.glb"
+        }
+      }
+    },
+    "Solar Radiance": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/solar-radiance",
+      "variants": {
+        "Female": {
+          "file": "gf-300181.glb",
+          "sha256": "3c00e62ac7a131da7adec4a16e2406dc36921e4fd8283a75888a8cacb8530117",
+          "bytes": 1439788,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300181.glb"
+        },
+        "Male": {
+          "file": "gm-300181.glb",
+          "sha256": "a36580a84e6f0a667ef5aeb2a7b5357032071b5d73bd65dac8cb27110f91e015",
+          "bytes": 1379744,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300181.glb"
+        }
+      }
+    },
+    "Soul Pledge": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/soul-pledge",
+      "variants": {
+        "Female": {
+          "file": "gf-300101.glb",
+          "sha256": "8d40e98eeb3a33cf6930d03a6f47404407ddd1289735f900900dbe66ca1b83b5",
+          "bytes": 1724096,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300101.glb"
+        },
+        "Male": {
+          "file": "gm-300101.glb",
+          "sha256": "8bde6582ba093a03ab4397570a799244f861161fdd49a2155c4ccdbfd675cd86",
+          "bytes": 1716600,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300101.glb"
+        }
+      }
+    },
+    "Star Prophet": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/star-prophet",
+      "variants": {
+        "Female": {
+          "file": "gf-300221.glb",
+          "sha256": "a8b36eb28739e6fb666b55a89e9b51f8936913d367744b6f7f9f80a4da71f40b",
+          "bytes": 895372,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300221.glb"
+        },
+        "Male": {
+          "file": "gm-300221.glb",
+          "sha256": "3d1e984a2a2202379e8fe8a4e4338b808df7933084aafbbc9dd1eb81b9ccb40b",
+          "bytes": 1026904,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300221.glb"
+        }
+      }
+    },
+    "Start of Training": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/start-of-training",
+      "variants": {
+        "Female": {
+          "file": "gf-300921.glb",
+          "sha256": "8d2b7949121a22df09aaffbd08bd7aed0e0c0c0e544dfd49da0b7f8a3f6c6542",
+          "bytes": 863156,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300921.glb"
+        },
+        "Male": {
+          "file": "gm-300921.glb",
+          "sha256": "420cac6e31617cb3ff737653e221595e4c5a21d9183fbff188c51dd7283abafa",
+          "bytes": 853224,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300921.glb"
+        }
+      }
+    },
+    "Steadfast Advisor": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/steadfast-advisor",
+      "variants": {
+        "Female": {
+          "file": "gf-300651.glb",
+          "sha256": "d8b032027912750808921ca1fdd280b7524827e4d4fb0dbd233bbf9baac218c6",
+          "bytes": 1213968,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300651.glb"
+        },
+        "Male": {
+          "file": "gm-300651.glb",
+          "sha256": "84bca0bef1814b118229a65b9a919e610d820900c710559ce971221e386313ed",
+          "bytes": 917108,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300651.glb"
+        }
+      }
+    },
+    "Steel Endurance": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/steel-endurance",
+      "variants": {
+        "Female": {
+          "file": "gf-300401.glb",
+          "sha256": "2dd1f7ba50f2c98c91d1a4c2651ccde668abc0c3cb665e5b09ada836a732a345",
+          "bytes": 1188856,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300401.glb"
+        },
+        "Male": {
+          "file": "gm-300401.glb",
+          "sha256": "2bd36e0655aa57a107854bd8e38dd4cce0ff4f02c355f1584afac5e2498a675c",
+          "bytes": 1183188,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300401.glb"
+        }
+      }
+    },
+    "Steel Fortress": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/steel-fortress",
+      "variants": {
+        "Female": {
+          "file": "gf-300141.glb",
+          "sha256": "42796d3119094259c8649016b1464b074eb0d04b9955be1b966bd719735337cc",
+          "bytes": 1245896,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300141.glb"
+        },
+        "Male": {
+          "file": "gm-300141.glb",
+          "sha256": "4494ed2d6c4d771fc94cc51609f808e6947ba501411762ab08ec38548a547b70",
+          "bytes": 1219320,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300141.glb"
+        }
+      }
+    },
+    "Steel Heavy Armor": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/steel-heavy-armor",
+      "variants": {
+        "Female": {
+          "file": "gf-301061.glb",
+          "sha256": "0371ce3a185b1333875f58538639ae5e70124f523e1c7e43c9151c24f70b2aa4",
+          "bytes": 942632,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301061.glb"
+        },
+        "Male": {
+          "file": "gm-301061.glb",
+          "sha256": "c40311c642bdf668a1c262ff7839c7e3d208b37b80e9b5d855c0f2991bb66240",
+          "bytes": 947604,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301061.glb"
+        }
+      }
+    },
+    "Steel Wall": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/steel-wall",
+      "variants": {
+        "Female": {
+          "file": "gf-301221.glb",
+          "sha256": "8bb91335dc0446e9c70da13264258151e8856bb9be4d5d1d68909852d8be5cb3",
+          "bytes": 1088684,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301221.glb"
+        },
+        "Male": {
+          "file": "gm-301221.glb",
+          "sha256": "0856fa0dd8a838c929f103ab14f987ba9c72a584a5adecbba3d7430684ba63ad",
+          "bytes": 1092776,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301221.glb"
+        }
+      }
+    },
+    "Storm Legacy": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/storm-legacy",
+      "variants": {
+        "Female": {
+          "file": "gf-300591.glb",
+          "sha256": "b1a948eda981e4a183c99f65ad0bb77fb2b3b1ad352957f76f8eb31cdbffdd9f",
+          "bytes": 1016992,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300591.glb"
+        },
+        "Male": {
+          "file": "gm-300591.glb",
+          "sha256": "ae12b725e758fce1366ba4b2a490bc94f75ea907284b5b23e17320c2a4348599",
+          "bytes": 963964,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300591.glb"
+        }
+      }
+    },
+    "Tailor of Fate": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/tailor-of-fate",
+      "variants": {
+        "Female": {
+          "file": "gf-301111.glb",
+          "sha256": "aa85ee565b54b6b51dcce599fdead35ff9f5500f474f1399ee155ba0786ad0bb",
+          "bytes": 1107620,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301111.glb"
+        },
+        "Male": {
+          "file": "gm-301111.glb",
+          "sha256": "c2b7416ba3770f127de3d2325e708b4dc9d2e6f852b846f7acdf8e165324efa2",
+          "bytes": 1048244,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301111.glb"
+        }
+      }
+    },
+    "Unknown Pursuer": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/unknown-pursuer",
+      "variants": {
+        "Female": {
+          "file": "gf-301071.glb",
+          "sha256": "d5e2db926e3ab69aa16c6d2c372a6422b7d171c79a1e6cc49da936460424e3b8",
+          "bytes": 1226864,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301071.glb"
+        },
+        "Male": {
+          "file": "gm-301071.glb",
+          "sha256": "a8e6b8ffdedccad7457c4c1f8502e6d2e27abb27a27eb2a16dde5828a75bdae2",
+          "bytes": 1328260,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301071.glb"
+        }
+      }
+    },
+    "Wayfarer": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/wayfarer",
+      "variants": {
+        "Female": {
+          "file": "gf-300891.glb",
+          "sha256": "b2fc4eebf52013992ce3203c008463a0d266ff7c4749e5e5e1e3c01044c71031",
+          "bytes": 1127508,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300891.glb"
+        },
+        "Male": {
+          "file": "gm-300891.glb",
+          "sha256": "5b5f6f899f3964950c76ed5953a45719e0fe623f5b00a7d3aeec996e9a0da1ed",
+          "bytes": 1108892,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300891.glb"
+        }
+      }
+    },
+    "Whisper of the Ether": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/whisper-of-the-ether",
+      "variants": {
+        "Female": {
+          "file": "gf-300981.glb",
+          "sha256": "efb58b1dc72fd729b86666f63d50b1fa037b997f9f0d532a617c5c06af2449e4",
+          "bytes": 1136792,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/300981.glb"
+        },
+        "Male": {
+          "file": "gm-300981.glb",
+          "sha256": "087d587ab2c4869d9ba4b72921bb9e47993331ece9f228846897c4486f537904",
+          "bytes": 1106668,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/300981.glb"
+        }
+      }
+    },
+    "Wild Wanderer": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/wild-wanderer",
+      "variants": {
+        "Female": {
+          "file": "gf-400591.glb",
+          "sha256": "3453af55cf4f00ced8bda141c63496fbbd631f67d932c812fbb882dcc5e432da",
+          "bytes": 1034692,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/400591.glb"
+        },
+        "Male": {
+          "file": "gm-400591.glb",
+          "sha256": "52926f039fac055be4a9d5167a3a89a9ab38f38f687ac741f8bf5b4aa366452a",
+          "bytes": 1134248,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/400591.glb"
+        }
+      }
+    },
+    "Wilderness Grain": {
+      "reference": "https://metabot.gg/en/aion-2/skins/sets/wilderness-grain",
+      "variants": {
+        "Female": {
+          "file": "gf-301461.glb",
+          "sha256": "d97a61edf68e7a5468f6d506c89846ee2e974d8239771fd91b86ab750cd9c97a",
+          "bytes": 1071472,
+          "source": "https://metabot.gg/web/aion2/models/armor/gf/301461.glb"
+        },
+        "Male": {
+          "file": "gm-301461.glb",
+          "sha256": "ba2ac5e1b3d84b70419e862e6e2211d7b810aed433da786e48b50dd69a50e5c2",
+          "bytes": 1061960,
+          "source": "https://metabot.gg/web/aion2/models/armor/gm/301461.glb"
+        }
+      }
+    }
+  }
+}
