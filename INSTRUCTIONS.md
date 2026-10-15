@@ -18,7 +18,7 @@ Settings, timer deadlines, crafting plans and character data are stored under **
 
 The app opens maximized by default. The left rail switches between Navigation, Pets, Regions, Crafting, Timers, Checklists and Settings. Each destination shows its own workspace. Switching away from Navigation hides the map while timers continue running.
 
-Open **Settings → Display** to choose Dark or Light theme, adjust UI scale, set reminder sounds, or maximize/restore. UI scale enlarges text and icons and also scales the hosted map. Controls can wrap or scroll when larger text needs more room. Press **F11** for full screen and **Escape** to leave full screen. Display preferences are saved between launches.
+Open **Settings → Display** to choose Dark or Light theme, adjust UI scale, or maximize/restore. UI scale enlarges text and icons and also scales the hosted map. Controls can wrap or scroll when larger text needs more room. Press **F11** for full screen and **Escape** to leave full screen. Display preferences are saved between launches.
 
 If the map flashes or fails to render, try **Settings → Display → Map rendering → Compatibility (OpenGL)** and restart when convenient. You can switch back to the system default. Rendering behaviour can vary by graphics driver; changing the preference takes effect after restart.
 
@@ -101,7 +101,7 @@ Custom recipe/planning forms let you maintain personal lists. Clearly name custo
 
 Known/server schedules are source-labelled reusable information, not live spawn observations. Set your actual **server UTC offset** before relying on a server-clock schedule. Selecting a saved observed interval prepares the countdown form; it does not start the timer automatically. Add personal intervals only when you know their basis, and store source/server/region notes so they are not confused with verified schedules.
 
-On expiry, AetherTrail updates its alert area and requests a Windows sound/system notification when enabled and available. **Settings → Display → Test reminder sound** exercises the reminder path. Check Windows volume, mute and notification settings if it is silent. The app must be open: it does not install a reminder service.
+On expiry, AetherTrail updates its alert area and plays your chosen reminder chime when enabled. **Settings → Sounds** offers Starlight, Gentle bells, Woodland notes and Bright chime, separate update/reminder switches and choices, volume, Preview and Mute all app sounds. Muting keeps visual alerts. Reminder sounds close together are coalesced, and unavailable audio fails quietly. Check Windows volume, mute and notification settings if it is silent. The app must be open: it does not install a reminder service.
 
 Running timers preserve an absolute deadline when the app closes. Paused timers preserve their remaining duration. An overdue one-shot timer alerts once after reopening. Missed repeating cycles collapse into one alert instead of producing a flood of old notifications. Timers are personal reminders; they do not guarantee the boss/event is currently available.
 
@@ -115,7 +115,7 @@ Group resets are manual. The app does not assume a game's daily or weekly reset 
 
 Open **Settings → Updates** for scheduled checks, startup prompts and downloads. Background checks default to every 30 minutes while the app is open. You can disable them, change the interval, or choose a daily local-clock time. **Check for updates** requests a check immediately. Source commits and draft releases alone do not create a ready update; a newer public release must have its Windows ZIP fully uploaded.
 
-A quiet glowing dot on **Settings** means a newer release is ready. Clicking it opens Updates. Failed checks keep the last known indicator. Repeated checks preserve unchanged release notes. Scheduled checks do not install, restart, play an update sound or switch your current workspace.
+A quiet glowing dot on **Settings** means a newer release is ready. Clicking it opens Updates. Failed checks keep the last known indicator. Repeated checks preserve unchanged release notes. A soft Starlight chime accompanies discovery of a new version unless muted or disabled in Settings → Sounds. Repeated checks of the same version remain quiet across restarts. Scheduled checks never install, restart or switch your workspace.
 
 Startup update prompts are enabled by default. **Yes** starts the verified download/restart flow; **No** leaves the app open. **Disable startup notifications** turns off only the startup popup. Scheduled checks and the Settings dot remain separate. Re-enable the popup in Updates. If you want a startup check without a popup, enable the startup-check option while leaving the popup disabled.
 
@@ -142,3 +142,7 @@ Continuous player coordinates, reliable all-dungeon terrain coverage, live inven
 ## Fresh install from an older version
 
 Download the latest **AetherTrail-Setup-x64** executable from the public releases page. Close the old app, run Setup and follow its prompts; it installs the complete app and offers to launch it. No manual ZIP extraction is required. Keep saved settings and character progress in AppData. The built-in updater remains available for existing installations; ZIP downloads are optional portable/updater packages.
+
+## Pet details
+
+Pets separates name, ownership, observed level/souls and last-observed evidence into readable columns. Select a row for a detail summary. Unknown values stay unknown; absence does not prove a pet is missing. Pet portraits, mount ownership, acquisition catalogs and Sets are not included in this update.

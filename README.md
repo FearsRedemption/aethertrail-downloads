@@ -1,12 +1,12 @@
 # AetherTrail Windows previews
 
-[Latest update: v0.8.20](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.8.20-preview)
+[Latest update: v0.8.21](https://github.com/FearsRedemption/aethertrail-downloads/releases/tag/v0.8.21-preview)
 
-**Version 0.8.20:** saved minimap/title setup, remembered reading across restarts, automatic separate character profiles, clearer world-entry refresh guidance on Connection/Pets/Regions, and automatic startup of saved terrain/visible-progress tracking with location reading. Network collectible completion is not decoded yet.
+**Version 0.8.21:** four original bundled chimes, a dedicated Sounds page with separate update/reminder choices, preview, volume and mute, quiet repeated update checks, and clearer pet ownership/level/soul/evidence columns with a selected-pet summary. Saved location setup and automatic character profiles are retained. Sealed-dungeon/stronghold automatic completion, pet portraits, mounts and Sets remain unavailable.
 
 **Existing installations:** Settings → Updates → Check for updates → Download update & restart. Installation remains your choice.
 
-**Recommended download: AetherTrail-Setup-x64-v0.8.20-preview.exe.** Run Setup to install the complete application and shortcuts, then choose Launch AetherTrail. No manual ZIP extraction is needed. The ZIP remains an optional portable download and supplies the built-in updater. Windows 10/11 x64; no Python or IDE is needed. This preview is unsigned. Saved settings and character data remain in AppData.
+**Recommended download: AetherTrail-Setup-x64-v0.8.21-preview.exe.** Run Setup to install the complete application and shortcuts, then choose Launch AetherTrail. No manual ZIP extraction is needed. The ZIP remains an optional portable download and supplies the built-in updater. Windows 10/11 x64; no Python or IDE is needed. This preview is unsigned. Saved settings and character data remain in AppData.
 
 Updates clean obsolete application runtime files while retaining settings, crafting plans, timers and character data in their separate app-data folder. Setup does not force-close a running app. Windows Installed apps supports uninstall without deleting saved data.
 
