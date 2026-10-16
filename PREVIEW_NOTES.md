@@ -1,12 +1,11 @@
-AetherTrail v0.9.7 fixes character-profile recovery and collection reporting after world re-entry.
+AetherTrail v0.9.8 adds Settings → Character data and refreshes related views when new supported observations arrive.
 
-- A saved network character link now restores its missing character-list entry. If no selection was saved and exactly one linked character exists, the app restores that character. Explicit selections and multiple-character ambiguity are preserved.
-- Re-entering the world can recover a missing linked profile immediately, select it and refresh existing pet observations. Character selection is saved across restarts.
-- Connection status shows when pet data last refreshed and distinguishes pet import from map-completion observations.
-- Regional rows resolve explicit category summaries as well as individual records. Confirmed 100% sealed-dungeon completion no longer leaves those native dungeon rows labelled Unknown. Teleport completion summaries are also supported when explicitly confirmed; partial lists never imply full completion.
-- Category summaries are shown separately from unrelated unknown collectibles, and summary rows no longer inflate item totals. Evidence sources remain visible. Newer individual missing observations override older complete summaries.
-- Repeated screen observations refresh their last-confirmed timestamp at bounded intervals; older observations cannot overwrite newer data.
+- Review saved profiles, entry counts and last network observation times.
+- Reset one character, delete an old profile, reset an unreadable progress file, or start over with all character data. Each action requires confirmation, can be cancelled while pending, and applies after closing all AetherTrail windows and reopening. Original data is backed up locally first.
+- Reset keeps a profile and identity link; delete removes them. Preferences, timers, recipes, manual material counts, calibration and imported references are preserved.
+- New supported Npcap observations refresh reporting and the data overview without reloading the map. Newer verified network evidence takes priority over older screen evidence for the same item.
+- Includes the previously unpublished regional-summary refresh fix: confirmed summaries can appear even before the hosted-map checklist is ready.
 
-This retains v0.9.6 layout, ownership sorting, map-highlight and tracking fixes. Npcap imports character identity and supported pet data; this release does not add network decoding of teleport, dungeon, stronghold or feather ownership. Strongholds remain regional completion because the hosted map has no native stronghold completion-marker type. Unseen feathers remain unknown rather than being inferred from another category's 100% summary.
+Npcap currently imports identity and pet data. This release does not add network decoding of Kibelisk, dungeon, stronghold, feather or inventory ownership. Supported screen observations and stored evidence remain separate.
 
-Download **AetherTrail-Setup-x64-v0.9.7-preview.exe**, or choose the built-in update action. Settings and character records are retained. No manual ZIP extraction is required for Setup; the ZIP supports the updater and optional portable use.
+Download **AetherTrail-Setup-x64-v0.9.8-preview.exe**. The ZIP remains available for the built-in updater and portable use. Update installation retains saved data; cleanup runs only if the user explicitly schedules it in Character data.

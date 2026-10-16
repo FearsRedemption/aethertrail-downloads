@@ -172,3 +172,19 @@ Area following should frame the detected geographic location without typing into
 With a valid saved network link but a missing settings character-list entry, reopen the app: the linked profile should be recovered. With one saved character and no saved selection it should be selected; multiple characters should not select an arbitrary profile. Re-entering the world must select the exact linked character and update existing pet timestamps/details. Restart and verify that selection remains saved.
 
 In Regions, a confirmed 100% sealed-dungeon summary should resolve native sealed entries as Collected without requiring name matches. An unrelated feather should remain Unknown. Later individual Missing observations override older summaries. Summary rows must not inflate collectible counts. Connection status must identify pet-data freshness rather than imply a full map snapshot arrived.
+
+
+## Stored character data and fresh observations
+
+New supported network observations automatically refresh their related views, regional reporting and the stored-data overview. The map waits for its checklist bridge to be ready; incoming observations do not reload the map. Newer verified network evidence takes priority over older saved screen evidence for the same item. Npcap currently imports character identity and pet progress. This does not add network decoding of Kibelisks, dungeons, strongholds, feathers or inventory.
+
+Open **Settings → Character data** to review saved profiles, entry counts, last network observation times and unreadable progress files. **Refresh stored-data view** updates the displayed records; it does not make the game resend a login snapshot. To receive login data again, leave Connection on Auto and return to character selection, then enter the character.
+
+- **Reset selected character** clears its observations, Closet notes and hosted-map marks, while keeping the profile and game identity link.
+- **Delete selected profile** also removes the profile and identity link. The built-in default profile can be reset but cannot be removed.
+- **Reset unreadable file** clears only the selected progress file for all characters represented in that file. This is useful when a shared file is corrupt and cannot safely be edited for one character.
+- **Start over: all character data** clears all profiles, game links, observations, Closet notes and hosted-map marks. It keeps the default profile.
+
+Every cleanup requires confirmation and is queued. Close **all** AetherTrail windows, then reopen to apply it. **Cancel pending cleanup** cancels it before that next launch. The app does not restart itself for cleanup. Original affected files and browser progress are backed up under the local data folder’s character-data-backups directory before active records are cleared; **Open data backups** opens that location. If backup or validation fails, the app retains the pending action and reports the problem instead of silently discarding data.
+
+Display settings, update preferences, timers, personal recipes, manual material quantities, calibration and imported references are retained. New supported observations can repopulate reset data; choose Connection → Off if you want to keep network collection paused. Unseen items remain Unknown. Cleanup does not change game progress.
