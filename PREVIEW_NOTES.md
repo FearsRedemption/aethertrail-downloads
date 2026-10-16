@@ -1,13 +1,12 @@
-AetherTrail v0.9.6 improves collection persistence, location following and wide-window layouts.
+AetherTrail v0.9.7 fixes character-profile recovery and collection reporting after world re-entry.
 
-- Pets and Materials expand across the available workspace to show more cards. Pet model/details and material-family panes remain adjustable.
-- Pets default to Owned, then Missing, then Unknown, alphabetically within each group. Selection and ownership artwork remain intact.
-- Automatic area following frames the detected location without clicking a search result or highlighting the entire area yellow. Camera-only URL changes no longer discard world tracking or area focus. Inner-area zoom and supported dungeon route switching remain available.
-- Map progress waits for the hosted collection layer to be ready and retries after loading or changing regions. Saved positive screen completions restore for the selected character and region.
-- Teleport/Kibelisk lists continue syncing without a reliable terrain match. Confirmed rows are saved even when the map marker is already checked; later observations can update earlier states.
-- Older saved teleport sync records are recovered only when character, marker ID and name match a unique cached regional entry.
-- Saved explicit 100% Sealed Dungeon summaries restore native sealed markers without requiring translated names to match. Newer explicit missing observations take precedence. Stronghold summaries remain regional progress because the hosted map has no native stronghold completion-marker type.
+- A saved network character link now restores its missing character-list entry. If no selection was saved and exactly one linked character exists, the app restores that character. Explicit selections and multiple-character ambiguity are preserved.
+- Re-entering the world can recover a missing linked profile immediately, select it and refresh existing pet observations. Character selection is saved across restarts.
+- Connection status shows when pet data last refreshed and distinguishes pet import from map-completion observations.
+- Regional rows resolve explicit category summaries as well as individual records. Confirmed 100% sealed-dungeon completion no longer leaves those native dungeon rows labelled Unknown. Teleport completion summaries are also supported when explicitly confirmed; partial lists never imply full completion.
+- Category summaries are shown separately from unrelated unknown collectibles, and summary rows no longer inflate item totals. Evidence sources remain visible. Newer individual missing observations override older complete summaries.
+- Repeated screen observations refresh their last-confirmed timestamp at bounded intervals; older observations cannot overwrite newer data.
 
-Collection reading is continuous while location reading runs; only visible, confidently read states are imported. Npcap currently decodes character identity and pets, not teleport/dungeon/stronghold completion. This release does not claim a new network collection decoder or infer completion from disappearing icons. Existing v0.9.5 crafting entry, Closet mixing and pet 3D previews are retained.
+This retains v0.9.6 layout, ownership sorting, map-highlight and tracking fixes. Npcap imports character identity and supported pet data; this release does not add network decoding of teleport, dungeon, stronghold or feather ownership. Strongholds remain regional completion because the hosted map has no native stronghold completion-marker type. Unseen feathers remain unknown rather than being inferred from another category's 100% summary.
 
-Download **AetherTrail-Setup-x64-v0.9.6-preview.exe** for a normal installation. Existing users can choose the built-in update action. Settings and character data are retained. The ZIP is provided for the updater and optional portable use; manual extraction is not required for Setup.
+Download **AetherTrail-Setup-x64-v0.9.7-preview.exe**, or choose the built-in update action. Settings and character records are retained. No manual ZIP extraction is required for Setup; the ZIP supports the updater and optional portable use.

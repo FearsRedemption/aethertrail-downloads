@@ -2,7 +2,7 @@
 
 Download: https://github.com/FearsRedemption/aethertrail-downloads/releases
 
-Recommended download: **AetherTrail-Setup-x64-v0.9.6-preview.exe**. Close the old app and run Setup; no manual ZIP extraction is required. Setup installs the complete runtime and shortcuts and offers to launch AetherTrail. Keep saved settings and character data in AppData when refreshing old program files. The ZIP is retained for the built-in updater and optional portable use. Windows 10/11 x64; no Python or IDE is needed. The app opens maximized. Internet is required for the hosted map; OCR runs locally.
+Recommended download: **AetherTrail-Setup-x64-v0.9.7-preview.exe**. Close the old app and run Setup; no manual ZIP extraction is required. Setup installs the complete runtime and shortcuts and offers to launch AetherTrail. Keep saved settings and character data in AppData when refreshing old program files. The ZIP is retained for the built-in updater and optional portable use. Windows 10/11 x64; no Python or IDE is needed. The app opens maximized. Internet is required for the hosted map; OCR runs locally.
 
 Navigation keeps its controls together and wraps them when larger text needs more room. Character progress and Tracking setup and help are in Map tools. The capture helper is built into Aethertrail; Npcap is a separate driver, linked from Settings → Connection. No Wireshark/helper app needs to run. Npcap is not needed for screen area reading. Continuous network player position remains unverified and disabled.
 
@@ -165,3 +165,10 @@ Resize Pets and Materials: cards should use the extra width while the side panes
 With location reading running, the game teleport binding list should continue syncing without a terrain match. Repeated confirmed rows save even if the companion marker already has a check. Change region or reload Navigation: saved positive observations should return after the hosted collection layer becomes ready. A 100% Sealed Dungeon summary restores native sealed markers; newer explicit missing observations remain protected. Stronghold completion is regional because the hosted map lacks native completion markers for it. Each character uses separate evidence.
 
 Area following should frame the detected geographic location without typing into search, clicking a result or turning the whole area yellow. Existing dungeon entry/exit routing and minimap configuration persistence should remain intact. These are screen-evidence checks; Npcap collectible decoding is not newly supported.
+
+
+## v0.9.7 character refresh checks
+
+With a valid saved network link but a missing settings character-list entry, reopen the app: the linked profile should be recovered. With one saved character and no saved selection it should be selected; multiple characters should not select an arbitrary profile. Re-entering the world must select the exact linked character and update existing pet timestamps/details. Restart and verify that selection remains saved.
+
+In Regions, a confirmed 100% sealed-dungeon summary should resolve native sealed entries as Collected without requiring name matches. An unrelated feather should remain Unknown. Later individual Missing observations override older summaries. Summary rows must not inflate collectible counts. Connection status must identify pet-data freshness rather than imply a full map snapshot arrived.

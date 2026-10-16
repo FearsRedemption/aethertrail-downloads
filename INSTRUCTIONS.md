@@ -193,3 +193,10 @@ Search inputs and forms have bounded widths on large windows, and utility worksp
 
 ### Pet and mount 3D previews
 Select a pet in Pets to view its creature model. Drag to rotate, scroll to zoom, and use Reset view to center it. Verified models are available for 197 of the 207 catalog pets; the others keep their portrait. Load 3D retries a failed download. The app downloads only the selected model from AetherTrail’s public repository, checks its checksum, and renders it locally. Unknown and Missing pets stay grayscale until ownership is observed. These models use the creature’s rest pose: a separate small-pet form or mounted rider is not available. The preview does not establish a separate mount unlock.
+
+
+## Character refresh and recovered profiles (v0.9.7)
+
+World entry refreshes supported pet records for the exact linked character. Connection shows the pet import time. A saved character link can rebuild a missing character-list entry; a sole cached character is selected when no earlier selection was saved. Multiple linked characters remain separate. Cached observations remain labelled last known until a new import arrives.
+
+Regions shows each saved category summary separately. Explicit full completion resolves that category's individual native entries; it does not establish ownership of feathers or other unrelated categories. Newer explicit missing records override older summaries. A summary may come from a game screen or an explicit user confirmation: inspect its displayed source. Ordinary partial teleport lists do not establish 100% completion. Npcap pet import is separate from map collectible decoding.
