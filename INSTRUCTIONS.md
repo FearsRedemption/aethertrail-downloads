@@ -216,3 +216,14 @@ Open **Settings → Character data** to review saved profiles, entry counts, las
 Every cleanup requires confirmation and is queued. Close **all** AetherTrail windows, then reopen to apply it. **Cancel pending cleanup** cancels it before that next launch. The app does not restart itself for cleanup. Original affected files and browser progress are backed up under the local data folder’s character-data-backups directory before active records are cleared; **Open data backups** opens that location. If backup or validation fails, the app retains the pending action and reports the problem instead of silently discarding data.
 
 Display settings, update preferences, timers, personal recipes, manual material quantities, calibration and imported references are retained. New supported observations can repopulate reset data; choose Connection → Off if you want to keep network collection paused. Unseen items remain Unknown. Cleanup does not change game progress.
+
+
+## Cleanup backups and table preferences (v0.9.9)
+
+In **Settings → Character data**, choose **Restore a cleanup backup** to schedule recovery from an earlier cleanup. Close every app window and reopen to apply it. The app refuses unreadable backup files and backs up affected current data before restoring. Shared progress files can contain multiple characters, so restoring them may undo their newer progress too. Current preferences, timers, recipes, manual materials and calibration are retained. A pending restore can be cancelled before restarting.
+
+Table column widths, order, sorting and header filters are remembered between launches. Use the header menu to clear filters or restore column order if records appear hidden.
+
+Only one updated app process may use a data folder at a time. Close older builds before launching an updated copy; older versions cannot honor the new process lock.
+
+A failed or cancelled update removes only its own temporary download folder. Previously abandoned folders are retained to avoid interfering with active updater jobs.
